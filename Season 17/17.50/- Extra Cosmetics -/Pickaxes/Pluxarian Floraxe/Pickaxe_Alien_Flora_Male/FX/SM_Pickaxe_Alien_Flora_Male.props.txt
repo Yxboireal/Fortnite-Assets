@@ -1,0 +1,38 @@
+Materials[2] =
+{
+    Materials[0] = Material3'/Game/Weapons/FORT_Melee/Pickaxe_Alien_Flora_Male/FX/M_Pickaxe_Alien_Flora_Male_SpawnMs.M_Pickaxe_Alien_Flora_Male_SpawnMs'
+    Materials[1] = Material3'/Game/Weapons/FORT_Melee/Pickaxe_Alien_Flora_Male/FX/M_Pickaxe_Alien_Flora_Male_SpawnMs.M_Pickaxe_Alien_Flora_Male_SpawnMs'
+}
+SourceModels[0] = {}
+StaticMaterials[2] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = Material3'/Game/Weapons/FORT_Melee/Pickaxe_Alien_Flora_Male/FX/M_Pickaxe_Alien_Flora_Male_SpawnMs.M_Pickaxe_Alien_Flora_Male_SpawnMs'
+        MaterialSlotName = WorldGridMaterial
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 0, 0, 0, 0 }
+        }
+    }
+    StaticMaterials[1] =
+    {
+        MaterialInterface = Material3'/Game/Weapons/FORT_Melee/Pickaxe_Alien_Flora_Male/FX/M_Pickaxe_Alien_Flora_Male_SpawnMs.M_Pickaxe_Alien_Flora_Male_SpawnMs'
+        MaterialSlotName = Material #25
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 262.813, 32.3445, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=-31.9814, Y=-0.116694, Z=0.515087 }
+    BoxExtent = { X=32.4449, Y=10.6785, Z=10.578 }
+    SphereRadius = 34.0812
+}

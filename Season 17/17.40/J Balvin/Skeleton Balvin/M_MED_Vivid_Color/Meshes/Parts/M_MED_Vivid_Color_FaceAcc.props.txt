@@ -1,0 +1,84 @@
+Skeleton = Skeleton'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Vivid_Color/Meshes/Parts/M_MED_Vivid_Color_FaceAcc_Skeleton.M_MED_Vivid_Color_FaceAcc_Skeleton'
+bHasVertexColors = false
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[11] =
+        {
+            BonesToRemove[0] = { BoneName=upperarm_twist_01_l }
+            BonesToRemove[1] = { BoneName=dyn_upperarm_l }
+            BonesToRemove[2] = { BoneName=dyn_scapula_l_base }
+            BonesToRemove[3] = { BoneName=dyn_scapula_l }
+            BonesToRemove[4] = { BoneName=upperarm_twist_01_r }
+            BonesToRemove[5] = { BoneName=dyn_upperarm_r }
+            BonesToRemove[6] = { BoneName=dyn_scapula_r_base }
+            BonesToRemove[7] = { BoneName=dyn_scapula_r }
+            BonesToRemove[8] = { BoneName=dyn_crown }
+            BonesToRemove[9] = { BoneName=faceAttach }
+            BonesToRemove[10] = { BoneName=C_jaw }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[11] =
+        {
+            BonesToRemove[0] = { BoneName=upperarm_twist_01_l }
+            BonesToRemove[1] = { BoneName=dyn_upperarm_l }
+            BonesToRemove[2] = { BoneName=dyn_scapula_l_base }
+            BonesToRemove[3] = { BoneName=dyn_scapula_l }
+            BonesToRemove[4] = { BoneName=upperarm_twist_01_r }
+            BonesToRemove[5] = { BoneName=dyn_upperarm_r }
+            BonesToRemove[6] = { BoneName=dyn_scapula_r_base }
+            BonesToRemove[7] = { BoneName=dyn_scapula_r }
+            BonesToRemove[8] = { BoneName=dyn_crown }
+            BonesToRemove[9] = { BoneName=faceAttach }
+            BonesToRemove[10] = { BoneName=C_jaw }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

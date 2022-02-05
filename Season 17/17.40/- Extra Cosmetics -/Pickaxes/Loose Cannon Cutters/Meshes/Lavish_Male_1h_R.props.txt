@@ -1,0 +1,74 @@
+Skeleton = None
+bHasVertexColors = false
+LODInfo[3] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = "D:/Build/FortressArtSource/assets/Pickaxe/Lavish_Male_1h/Model/Export/Lavish_Male_1h_R.fbx"
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[3] =
+{
+    Sockets[0] =
+    {
+        SocketName = SwingFX
+        BoneName = Melee_TwoHanded_Handle
+        RelativeLocation = { X=-1.85717e-06, Y=-0.12746, Z=40.851 }
+        RelativeRotation = { Yaw=1119092736, Pitch=0, Roll=-2084552374 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[1] =
+    {
+        SocketName = AnimTrail_01
+        BoneName = Melee_TwoHanded_Handle
+        RelativeLocation = { X=-0.000473459, Y=-0.8443, Z=41.7855 }
+        RelativeRotation = { Yaw=-1028390698, Pitch=0, Roll=-2108871293 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[2] =
+    {
+        SocketName = AnimTrail_02
+        BoneName = Melee_TwoHanded_Handle
+        RelativeLocation = { X=-0.000616821, Y=1.83999, Z=9.70976 }
+        RelativeRotation = { Yaw=-1028390646, Pitch=0, Roll=-2108218694 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[3] = { , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

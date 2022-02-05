@@ -1,0 +1,346 @@
+Skeleton = Skeleton'/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton.F_Med_Soldier_01_Skeleton'
+bHasVertexColors = true
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[85] =
+        {
+            BonesToRemove[0] = { BoneName=index_metacarpal_l }
+            BonesToRemove[1] = { BoneName=index_01_l }
+            BonesToRemove[2] = { BoneName=index_02_l }
+            BonesToRemove[3] = { BoneName=index_03_l }
+            BonesToRemove[4] = { BoneName=middle_metacarpal_l }
+            BonesToRemove[5] = { BoneName=middle_01_l }
+            BonesToRemove[6] = { BoneName=middle_02_l }
+            BonesToRemove[7] = { BoneName=middle_03_l }
+            BonesToRemove[8] = { BoneName=pinky_metacarpal_l }
+            BonesToRemove[9] = { BoneName=pinky_01_l }
+            BonesToRemove[10] = { BoneName=pinky_02_l }
+            BonesToRemove[11] = { BoneName=pinky_03_l }
+            BonesToRemove[12] = { BoneName=ring_metacarpal_l }
+            BonesToRemove[13] = { BoneName=ring_01_l }
+            BonesToRemove[14] = { BoneName=ring_02_l }
+            BonesToRemove[15] = { BoneName=ring_03_l }
+            BonesToRemove[16] = { BoneName=thumb_01_l }
+            BonesToRemove[17] = { BoneName=thumb_02_l }
+            BonesToRemove[18] = { BoneName=thumb_03_l }
+            BonesToRemove[19] = { BoneName=lowerarm_twist_01_l }
+            BonesToRemove[20] = { BoneName=lowerarm_twist_02_l }
+            BonesToRemove[21] = { BoneName=upperarm_twist_01_l }
+            BonesToRemove[22] = { BoneName=upperarm_twist_02_l }
+            BonesToRemove[23] = { BoneName=index_metacarpal_r }
+            BonesToRemove[24] = { BoneName=index_01_r }
+            BonesToRemove[25] = { BoneName=index_02_r }
+            BonesToRemove[26] = { BoneName=index_03_r }
+            BonesToRemove[27] = { BoneName=middle_metacarpal_r }
+            BonesToRemove[28] = { BoneName=middle_01_r }
+            BonesToRemove[29] = { BoneName=middle_02_r }
+            BonesToRemove[30] = { BoneName=middle_03_r }
+            BonesToRemove[31] = { BoneName=pinky_metacarpal_r }
+            BonesToRemove[32] = { BoneName=pinky_01_r }
+            BonesToRemove[33] = { BoneName=pinky_02_r }
+            BonesToRemove[34] = { BoneName=pinky_03_r }
+            BonesToRemove[35] = { BoneName=ring_metacarpal_r }
+            BonesToRemove[36] = { BoneName=ring_01_r }
+            BonesToRemove[37] = { BoneName=ring_02_r }
+            BonesToRemove[38] = { BoneName=ring_03_r }
+            BonesToRemove[39] = { BoneName=thumb_01_r }
+            BonesToRemove[40] = { BoneName=thumb_02_r }
+            BonesToRemove[41] = { BoneName=thumb_03_r }
+            BonesToRemove[42] = { BoneName=lowerarm_twist_01_r }
+            BonesToRemove[43] = { BoneName=lowerarm_twist_02_r }
+            BonesToRemove[44] = { BoneName=upperarm_twist_01_r }
+            BonesToRemove[45] = { BoneName=dyn_arm_r_bandana }
+            BonesToRemove[46] = { BoneName=upperarm_twist_02_r }
+            BonesToRemove[47] = { BoneName=dyn_tags }
+            BonesToRemove[48] = { BoneName=dyn_bang_01 }
+            BonesToRemove[49] = { BoneName=dyn_bang_02 }
+            BonesToRemove[50] = { BoneName=dyn_hair_top }
+            BonesToRemove[51] = { BoneName=hair_1 }
+            BonesToRemove[52] = { BoneName=faceAttach }
+            BonesToRemove[53] = { BoneName=C_brow_mid }
+            BonesToRemove[54] = { BoneName=L_brow_mid }
+            BonesToRemove[55] = { BoneName=L_brow_outer }
+            BonesToRemove[56] = { BoneName=L_cheek_inner }
+            BonesToRemove[57] = { BoneName=C_lip_upper_mid }
+            BonesToRemove[58] = { BoneName=L_lip_upper_outer }
+            BonesToRemove[59] = { BoneName=L_lip_corner }
+            BonesToRemove[60] = { BoneName=C_nose_bridge }
+            BonesToRemove[61] = { BoneName=R_brow_mid }
+            BonesToRemove[62] = { BoneName=R_brow_outer }
+            BonesToRemove[63] = { BoneName=R_cheek_inner }
+            BonesToRemove[64] = { BoneName=R_lip_corner }
+            BonesToRemove[65] = { BoneName=C_jaw }
+            BonesToRemove[66] = { BoneName=L_lip_lower_outer }
+            BonesToRemove[67] = { BoneName=C_lip_lower_mid }
+            BonesToRemove[68] = { BoneName=R_lip_lower_outer }
+            BonesToRemove[69] = { BoneName=teeth_lower }
+            BonesToRemove[70] = { BoneName=tongue }
+            BonesToRemove[71] = { BoneName=R_eye }
+            BonesToRemove[72] = { BoneName=R_eye_lid_upper_mid }
+            BonesToRemove[73] = { BoneName=R_eye_lid_lower_mid }
+            BonesToRemove[74] = { BoneName=L_eye }
+            BonesToRemove[75] = { BoneName=L_eye_lid_upper_mid }
+            BonesToRemove[76] = { BoneName=L_eye_lid_lower_mid }
+            BonesToRemove[77] = { BoneName=teeth_upper }
+            BonesToRemove[78] = { BoneName=R_lip_upper_outer }
+            BonesToRemove[79] = { BoneName=calf_twist_01_l }
+            BonesToRemove[80] = { BoneName=calf_twist_02_l }
+            BonesToRemove[81] = { BoneName=thigh_twist_01_l }
+            BonesToRemove[82] = { BoneName=calf_twist_01_r }
+            BonesToRemove[83] = { BoneName=calf_twist_02_r }
+            BonesToRemove[84] = { BoneName=thigh_twist_01_r }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[85] =
+        {
+            BonesToRemove[0] = { BoneName=index_metacarpal_l }
+            BonesToRemove[1] = { BoneName=index_01_l }
+            BonesToRemove[2] = { BoneName=index_02_l }
+            BonesToRemove[3] = { BoneName=index_03_l }
+            BonesToRemove[4] = { BoneName=middle_metacarpal_l }
+            BonesToRemove[5] = { BoneName=middle_01_l }
+            BonesToRemove[6] = { BoneName=middle_02_l }
+            BonesToRemove[7] = { BoneName=middle_03_l }
+            BonesToRemove[8] = { BoneName=pinky_metacarpal_l }
+            BonesToRemove[9] = { BoneName=pinky_01_l }
+            BonesToRemove[10] = { BoneName=pinky_02_l }
+            BonesToRemove[11] = { BoneName=pinky_03_l }
+            BonesToRemove[12] = { BoneName=ring_metacarpal_l }
+            BonesToRemove[13] = { BoneName=ring_01_l }
+            BonesToRemove[14] = { BoneName=ring_02_l }
+            BonesToRemove[15] = { BoneName=ring_03_l }
+            BonesToRemove[16] = { BoneName=thumb_01_l }
+            BonesToRemove[17] = { BoneName=thumb_02_l }
+            BonesToRemove[18] = { BoneName=thumb_03_l }
+            BonesToRemove[19] = { BoneName=lowerarm_twist_01_l }
+            BonesToRemove[20] = { BoneName=lowerarm_twist_02_l }
+            BonesToRemove[21] = { BoneName=upperarm_twist_01_l }
+            BonesToRemove[22] = { BoneName=upperarm_twist_02_l }
+            BonesToRemove[23] = { BoneName=index_metacarpal_r }
+            BonesToRemove[24] = { BoneName=index_01_r }
+            BonesToRemove[25] = { BoneName=index_02_r }
+            BonesToRemove[26] = { BoneName=index_03_r }
+            BonesToRemove[27] = { BoneName=middle_metacarpal_r }
+            BonesToRemove[28] = { BoneName=middle_01_r }
+            BonesToRemove[29] = { BoneName=middle_02_r }
+            BonesToRemove[30] = { BoneName=middle_03_r }
+            BonesToRemove[31] = { BoneName=pinky_metacarpal_r }
+            BonesToRemove[32] = { BoneName=pinky_01_r }
+            BonesToRemove[33] = { BoneName=pinky_02_r }
+            BonesToRemove[34] = { BoneName=pinky_03_r }
+            BonesToRemove[35] = { BoneName=ring_metacarpal_r }
+            BonesToRemove[36] = { BoneName=ring_01_r }
+            BonesToRemove[37] = { BoneName=ring_02_r }
+            BonesToRemove[38] = { BoneName=ring_03_r }
+            BonesToRemove[39] = { BoneName=thumb_01_r }
+            BonesToRemove[40] = { BoneName=thumb_02_r }
+            BonesToRemove[41] = { BoneName=thumb_03_r }
+            BonesToRemove[42] = { BoneName=lowerarm_twist_01_r }
+            BonesToRemove[43] = { BoneName=lowerarm_twist_02_r }
+            BonesToRemove[44] = { BoneName=upperarm_twist_01_r }
+            BonesToRemove[45] = { BoneName=dyn_arm_r_bandana }
+            BonesToRemove[46] = { BoneName=upperarm_twist_02_r }
+            BonesToRemove[47] = { BoneName=dyn_tags }
+            BonesToRemove[48] = { BoneName=dyn_bang_01 }
+            BonesToRemove[49] = { BoneName=dyn_bang_02 }
+            BonesToRemove[50] = { BoneName=dyn_hair_top }
+            BonesToRemove[51] = { BoneName=hair_1 }
+            BonesToRemove[52] = { BoneName=faceAttach }
+            BonesToRemove[53] = { BoneName=C_brow_mid }
+            BonesToRemove[54] = { BoneName=L_brow_mid }
+            BonesToRemove[55] = { BoneName=L_brow_outer }
+            BonesToRemove[56] = { BoneName=L_cheek_inner }
+            BonesToRemove[57] = { BoneName=C_lip_upper_mid }
+            BonesToRemove[58] = { BoneName=L_lip_upper_outer }
+            BonesToRemove[59] = { BoneName=L_lip_corner }
+            BonesToRemove[60] = { BoneName=C_nose_bridge }
+            BonesToRemove[61] = { BoneName=R_brow_mid }
+            BonesToRemove[62] = { BoneName=R_brow_outer }
+            BonesToRemove[63] = { BoneName=R_cheek_inner }
+            BonesToRemove[64] = { BoneName=R_lip_corner }
+            BonesToRemove[65] = { BoneName=C_jaw }
+            BonesToRemove[66] = { BoneName=L_lip_lower_outer }
+            BonesToRemove[67] = { BoneName=C_lip_lower_mid }
+            BonesToRemove[68] = { BoneName=R_lip_lower_outer }
+            BonesToRemove[69] = { BoneName=teeth_lower }
+            BonesToRemove[70] = { BoneName=tongue }
+            BonesToRemove[71] = { BoneName=R_eye }
+            BonesToRemove[72] = { BoneName=R_eye_lid_upper_mid }
+            BonesToRemove[73] = { BoneName=R_eye_lid_lower_mid }
+            BonesToRemove[74] = { BoneName=L_eye }
+            BonesToRemove[75] = { BoneName=L_eye_lid_upper_mid }
+            BonesToRemove[76] = { BoneName=L_eye_lid_lower_mid }
+            BonesToRemove[77] = { BoneName=teeth_upper }
+            BonesToRemove[78] = { BoneName=R_lip_upper_outer }
+            BonesToRemove[79] = { BoneName=calf_twist_01_l }
+            BonesToRemove[80] = { BoneName=calf_twist_02_l }
+            BonesToRemove[81] = { BoneName=thigh_twist_01_l }
+            BonesToRemove[82] = { BoneName=calf_twist_01_r }
+            BonesToRemove[83] = { BoneName=calf_twist_02_r }
+            BonesToRemove[84] = { BoneName=thigh_twist_01_r }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[9] =
+{
+    Sockets[0] =
+    {
+        SocketName = Tail
+        BoneName = pelvis
+        RelativeLocation = { X=2.94952, Y=-14.6535, Z=0.125649 }
+        RelativeRotation =
+        {
+            Yaw = -1028638654
+            Pitch = -1028634589
+            Roll = 1122363889
+        }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[1] =
+    {
+        SocketName = FX_Ginger_01
+        BoneName = upperarm_r
+        RelativeLocation = { X=0.875398, Y=-3.74651, Z=-2.67309 }
+        RelativeRotation =
+        {
+            Yaw = -1031339143
+            Pitch = -1038254222
+            Roll = 1119092847
+        }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[2] =
+    {
+        SocketName = FX_Ginger_02
+        BoneName = upperarm_r
+        RelativeLocation = { X=4.35431, Y=0.784708, Z=-1.26884 }
+        RelativeRotation =
+        {
+            Yaw = -1057884339
+            Pitch = -1039475665
+            Roll = 1092287798
+        }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[3] =
+    {
+        SocketName = FX_Ginger_03
+        BoneName = upperarm_r
+        RelativeLocation = { X=5.71464, Y=-2.27255, Z=0.399024 }
+        RelativeRotation =
+        {
+            Yaw = -1043774785
+            Pitch = -1043428398
+            Roll = 1094254401
+        }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[4] =
+    {
+        SocketName = FX_Ginger_04
+        BoneName = upperarm_r
+        RelativeLocation = { X=1.43285, Y=3.00583, Z=-2.21676 }
+        RelativeRotation =
+        {
+            Yaw = 1116585652
+            Pitch = -1038523435
+            Roll = -1032639037
+        }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[5] =
+    {
+        SocketName = FX_GingerHead
+        BoneName = head
+        RelativeLocation = { X=10.5828, Y=6.13177, Z=4.69917 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[6] =
+    {
+        SocketName = FX_Ginger_05
+        BoneName = thigh_twist_01_r
+        RelativeLocation = { X=-6.56898, Y=-7.17441, Z=4.47691 }
+        RelativeRotation =
+        {
+            Yaw = -1028021874
+            Pitch = 1109967053
+            Roll = -1028390611
+        }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[7] =
+    {
+        SocketName = FX_Ginger_06
+        BoneName = thigh_twist_01_r
+        RelativeLocation = { X=-10.863, Y=-5.99464, Z=7.58031 }
+        RelativeRotation =
+        {
+            Yaw = -1026599420
+            Pitch = 1110259164
+            Roll = -1026569794
+        }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[8] =
+    {
+        SocketName = FX_Ginger_07
+        BoneName = thigh_twist_01_r
+        RelativeLocation = { X=-18.7382, Y=-4.41203, Z=8.68848 }
+        RelativeRotation =
+        {
+            Yaw = 1119092675
+            Pitch = 1117986677
+            Roll = 1119092675
+        }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

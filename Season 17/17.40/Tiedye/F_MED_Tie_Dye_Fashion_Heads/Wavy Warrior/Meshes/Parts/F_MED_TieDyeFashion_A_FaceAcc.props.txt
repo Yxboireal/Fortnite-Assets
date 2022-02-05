@@ -1,0 +1,65 @@
+Skeleton = Skeleton'/Game/Characters/Player/Female/Medium/Bodies/F_MED_Tie_Dye_Fashion/Meshes/Parts/A/F_MED_TieDyeFashion_A_FaceAcc_Skeleton.F_MED_TieDyeFashion_A_FaceAcc_Skeleton'
+bHasVertexColors = false
+LODInfo[3] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[15] =
+        {
+            BonesToRemove[0] = { BoneName=dyn_hair_08 }
+            BonesToRemove[1] = { BoneName=dyn_hair_07 }
+            BonesToRemove[2] = { BoneName=dyn_hair_06 }
+            BonesToRemove[3] = { BoneName=dyn_hair_01 }
+            BonesToRemove[4] = { BoneName=dyn_front_hair_a }
+            BonesToRemove[5] = { BoneName=dyn_front_hair_b }
+            BonesToRemove[6] = { BoneName=dyn_hair_05 }
+            BonesToRemove[7] = { BoneName=dyn_hair_04 }
+            BonesToRemove[8] = { BoneName=dyn_hair_03 }
+            BonesToRemove[9] = { BoneName=dyn_side_hair_a }
+            BonesToRemove[10] = { BoneName=dyn_side_hair_b }
+            BonesToRemove[11] = { BoneName=dyn_hair_02 }
+            BonesToRemove[12] = { BoneName=dyn_back_hair_a }
+            BonesToRemove[13] = { BoneName=dyn_back_hair_b }
+            BonesToRemove[14] = { BoneName=dyn_hair_09 }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[3] = { , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

@@ -1,0 +1,42 @@
+Parent = Material3'/Game/Weapons/FORT_Melee/Pickaxe_Celestial/FX/M_Pickaxe_Celestial02.M_Pickaxe_Celestial02'
+ScalarParameterValues[0] = {}
+TextureParameterValues[0] = {}
+VectorParameterValues[0] = {}
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Additive (3)
+    bOverride_TwoSided = false
+    TwoSided = true
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0.3333
+}
+StaticParameters =
+{
+    StaticSwitchParameters[0] = {}
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[2] =
+{
+    TextureStreamingData[0] =
+    {
+        SamplingScale = 1.46875
+        UVChannelIndex = 0
+        TextureName = T_New_Soft_Flair
+    }
+    TextureStreamingData[1] =
+    {
+        SamplingScale = 0.5625
+        UVChannelIndex = 0
+        TextureName = T_Starburst
+    }
+}

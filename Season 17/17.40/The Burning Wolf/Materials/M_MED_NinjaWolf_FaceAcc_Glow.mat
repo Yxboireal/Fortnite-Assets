@@ -1,0 +1,6 @@
+Diffuse=T_M_MED_NinjaWolf_FacAcc_Glow_D
+Normal=T_M_MED_NinjaWolf_FacAcc_N
+SpecPower=T_M_MED_NinjaWolf_FacAcc_Glow_S
+Emissive=T_M_MED_NinjaWolf_FacAcc_Glow_E
+Other[0]=T_M_MED_NinjaWolf_FacAcc_Glow_M
+Other[1]=T_M_MED_NinjaWolf_FacAcc_FX

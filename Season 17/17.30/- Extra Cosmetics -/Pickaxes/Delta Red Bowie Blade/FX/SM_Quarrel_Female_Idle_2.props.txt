@@ -1,0 +1,26 @@
+Materials[1] =
+{
+    Materials[0] = Material3'/Game/Weapons/FORT_Melee/Pickaxe_Quarrel_Female/FX/M_Quarrel_Idle.M_Quarrel_Idle'
+}
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = Material3'/Game/Weapons/FORT_Melee/Pickaxe_Quarrel_Female/FX/M_Quarrel_Idle.M_Quarrel_Idle'
+        MaterialSlotName = WorldGridMaterial
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 57.7434, 0, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=3.8147e-06, Y=0, Z=-7.62939e-06 }
+    BoxExtent = { X=41.8008, Y=38.0386, Z=41.8008 }
+    SphereRadius = 56.5176
+}

@@ -1,0 +1,26 @@
+Materials[1] =
+{
+    Materials[0] = MaterialInstanceConstant'/Game/Weapons/FORT_Melee/Pickaxe_Quarrel_Female/FX/MI_Emote_Quarrel_Female_Kick_HeilxTrail.MI_Emote_Quarrel_Female_Kick_HeilxTrail'
+}
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = MaterialInstanceConstant'/Game/Weapons/FORT_Melee/Pickaxe_Quarrel_Female/FX/MI_Emote_Quarrel_Female_Kick_HeilxTrail.MI_Emote_Quarrel_Female_Kick_HeilxTrail'
+        MaterialSlotName = WorldGridMaterial
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 45.6957, 0, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=-7.18843, Y=-44.184, Z=3.11178 }
+    BoxExtent = { X=21.9019, Y=44.8126, Z=19.2987 }
+    SphereRadius = 47.8364
+}

@@ -1,0 +1,17 @@
+Diffuse=DefaultDiffuse
+Normal=DefaultNormal
+SpecPower=T_Fortnite_Default_S
+Other[0]=DefaultDiffuse_TC_Masks
+Other[1]=T_M_MED_Color_Block_Backpack_Fan_LED_Mask
+Other[2]=T_M_MED_Color_Block_Backpack_Fan_Mask
+Other[3]=T_M_MED_Color_Block_Backpack_FX
+Other[4]=T_M_MED_Color_Block_Backpack_Gradient_Linear
+Other[5]=T_MasterKey_Swatch_GMap
+Other[6]=AllBlack
+Other[7]=T_Fort_Character_AllBlack
+Other[8]=T_Fort_Character_AllBlack_LinearGreyscale
+Other[9]=T_NoisePack_01
+Other[10]=T_Slowfield_GridSquares_01
+Other[11]=ShieldPowerAnim
+Other[12]=Black_MASK
+Other[13]=T_SkinBump_N

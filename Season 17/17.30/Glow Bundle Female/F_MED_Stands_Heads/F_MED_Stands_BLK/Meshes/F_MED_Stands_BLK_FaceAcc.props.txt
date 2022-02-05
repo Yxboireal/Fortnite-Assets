@@ -1,0 +1,134 @@
+Skeleton = Skeleton'/Game/Characters/Player/Female/Medium/Bodies/F_MED_Stands/Meshes/Parts/BLK/F_MED_Stands_BLK_FaceAcc_Skeleton.F_MED_Stands_BLK_FaceAcc_Skeleton'
+bHasVertexColors = false
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[36] =
+        {
+            BonesToRemove[0] = { BoneName=hair_l_01 }
+            BonesToRemove[1] = { BoneName=hair_l_02 }
+            BonesToRemove[2] = { BoneName=hair_l_03 }
+            BonesToRemove[3] = { BoneName=hair_k_01 }
+            BonesToRemove[4] = { BoneName=hair_k_02 }
+            BonesToRemove[5] = { BoneName=hair_k_03 }
+            BonesToRemove[6] = { BoneName=hair_j_01 }
+            BonesToRemove[7] = { BoneName=hair_j_02 }
+            BonesToRemove[8] = { BoneName=hair_j_03 }
+            BonesToRemove[9] = { BoneName=hair_i_01 }
+            BonesToRemove[10] = { BoneName=hair_i_02 }
+            BonesToRemove[11] = { BoneName=hair_i_03 }
+            BonesToRemove[12] = { BoneName=hair_h_01 }
+            BonesToRemove[13] = { BoneName=hair_h_02 }
+            BonesToRemove[14] = { BoneName=hair_h_03 }
+            BonesToRemove[15] = { BoneName=hair_g_01 }
+            BonesToRemove[16] = { BoneName=hair_g_02 }
+            BonesToRemove[17] = { BoneName=hair_g_03 }
+            BonesToRemove[18] = { BoneName=hair_f_01 }
+            BonesToRemove[19] = { BoneName=hair_f_02 }
+            BonesToRemove[20] = { BoneName=hair_f_03 }
+            BonesToRemove[21] = { BoneName=hair_e_01 }
+            BonesToRemove[22] = { BoneName=hair_e_02 }
+            BonesToRemove[23] = { BoneName=hair_e_03 }
+            BonesToRemove[24] = { BoneName=hair_d_01 }
+            BonesToRemove[25] = { BoneName=hair_d_02 }
+            BonesToRemove[26] = { BoneName=hair_d_03 }
+            BonesToRemove[27] = { BoneName=hair_c_01 }
+            BonesToRemove[28] = { BoneName=hair_c_02 }
+            BonesToRemove[29] = { BoneName=hair_c_03 }
+            BonesToRemove[30] = { BoneName=hair_b_01 }
+            BonesToRemove[31] = { BoneName=hair_b_02 }
+            BonesToRemove[32] = { BoneName=hair_b_03 }
+            BonesToRemove[33] = { BoneName=hair_a_01 }
+            BonesToRemove[34] = { BoneName=hair_a_02 }
+            BonesToRemove[35] = { BoneName=hair_a_03 }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[36] =
+        {
+            BonesToRemove[0] = { BoneName=hair_l_01 }
+            BonesToRemove[1] = { BoneName=hair_l_02 }
+            BonesToRemove[2] = { BoneName=hair_l_03 }
+            BonesToRemove[3] = { BoneName=hair_k_01 }
+            BonesToRemove[4] = { BoneName=hair_k_02 }
+            BonesToRemove[5] = { BoneName=hair_k_03 }
+            BonesToRemove[6] = { BoneName=hair_j_01 }
+            BonesToRemove[7] = { BoneName=hair_j_02 }
+            BonesToRemove[8] = { BoneName=hair_j_03 }
+            BonesToRemove[9] = { BoneName=hair_i_01 }
+            BonesToRemove[10] = { BoneName=hair_i_02 }
+            BonesToRemove[11] = { BoneName=hair_i_03 }
+            BonesToRemove[12] = { BoneName=hair_h_01 }
+            BonesToRemove[13] = { BoneName=hair_h_02 }
+            BonesToRemove[14] = { BoneName=hair_h_03 }
+            BonesToRemove[15] = { BoneName=hair_g_01 }
+            BonesToRemove[16] = { BoneName=hair_g_02 }
+            BonesToRemove[17] = { BoneName=hair_g_03 }
+            BonesToRemove[18] = { BoneName=hair_f_01 }
+            BonesToRemove[19] = { BoneName=hair_f_02 }
+            BonesToRemove[20] = { BoneName=hair_f_03 }
+            BonesToRemove[21] = { BoneName=hair_e_01 }
+            BonesToRemove[22] = { BoneName=hair_e_02 }
+            BonesToRemove[23] = { BoneName=hair_e_03 }
+            BonesToRemove[24] = { BoneName=hair_d_01 }
+            BonesToRemove[25] = { BoneName=hair_d_02 }
+            BonesToRemove[26] = { BoneName=hair_d_03 }
+            BonesToRemove[27] = { BoneName=hair_c_01 }
+            BonesToRemove[28] = { BoneName=hair_c_02 }
+            BonesToRemove[29] = { BoneName=hair_c_03 }
+            BonesToRemove[30] = { BoneName=hair_b_01 }
+            BonesToRemove[31] = { BoneName=hair_b_02 }
+            BonesToRemove[32] = { BoneName=hair_b_03 }
+            BonesToRemove[33] = { BoneName=hair_a_01 }
+            BonesToRemove[34] = { BoneName=hair_a_02 }
+            BonesToRemove[35] = { BoneName=hair_a_03 }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

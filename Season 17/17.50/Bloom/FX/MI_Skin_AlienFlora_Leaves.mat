@@ -1,0 +1,9 @@
+Diffuse=T_M_MED_WeepingWoods_body_D
+Normal=T_M_MED_WeepingWoods_body_N
+SpecPower=T_M_MED_WeepingWoods_body_S
+Other[0]=DefaultDiffuse
+Other[1]=T_Inky_Smoke_Tile
+Other[2]=T_Dinosaur_Park_Brontosaurus_Shell_D
+Other[3]=T_Dinosaur_Park_Brontosaurus_Shell_N
+Other[4]=T_Dinosaur_Park_Brontosaurus_Shell_S
+Other[5]=Cracks_02

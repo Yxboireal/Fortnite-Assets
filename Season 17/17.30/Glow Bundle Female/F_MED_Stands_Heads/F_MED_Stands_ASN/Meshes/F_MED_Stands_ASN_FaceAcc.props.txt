@@ -1,0 +1,136 @@
+Skeleton = Skeleton'/Game/Characters/Player/Female/Medium/Bodies/F_MED_Stands/Meshes/Parts/ASN/F_MED_Stands_ASN_FaceAcc_Skeleton.F_MED_Stands_ASN_FaceAcc_Skeleton'
+bHasVertexColors = false
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[37] =
+        {
+            BonesToRemove[0] = { BoneName=dyn_backhairA_base }
+            BonesToRemove[1] = { BoneName=dyn_backhairA_01 }
+            BonesToRemove[2] = { BoneName=dyn_backhairA_02 }
+            BonesToRemove[3] = { BoneName=dyn_backhairA_03 }
+            BonesToRemove[4] = { BoneName=dyn_backhairA_04 }
+            BonesToRemove[5] = { BoneName=dyn_backhairB_base }
+            BonesToRemove[6] = { BoneName=dyn_backhairB_01 }
+            BonesToRemove[7] = { BoneName=dyn_backhairB_02 }
+            BonesToRemove[8] = { BoneName=dyn_backhairB_03 }
+            BonesToRemove[9] = { BoneName=dyn_backhairB_04 }
+            BonesToRemove[10] = { BoneName=dyn_backhairC_base }
+            BonesToRemove[11] = { BoneName=dyn_backhairC_01 }
+            BonesToRemove[12] = { BoneName=dyn_backhairC_02 }
+            BonesToRemove[13] = { BoneName=dyn_backhairC_03 }
+            BonesToRemove[14] = { BoneName=dyn_backhairC_04 }
+            BonesToRemove[15] = { BoneName=dyn_backhairD_base }
+            BonesToRemove[16] = { BoneName=dyn_backhairD_01 }
+            BonesToRemove[17] = { BoneName=dyn_backhairD_02 }
+            BonesToRemove[18] = { BoneName=dyn_backhairD_03 }
+            BonesToRemove[19] = { BoneName=dyn_backhairD_04 }
+            BonesToRemove[20] = { BoneName=dyn_backhairE_base }
+            BonesToRemove[21] = { BoneName=dyn_backhairE_01 }
+            BonesToRemove[22] = { BoneName=dyn_backhairE_02 }
+            BonesToRemove[23] = { BoneName=dyn_backhairE_03 }
+            BonesToRemove[24] = { BoneName=dyn_backhairE_04 }
+            BonesToRemove[25] = { BoneName=dyn_fronthairA_base }
+            BonesToRemove[26] = { BoneName=dyn_fronthairA_01 }
+            BonesToRemove[27] = { BoneName=dyn_fronthairA_02 }
+            BonesToRemove[28] = { BoneName=dyn_fronthairB_base }
+            BonesToRemove[29] = { BoneName=dyn_fronthairB_01 }
+            BonesToRemove[30] = { BoneName=dyn_fronthairB_02 }
+            BonesToRemove[31] = { BoneName=dyn_fronthairC_base }
+            BonesToRemove[32] = { BoneName=dyn_fronthairC_01 }
+            BonesToRemove[33] = { BoneName=dyn_fronthairC_02 }
+            BonesToRemove[34] = { BoneName=dyn_fronthairD_base }
+            BonesToRemove[35] = { BoneName=dyn_fronthairD_01 }
+            BonesToRemove[36] = { BoneName=dyn_fronthairD_02 }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[37] =
+        {
+            BonesToRemove[0] = { BoneName=dyn_backhairA_base }
+            BonesToRemove[1] = { BoneName=dyn_backhairA_01 }
+            BonesToRemove[2] = { BoneName=dyn_backhairA_02 }
+            BonesToRemove[3] = { BoneName=dyn_backhairA_03 }
+            BonesToRemove[4] = { BoneName=dyn_backhairA_04 }
+            BonesToRemove[5] = { BoneName=dyn_backhairB_base }
+            BonesToRemove[6] = { BoneName=dyn_backhairB_01 }
+            BonesToRemove[7] = { BoneName=dyn_backhairB_02 }
+            BonesToRemove[8] = { BoneName=dyn_backhairB_03 }
+            BonesToRemove[9] = { BoneName=dyn_backhairB_04 }
+            BonesToRemove[10] = { BoneName=dyn_backhairC_base }
+            BonesToRemove[11] = { BoneName=dyn_backhairC_01 }
+            BonesToRemove[12] = { BoneName=dyn_backhairC_02 }
+            BonesToRemove[13] = { BoneName=dyn_backhairC_03 }
+            BonesToRemove[14] = { BoneName=dyn_backhairC_04 }
+            BonesToRemove[15] = { BoneName=dyn_backhairD_base }
+            BonesToRemove[16] = { BoneName=dyn_backhairD_01 }
+            BonesToRemove[17] = { BoneName=dyn_backhairD_02 }
+            BonesToRemove[18] = { BoneName=dyn_backhairD_03 }
+            BonesToRemove[19] = { BoneName=dyn_backhairD_04 }
+            BonesToRemove[20] = { BoneName=dyn_backhairE_base }
+            BonesToRemove[21] = { BoneName=dyn_backhairE_01 }
+            BonesToRemove[22] = { BoneName=dyn_backhairE_02 }
+            BonesToRemove[23] = { BoneName=dyn_backhairE_03 }
+            BonesToRemove[24] = { BoneName=dyn_backhairE_04 }
+            BonesToRemove[25] = { BoneName=dyn_fronthairA_base }
+            BonesToRemove[26] = { BoneName=dyn_fronthairA_01 }
+            BonesToRemove[27] = { BoneName=dyn_fronthairA_02 }
+            BonesToRemove[28] = { BoneName=dyn_fronthairB_base }
+            BonesToRemove[29] = { BoneName=dyn_fronthairB_01 }
+            BonesToRemove[30] = { BoneName=dyn_fronthairB_02 }
+            BonesToRemove[31] = { BoneName=dyn_fronthairC_base }
+            BonesToRemove[32] = { BoneName=dyn_fronthairC_01 }
+            BonesToRemove[33] = { BoneName=dyn_fronthairC_02 }
+            BonesToRemove[34] = { BoneName=dyn_fronthairD_base }
+            BonesToRemove[35] = { BoneName=dyn_fronthairD_01 }
+            BonesToRemove[36] = { BoneName=dyn_fronthairD_02 }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

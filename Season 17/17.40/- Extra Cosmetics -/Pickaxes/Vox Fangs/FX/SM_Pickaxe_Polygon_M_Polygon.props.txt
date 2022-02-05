@@ -1,0 +1,26 @@
+Materials[1] =
+{
+    Materials[0] = MaterialInstanceConstant'/Game/Weapons/FORT_Melee/Pickaxe_Polygon_1h_Male/FX/MI_Pickaxe_Polygon_M_Polygon.MI_Pickaxe_Polygon_M_Polygon'
+}
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = MaterialInstanceConstant'/Game/Weapons/FORT_Melee/Pickaxe_Polygon_1h_Male/FX/MI_Pickaxe_Polygon_M_Polygon.MI_Pickaxe_Polygon_M_Polygon'
+        MaterialSlotName = lambert1
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 13.3699, 0, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=1.5, Y=-4.76837e-07, Z=0 }
+    BoxExtent = { X=4.5, Y=5.19615, Z=0.75 }
+    SphereRadius = 6.87386
+}

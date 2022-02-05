@@ -1,0 +1,72 @@
+Skeleton = Skeleton'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Alien_Summer/Meshes/Parts/M_MED_Alien_Summer_Skeleton.M_MED_Alien_Summer_Skeleton'
+bHasVertexColors = true
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[5] =
+        {
+            BonesToRemove[0] = { BoneName=upperarm_twist_01_l }
+            BonesToRemove[1] = { BoneName=upperarm_twist_01_r }
+            BonesToRemove[2] = { BoneName=dyn_Headphones_MSTR }
+            BonesToRemove[3] = { BoneName=dyn_Headphones }
+            BonesToRemove[4] = { BoneName=dyn_retro_glasses }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[5] =
+        {
+            BonesToRemove[0] = { BoneName=upperarm_twist_01_l }
+            BonesToRemove[1] = { BoneName=upperarm_twist_01_r }
+            BonesToRemove[2] = { BoneName=dyn_Headphones_MSTR }
+            BonesToRemove[3] = { BoneName=dyn_Headphones }
+            BonesToRemove[4] = { BoneName=dyn_retro_glasses }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

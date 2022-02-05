@@ -1,0 +1,13 @@
+Diffuse=DefaultDiffuse
+Normal=T_M_MED_Alien_Agent_Head_N
+SpecPower=T_Fortnite_Default_S
+Other[0]=DefaultDiffuse_TC_Masks
+Other[1]=DefaultNormal
+Other[2]=T_MasterKey_Swatch_GMap
+Other[3]=T_Fort_Character_AllBlack
+Other[4]=T_Fort_Character_AllBlack_LinearGreyscale
+Other[5]=T_NoisePack_01
+Other[6]=T_Slowfield_GridSquares_01
+Other[7]=ShieldPowerAnim
+Other[8]=Black_MASK
+Other[9]=T_SkinBump_N

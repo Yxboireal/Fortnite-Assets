@@ -1,0 +1,107 @@
+Parent = Material3'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Polygon/Materials/M_MED_Polygon_MASTER.M_MED_Polygon_MASTER'
+ScalarParameterValues[2] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=emissive mult }
+        ParameterValue = 4
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[6] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=Diffuse }
+        ParameterValue = Texture2D'/Game/Weapons/FORT_Melee/Pickaxe_Polygon_1h_Male/Textures/T_Pickaxe_Polygon_1h_Male_D.T_Pickaxe_Polygon_1h_Male_D'
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=Emissive }
+        ParameterValue = Texture2D'/Game/Weapons/FORT_Melee/Pickaxe_Polygon_1h_Male/Textures/T_Pickaxe_Polygon_1h_Male_E.T_Pickaxe_Polygon_1h_Male_E'
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=SL_Mask }
+        ParameterValue = Texture2D'/Game/Weapons/FORT_Melee/Pickaxe_Polygon_1h_Male/Textures/T_Pickaxe_Polygon_1h_Male_SL.T_Pickaxe_Polygon_1h_Male_SL'
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=M }
+        ParameterValue = Texture2D'/Game/Weapons/FORT_Melee/Pickaxe_Polygon_1h_Male/Textures/T_Pickaxe_Polygon_1h_Male_M.T_Pickaxe_Polygon_1h_Male_M'
+        ParameterName = None
+    }
+    TextureParameterValues[4] =
+    {
+        ParameterInfo = { Name=Normals }
+        ParameterValue = Texture2D'/Game/Weapons/FORT_Melee/Pickaxe_Polygon_1h_Male/Textures/T_Pickaxe_Polygon_1h_Male_N.T_Pickaxe_Polygon_1h_Male_N'
+        ParameterName = None
+    }
+    TextureParameterValues[5] =
+    {
+        ParameterInfo = { Name=SpecularMasks }
+        ParameterValue = Texture2D'/Game/Weapons/FORT_Melee/Pickaxe_Polygon_1h_Male/Textures/T_Pickaxe_Polygon_1h_Male_S.T_Pickaxe_Polygon_1h_Male_S'
+        ParameterName = None
+    }
+}
+VectorParameterValues[1] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=Emissive Color }
+        ParameterValue = { R=0.63, G=0, B=0, A=1 }
+        ParameterName = None
+    }
+}
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0.3333
+}
+StaticParameters =
+{
+    StaticSwitchParameters[1] =
+    {
+        StaticSwitchParameters[0] =
+        {
+            Value = true
+            ParameterInfo = { Name=Emissive }
+            bOverride = true
+        }
+    }
+    StaticComponentMaskParameters[1] =
+    {
+        StaticComponentMaskParameters[0] =
+        {
+            R = true
+            G = true
+            B = true
+            A = false
+            ParameterInfo = { Name=Emissive Component Mask }
+            bOverride = true
+        }
+    }
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

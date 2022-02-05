@@ -1,0 +1,5 @@
+Diffuse=T_Pickaxe_Alien_Flora_Male_D
+Normal=T_Pickaxe_Alien_Flora_Male_N
+Emissive=T_Pickaxe_Alien_Flora_Male_E
+Other[0]=LowResBlurredNoise
+Other[1]=T_Swirly_Noise_highContrast

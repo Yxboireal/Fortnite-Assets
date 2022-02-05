@@ -1,0 +1,26 @@
+Materials[1] =
+{
+    Materials[0] = Material3'/Game/Gadgets/Assets/VinderTech_GliderChute/Glider_Vivid_Male/FX/Materials/M_Glider_Vivid_Male_Meshes_Emissive.M_Glider_Vivid_Male_Meshes_Emissive'
+}
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = Material3'/Game/Gadgets/Assets/VinderTech_GliderChute/Glider_Vivid_Male/FX/Materials/M_Glider_Vivid_Male_Meshes_Emissive.M_Glider_Vivid_Male_Meshes_Emissive'
+        MaterialSlotName = MI_Glider_Vivid_Male
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 246.33, 0, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=0, Y=1.00764, Z=-0.124088 }
+    BoxExtent = { X=7.18868, Y=3.14626, Z=14.9316 }
+    SphereRadius = 15.0211
+}

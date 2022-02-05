@@ -1,0 +1,26 @@
+Materials[1] =
+{
+    Materials[0] = MaterialInstanceConstant'/FortniteGame/Plugins/GameFeatures/MotherGameplay/Content/Items/GravyGoblin/Assets/Materials/MI_GravyGoblin.MI_GravyGoblin'
+}
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = MaterialInstanceConstant'/FortniteGame/Plugins/GameFeatures/MotherGameplay/Content/Items/GravyGoblin/Assets/Materials/MI_GravyGoblin.MI_GravyGoblin'
+        MaterialSlotName = black
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 76.6595, 0, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=5.14485, Y=1.62015, Z=2.38419e-06 }
+    BoxExtent = { X=5.14485, Y=9.41135, Z=1.9309 }
+    SphereRadius = 10.4567
+}

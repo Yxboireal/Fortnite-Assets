@@ -1,0 +1,8 @@
+Diffuse=T_M_MED_Color_Block_Stickers_Backpack_D
+Normal=T_M_MED_Color_Block_Backpack_N
+Opacity=T_M_MED_Color_Block_Stickers_Backpack_D
+Other[0]=FlatNormal
+Other[1]=AllBlackMasks
+Other[2]=AllBlack
+Other[3]=T_Noise_Normal_01
+Other[4]=SolidBlack

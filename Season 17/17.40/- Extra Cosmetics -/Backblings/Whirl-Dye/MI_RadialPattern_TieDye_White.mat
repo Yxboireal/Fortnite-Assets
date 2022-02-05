@@ -1,0 +1,4 @@
+Diffuse=BlendFunc_DefBase
+Other[0]=BlendFunc_DefBlend
+Other[1]=T_Radial_Seam_Patch
+Other[2]=TankMoteNoise

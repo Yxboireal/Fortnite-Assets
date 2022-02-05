@@ -1,0 +1,53 @@
+TwoSided = false
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[15] =
+{
+    ReferencedTextures[0] = Texture2D'/Engine/EngineMaterials/DefaultDiffuse.DefaultDiffuse'
+    ReferencedTextures[1] = Texture2D'/Engine/EngineMaterials/DefaultDiffuse_TC_Masks.DefaultDiffuse_TC_Masks'
+    ReferencedTextures[2] = Texture2D'/Engine/EngineMaterials/DefaultNormal.DefaultNormal'
+    ReferencedTextures[3] = Texture2D'/Game/ArtTools/MaterialLibrary/Materials/T_MasterKey_Swatch_GMap.T_MasterKey_Swatch_GMap'
+    ReferencedTextures[4] = Texture2D'/Game/Characters/Fortress_CharacterShader/Textures/T_Fort_Character_AllBlack.T_Fort_Character_AllBlack'
+    ReferencedTextures[5] = Texture2D'/Game/Characters/Fortress_CharacterShader/Textures/T_Fort_Character_AllBlack_LinearGreyscale.T_Fort_Character_AllBlack_LinearGreyscale'
+    ReferencedTextures[6] = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Polygon/Textures/M_MED_Polygon_Hair_Mask.M_MED_Polygon_Hair_Mask'
+    ReferencedTextures[7] = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Polygon/Textures/M_MED_Polygon_SLMask.M_MED_Polygon_SLMask'
+    ReferencedTextures[8] = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Polygon/Textures/T_M_MED_Polygon_Body_SL.T_M_MED_Polygon_Body_SL'
+    ReferencedTextures[9] = Texture2D'/Game/Effects/Fort_Effects/Gameplay/SmokeDustExplosions/Textures/T_NoisePack_01.T_NoisePack_01'
+    ReferencedTextures[10] = Texture2D'/Game/Gadgets/Assets/Slow_Field/Textures/T_Slowfield_GridSquares_01.T_Slowfield_GridSquares_01'
+    ReferencedTextures[11] = Texture2D'/Game/Packages/Fortnite_UniqueMaterials_1/Effects/ShieldPowerAnim.ShieldPowerAnim'
+    ReferencedTextures[12] = Texture2D'/Game/Packages/Fortnite_UniqueMaterials_1/Textures/T_Fortnite_Default_S.T_Fortnite_Default_S'
+    ReferencedTextures[13] = Texture2D'/Game/Packages/Fortress_SharedMaterials/Textures/Black_MASK.Black_MASK'
+    ReferencedTextures[14] = Texture2D'/Game/Packages/Fortress_SharedMaterials/Textures/T_SkinBump_N.T_SkinBump_N'
+}
+Expressions[0] = {}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Opaque (0)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[0] = {}
+CollectedScalarParameters[0] = {}
+CollectedVectorParameters[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

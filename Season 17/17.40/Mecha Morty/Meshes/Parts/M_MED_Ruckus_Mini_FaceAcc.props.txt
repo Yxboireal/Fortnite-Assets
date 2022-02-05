@@ -1,0 +1,183 @@
+Skeleton = Skeleton'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ruckus_Mini/Meshes/Parts/M_MED_Ruckus_Mini_FaceAcc_Skeleton.M_MED_Ruckus_Mini_FaceAcc_Skeleton'
+bHasVertexColors = true
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = "D:/Build/FortressArtSource/assets/Face Accessory/Male/Medium/Ruckus_Mini/Rig/M_MED_Ruckus_Mini_FaceAcc.fbx"
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[4] =
+        {
+            BonesToRemove[0] = { BoneName=C_nose_bridge }
+            BonesToRemove[1] = { BoneName=teeth_lower }
+            BonesToRemove[2] = { BoneName=tongue }
+            BonesToRemove[3] = { BoneName=teeth_upper }
+        }
+        BonesToPrioritize[47] =
+        {
+            BonesToPrioritize[0] = { BoneName=R_eye_lid_lower_mid }
+            BonesToPrioritize[1] = { BoneName=L_eye_lid_lower_mid }
+            BonesToPrioritize[2] = { BoneName=R_eye_lid_upper_mid }
+            BonesToPrioritize[3] = { BoneName=L_eye_lid_upper_mid }
+            BonesToPrioritize[4] = { BoneName=R_lid_upr_1 }
+            BonesToPrioritize[5] = { BoneName=R_lid_upr_2 }
+            BonesToPrioritize[6] = { BoneName=R_lid_upr_3 }
+            BonesToPrioritize[7] = { BoneName=R_lid_upr_4 }
+            BonesToPrioritize[8] = { BoneName=R_lid_upr_5 }
+            BonesToPrioritize[9] = { BoneName=R_lid_upr_6 }
+            BonesToPrioritize[10] = { BoneName=R_lid_upr_end }
+            BonesToPrioritize[11] = { BoneName=L_lid_upr_1 }
+            BonesToPrioritize[12] = { BoneName=L_lid_upr_2 }
+            BonesToPrioritize[13] = { BoneName=L_lid_upr_3 }
+            BonesToPrioritize[14] = { BoneName=L_lid_upr_4 }
+            BonesToPrioritize[15] = { BoneName=L_lid_upr_5 }
+            BonesToPrioritize[16] = { BoneName=L_lid_upr_6 }
+            BonesToPrioritize[17] = { BoneName=L_lid_upr_end }
+            BonesToPrioritize[18] = { BoneName=L_lid_lwr_1 }
+            BonesToPrioritize[19] = { BoneName=L_lid_lwr_2 }
+            BonesToPrioritize[20] = { BoneName=L_lid_lwr_3 }
+            BonesToPrioritize[21] = { BoneName=L_lid_lwr_4 }
+            BonesToPrioritize[22] = { BoneName=L_lid_lwr_5 }
+            BonesToPrioritize[23] = { BoneName=L_lid_lwr_6 }
+            BonesToPrioritize[24] = { BoneName=L_lid_lwr_end }
+            BonesToPrioritize[25] = { BoneName=R_lid_lwr_1 }
+            BonesToPrioritize[26] = { BoneName=R_lid_lwr_2 }
+            BonesToPrioritize[27] = { BoneName=R_lid_lwr_3 }
+            BonesToPrioritize[28] = { BoneName=R_lid_lwr_4 }
+            BonesToPrioritize[29] = { BoneName=R_lid_lwr_5 }
+            BonesToPrioritize[30] = { BoneName=R_lid_lwr_6 }
+            BonesToPrioritize[31] = { BoneName=R_lid_lwr_end }
+            BonesToPrioritize[32] = { BoneName=L_lid_upr_mid }
+            BonesToPrioritize[33] = { BoneName=L_lid_lwr_mid }
+            BonesToPrioritize[34] = { BoneName=R_lid_upr_mid }
+            BonesToPrioritize[35] = { BoneName=R_lid_lwr_mid }
+            BonesToPrioritize[36] = { BoneName=R_brow_hide }
+            BonesToPrioritize[37] = { BoneName=L_brow_hide }
+            BonesToPrioritize[38] = { BoneName=R_browLong_hide }
+            BonesToPrioritize[39] = { BoneName=L_browLong_hide }
+            BonesToPrioritize[40] = { BoneName=R_brow_mid }
+            BonesToPrioritize[41] = { BoneName=L_brow_mid }
+            BonesToPrioritize[42] = { BoneName=R_brow_outer }
+            BonesToPrioritize[43] = { BoneName=L_brow_outer }
+            BonesToPrioritize[44] = { BoneName=brow_LOD_hold }
+            BonesToPrioritize[45] = { BoneName=C_lip_lower_mid }
+            BonesToPrioritize[46] = { BoneName=C_lip_upper_mid }
+        }
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[23] =
+        {
+            BonesToRemove[0] = { BoneName=C_brow_mid }
+            BonesToRemove[1] = { BoneName=L_brow_mid }
+            BonesToRemove[2] = { BoneName=L_brow_outer }
+            BonesToRemove[3] = { BoneName=L_cheek_inner }
+            BonesToRemove[4] = { BoneName=C_lip_upper_mid }
+            BonesToRemove[5] = { BoneName=L_lip_upper_outer }
+            BonesToRemove[6] = { BoneName=L_lip_corner }
+            BonesToRemove[7] = { BoneName=C_nose_bridge }
+            BonesToRemove[8] = { BoneName=R_brow_mid }
+            BonesToRemove[9] = { BoneName=R_brow_outer }
+            BonesToRemove[10] = { BoneName=R_cheek_inner }
+            BonesToRemove[11] = { BoneName=R_lip_corner }
+            BonesToRemove[12] = { BoneName=C_jaw }
+            BonesToRemove[13] = { BoneName=R_eye }
+            BonesToRemove[14] = { BoneName=L_eye }
+            BonesToRemove[15] = { BoneName=teeth_upper }
+            BonesToRemove[16] = { BoneName=R_lip_upper_outer }
+            BonesToRemove[17] = { BoneName=L_lid_upr_main }
+            BonesToRemove[18] = { BoneName=L_lid_lwr_main }
+            BonesToRemove[19] = { BoneName=R_lid_upr_main }
+            BonesToRemove[20] = { BoneName=R_lid_lwr_main }
+            BonesToRemove[21] = { BoneName=None }
+            BonesToRemove[22] = { BoneName=None }
+        }
+        BonesToPrioritize[40] =
+        {
+            BonesToPrioritize[0] = { BoneName=R_eye_lid_lower_mid }
+            BonesToPrioritize[1] = { BoneName=L_eye_lid_lower_mid }
+            BonesToPrioritize[2] = { BoneName=R_eye_lid_upper_mid }
+            BonesToPrioritize[3] = { BoneName=L_eye_lid_upper_mid }
+            BonesToPrioritize[4] = { BoneName=R_lid_upr_1 }
+            BonesToPrioritize[5] = { BoneName=R_lid_upr_2 }
+            BonesToPrioritize[6] = { BoneName=R_lid_upr_3 }
+            BonesToPrioritize[7] = { BoneName=R_lid_upr_4 }
+            BonesToPrioritize[8] = { BoneName=R_lid_upr_5 }
+            BonesToPrioritize[9] = { BoneName=R_lid_upr_6 }
+            BonesToPrioritize[10] = { BoneName=R_lid_upr_end }
+            BonesToPrioritize[11] = { BoneName=L_lid_upr_1 }
+            BonesToPrioritize[12] = { BoneName=L_lid_upr_2 }
+            BonesToPrioritize[13] = { BoneName=L_lid_upr_3 }
+            BonesToPrioritize[14] = { BoneName=L_lid_upr_4 }
+            BonesToPrioritize[15] = { BoneName=L_lid_upr_5 }
+            BonesToPrioritize[16] = { BoneName=L_lid_upr_6 }
+            BonesToPrioritize[17] = { BoneName=L_lid_upr_end }
+            BonesToPrioritize[18] = { BoneName=L_lid_lwr_1 }
+            BonesToPrioritize[19] = { BoneName=L_lid_lwr_2 }
+            BonesToPrioritize[20] = { BoneName=L_lid_lwr_3 }
+            BonesToPrioritize[21] = { BoneName=L_lid_lwr_4 }
+            BonesToPrioritize[22] = { BoneName=L_lid_lwr_5 }
+            BonesToPrioritize[23] = { BoneName=L_lid_lwr_6 }
+            BonesToPrioritize[24] = { BoneName=L_lid_lwr_end }
+            BonesToPrioritize[25] = { BoneName=R_lid_lwr_1 }
+            BonesToPrioritize[26] = { BoneName=R_lid_lwr_2 }
+            BonesToPrioritize[27] = { BoneName=R_lid_lwr_3 }
+            BonesToPrioritize[28] = { BoneName=R_lid_lwr_4 }
+            BonesToPrioritize[29] = { BoneName=R_lid_lwr_5 }
+            BonesToPrioritize[30] = { BoneName=R_lid_lwr_6 }
+            BonesToPrioritize[31] = { BoneName=R_lid_lwr_end }
+            BonesToPrioritize[32] = { BoneName=L_lid_upr_mid }
+            BonesToPrioritize[33] = { BoneName=L_lid_lwr_mid }
+            BonesToPrioritize[34] = { BoneName=R_lid_upr_mid }
+            BonesToPrioritize[35] = { BoneName=R_lid_lwr_mid }
+            BonesToPrioritize[36] = { BoneName=R_brow_hide }
+            BonesToPrioritize[37] = { BoneName=L_brow_hide }
+            BonesToPrioritize[38] = { BoneName=R_browLong_hide }
+            BonesToPrioritize[39] = { BoneName=L_browLong_hide }
+        }
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[1] =
+        {
+            BonesToRemove[0] = { BoneName=faceAttach }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

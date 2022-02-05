@@ -1,0 +1,9 @@
+Diffuse=T_M_MED_Alien_Summer_FaceAcc_Acc_1_D
+Normal=T_M_MED_Alien_Summer_FaceAcc_Acc_1_N
+Opacity=T_M_MED_Alien_Summer_FaceAcc_Acc_1_D
+Other[0]=T_M_MED_Alien_Summer_FaceAcc_Acc_1_FX
+Other[1]=FlatNormal
+Other[2]=AllBlackMasks
+Other[3]=AllBlack
+Other[4]=T_Noise_Normal_01
+Other[5]=SolidBlack

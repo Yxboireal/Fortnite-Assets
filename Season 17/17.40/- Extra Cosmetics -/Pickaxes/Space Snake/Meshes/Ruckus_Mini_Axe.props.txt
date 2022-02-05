@@ -1,0 +1,84 @@
+Skeleton = Skeleton'/Game/Weapons/FORT_Melee/Pickaxe_Ruckus_Mini/Meshes/Ruckus_Mini_Axe_Skeleton.Ruckus_Mini_Axe_Skeleton'
+bHasVertexColors = true
+LODInfo[3] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[12] =
+        {
+            BonesToPrioritize[0] = { BoneName=spine_05 }
+            BonesToPrioritize[1] = { BoneName=stomach }
+            BonesToPrioritize[2] = { BoneName=chest }
+            BonesToPrioritize[3] = { BoneName=spine_06 }
+            BonesToPrioritize[4] = { BoneName=spine_07 }
+            BonesToPrioritize[5] = { BoneName=tail_02 }
+            BonesToPrioritize[6] = { BoneName=tail_03 }
+            BonesToPrioritize[7] = { BoneName=tail_04 }
+            BonesToPrioritize[8] = { BoneName=tail_05 }
+            BonesToPrioritize[9] = { BoneName=spine_04 }
+            BonesToPrioritize[10] = { BoneName=dyn_tube_03 }
+            BonesToPrioritize[11] = { BoneName=dyn_tube_top }
+        }
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[2] =
+        {
+            BonesToPrioritize[0] = { BoneName=chest }
+            BonesToPrioritize[1] = { BoneName=tail_04 }
+        }
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[2] =
+{
+    Sockets[0] =
+    {
+        SocketName = AnimTrail_Top
+        BoneName = Melee_TwoHanded_Handle
+        RelativeLocation = { X=-5.05299e-13, Y=-1.6955e-06, Z=134.973 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[1] =
+    {
+        SocketName = AnimTrail_Bottom
+        BoneName = Melee_TwoHanded_Handle
+        RelativeLocation = { X=1.49927e-05, Y=-1.69551e-06, Z=113.274 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[3] = { , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

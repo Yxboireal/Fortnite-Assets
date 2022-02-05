@@ -1,0 +1,7 @@
+Normal=T_Color_Block_FaceAcc_N
+Other[0]=T_Color_Block_FaceAcc_S
+Other[1]=FlatNormal
+Other[2]=AllBlackMasks
+Other[3]=AllBlack
+Other[4]=T_Noise_Normal_01
+Other[5]=SolidBlack

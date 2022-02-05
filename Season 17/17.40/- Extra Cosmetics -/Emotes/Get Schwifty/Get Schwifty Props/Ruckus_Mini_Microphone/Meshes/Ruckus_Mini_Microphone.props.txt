@@ -1,0 +1,38 @@
+Materials[2] =
+{
+    Materials[0] = MaterialInstanceConstant'/Game/Animation/Props/Ruckus_Mini_Microphone/Materials/MI_Emote_Prop_RuckusMini_Microphone.MI_Emote_Prop_RuckusMini_Microphone'
+    Materials[1] = MaterialInstanceConstant'/Game/Animation/Props/Ruckus_Mini_Microphone/Materials/MI_Emote_Prop_RuckusMini_Microphone_Outline.MI_Emote_Prop_RuckusMini_Microphone_Outline'
+}
+SourceModels[0] = {}
+StaticMaterials[2] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = MaterialInstanceConstant'/Game/Animation/Props/Ruckus_Mini_Microphone/Materials/MI_Emote_Prop_RuckusMini_Microphone.MI_Emote_Prop_RuckusMini_Microphone'
+        MaterialSlotName = Microphone
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 30.3341, 0, 0, 0 }
+        }
+    }
+    StaticMaterials[1] =
+    {
+        MaterialInterface = MaterialInstanceConstant'/Game/Animation/Props/Ruckus_Mini_Microphone/Materials/MI_Emote_Prop_RuckusMini_Microphone_Outline.MI_Emote_Prop_RuckusMini_Microphone_Outline'
+        MaterialSlotName = Bag
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 33.1109, 0, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=0.355252, Y=-0.0528035, Z=4.78772 }
+    BoxExtent = { X=4.99735, Y=5.15051, Z=16.2418 }
+    SphereRadius = 16.3465
+}

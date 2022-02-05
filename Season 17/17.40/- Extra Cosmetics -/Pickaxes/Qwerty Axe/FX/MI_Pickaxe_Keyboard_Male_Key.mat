@@ -1,0 +1,14 @@
+Diffuse=T_Pickaxe_Keyboard_Male_D
+Normal=T_Pickaxe_Keyboard_Male_N
+SpecPower=T_Pickaxe_Keyboard_Male_S
+Emissive=T_Pickaxe_Keyboard_Male_E
+Other[0]=T_Pickaxe_Keyboard_Male_FX
+Other[1]=TilingNoise05
+Other[2]=AllBlack
+Other[3]=T_BlankWhite_01
+Other[4]=T_DustDistortion
+Other[5]=Noise32x32
+Other[6]=SolidWhite
+Other[7]=T_AmmoSet02_D
+Other[8]=T_AmmoSet02_N
+Other[9]=T_AmmoSet02_S

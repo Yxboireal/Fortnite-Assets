@@ -1,0 +1,82 @@
+Skeleton = Skeleton'/Game/Accessories/FORT_Backpacks/Backpack_M_MED_Carabus/Meshes/M_MED_Carabus_Pack_Skeleton.M_MED_Carabus_Pack_Skeleton'
+bHasVertexColors = true
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = "D:/Build/FortressArtSource/assets/Backpack/Male/Medium/Carabus/Rig/M_MED_Carabus_Pack.fbx"
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[22] =
+        {
+            BonesToPrioritize[0] = { BoneName=dyn_belt_l_01 }
+            BonesToPrioritize[1] = { BoneName=dyn_belt_l_02 }
+            BonesToPrioritize[2] = { BoneName=dyn_belt_l_03 }
+            BonesToPrioritize[3] = { BoneName=dyn_belt_l_04 }
+            BonesToPrioritize[4] = { BoneName=dyn_belt_l_05 }
+            BonesToPrioritize[5] = { BoneName=dyn_belt_l_06 }
+            BonesToPrioritize[6] = { BoneName=dyn_belt_l_07 }
+            BonesToPrioritize[7] = { BoneName=dyn_belt_l_08 }
+            BonesToPrioritize[8] = { BoneName=dyn_belt_l_09 }
+            BonesToPrioritize[9] = { BoneName=dyn_belt_l_010 }
+            BonesToPrioritize[10] = { BoneName=dyn_belt_l_011 }
+            BonesToPrioritize[11] = { BoneName=dyn_belt_r_01 }
+            BonesToPrioritize[12] = { BoneName=dyn_belt_r_02 }
+            BonesToPrioritize[13] = { BoneName=dyn_belt_r_03 }
+            BonesToPrioritize[14] = { BoneName=dyn_belt_r_04 }
+            BonesToPrioritize[15] = { BoneName=dyn_belt_r_05 }
+            BonesToPrioritize[16] = { BoneName=dyn_belt_r_06 }
+            BonesToPrioritize[17] = { BoneName=dyn_belt_r_07 }
+            BonesToPrioritize[18] = { BoneName=dyn_belt_r_08 }
+            BonesToPrioritize[19] = { BoneName=dyn_belt_r_09 }
+            BonesToPrioritize[20] = { BoneName=dyn_belt_r_010 }
+            BonesToPrioritize[21] = { BoneName=dyn_belt_r_011 }
+        }
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

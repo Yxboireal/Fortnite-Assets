@@ -1,0 +1,23 @@
+Materials[1] = {  }
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = None
+        MaterialSlotName = MI_Pickaxe_Ninja_Wolf_Male_001
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 49.6364, 0, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=1.76988, Y=-7.86781e-06, Z=31.3051 }
+    BoxExtent = { X=3.27098, Y=0.613843, Z=22.5462 }
+    SphereRadius = 22.7822
+}

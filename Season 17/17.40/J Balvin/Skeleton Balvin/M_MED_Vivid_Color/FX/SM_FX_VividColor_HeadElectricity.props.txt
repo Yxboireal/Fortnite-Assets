@@ -1,0 +1,26 @@
+Materials[1] =
+{
+    Materials[0] = MaterialInstanceConstant'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Vivid_Color/FX/MI_VividColor_ActiveHeadElectricity.MI_VividColor_ActiveHeadElectricity'
+}
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = MaterialInstanceConstant'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Vivid_Color/FX/MI_VividColor_ActiveHeadElectricity.MI_VividColor_ActiveHeadElectricity'
+        MaterialSlotName = WorldGridMaterial
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 4.22099, 0, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=-4.3867, Y=6.00553, Z=0.213634 }
+    BoxExtent = { X=4.37007, Y=5.79249, Z=2.14172 }
+    SphereRadius = 7.26136
+}

@@ -1,0 +1,80 @@
+Skeleton = Skeleton'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Color_Block_Hat/Meshes/Parts/M_MED_Color_Block_Hat_FaceAcc_Skeleton.M_MED_Color_Block_Hat_FaceAcc_Skeleton'
+bHasVertexColors = false
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[9] =
+        {
+            BonesToRemove[0] = { BoneName=upperarm_twist_01_l }
+            BonesToRemove[1] = { BoneName=upperarm_twist_01_r }
+            BonesToRemove[2] = { BoneName=dyn_hat_MSTR }
+            BonesToRemove[3] = { BoneName=dyn_hat }
+            BonesToRemove[4] = { BoneName=dyn_headphones_MSTR }
+            BonesToRemove[5] = { BoneName=dyn_cord_MSTR }
+            BonesToRemove[6] = { BoneName=dyn_cord_01 }
+            BonesToRemove[7] = { BoneName=dyn_walkman_MSTR }
+            BonesToRemove[8] = { BoneName=dyn_walkman_01 }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[9] =
+        {
+            BonesToRemove[0] = { BoneName=upperarm_twist_01_l }
+            BonesToRemove[1] = { BoneName=upperarm_twist_01_r }
+            BonesToRemove[2] = { BoneName=dyn_hat_MSTR }
+            BonesToRemove[3] = { BoneName=dyn_hat }
+            BonesToRemove[4] = { BoneName=dyn_headphones_MSTR }
+            BonesToRemove[5] = { BoneName=dyn_cord_MSTR }
+            BonesToRemove[6] = { BoneName=dyn_cord_01 }
+            BonesToRemove[7] = { BoneName=dyn_walkman_MSTR }
+            BonesToRemove[8] = { BoneName=dyn_walkman_01 }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

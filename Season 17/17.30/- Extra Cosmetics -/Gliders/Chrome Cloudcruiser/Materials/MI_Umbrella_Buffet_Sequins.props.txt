@@ -1,0 +1,72 @@
+Parent = Material3'/Game/Gadgets/Assets/VinderTech_Umbrella/Umbrella_Buffet/Materials/M_Buffet_Sequin_Master.M_Buffet_Sequin_Master'
+ScalarParameterValues[0] = {}
+TextureParameterValues[0] = {}
+VectorParameterValues[0] = {}
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0.3333
+}
+StaticParameters =
+{
+    StaticSwitchParameters[0] = {}
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[7] =
+{
+    TextureStreamingData[0] =
+    {
+        SamplingScale = 31.999
+        UVChannelIndex = 0
+        TextureName = T_SequinTile
+    }
+    TextureStreamingData[1] =
+    {
+        SamplingScale = 31.999
+        UVChannelIndex = 0
+        TextureName = T_SequinTile_N
+    }
+    TextureStreamingData[2] =
+    {
+        SamplingScale = 32
+        UVChannelIndex = 0
+        TextureName = T_SequinTile_roughness
+    }
+    TextureStreamingData[3] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_Umbrella_Buffet_M
+    }
+    TextureStreamingData[4] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_Umbrella_Buffet_N
+    }
+    TextureStreamingData[5] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_Umbrella_Buffet_S
+    }
+    TextureStreamingData[6] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_Umbrella_Buffet_Sequin_D
+    }
+}

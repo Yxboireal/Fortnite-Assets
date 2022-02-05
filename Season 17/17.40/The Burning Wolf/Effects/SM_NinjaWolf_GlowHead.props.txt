@@ -1,0 +1,23 @@
+Materials[1] = {  }
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = None
+        MaterialSlotName = M_MED_NinjaWolf_FaceAcc_001
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 74.508, 0, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=9.72748e-05, Y=-2.76718, Z=157.194 }
+    BoxExtent = { X=8.05006, Y=6.87979, Z=11.3207 }
+    SphereRadius = 13.2589
+}

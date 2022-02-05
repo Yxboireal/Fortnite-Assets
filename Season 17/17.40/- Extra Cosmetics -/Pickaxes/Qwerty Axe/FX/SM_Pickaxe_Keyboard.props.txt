@@ -1,0 +1,26 @@
+Materials[1] =
+{
+    Materials[0] = MaterialInstanceConstant'/Game/Weapons/FORT_Melee/Pickaxe_Keyboard_Male/FX/MI_Pickaxe_Keyboard_Male_Key.MI_Pickaxe_Keyboard_Male_Key'
+}
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = MaterialInstanceConstant'/Game/Weapons/FORT_Melee/Pickaxe_Keyboard_Male/FX/MI_Pickaxe_Keyboard_Male_Key.MI_Pickaxe_Keyboard_Male_Key'
+        MaterialSlotName = MI_Pickaxe_Keyboard_Male
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 100.067, 0, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=-1.19209e-07, Y=0, Z=0 }
+    BoxExtent = { X=0.443785, Y=1.15906, Z=1.17982 }
+    SphereRadius = 1.7124
+}

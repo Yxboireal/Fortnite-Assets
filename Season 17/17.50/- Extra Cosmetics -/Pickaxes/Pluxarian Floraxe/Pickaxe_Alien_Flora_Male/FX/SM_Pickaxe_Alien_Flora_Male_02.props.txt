@@ -1,0 +1,26 @@
+Materials[1] =
+{
+    Materials[0] = MaterialInstanceConstant'/Game/Weapons/FORT_Melee/Pickaxe_Alien_Flora_Male/FX/MI_Pickaxe_Alien_Flora_Male_New.MI_Pickaxe_Alien_Flora_Male_New'
+}
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = MaterialInstanceConstant'/Game/Weapons/FORT_Melee/Pickaxe_Alien_Flora_Male/FX/MI_Pickaxe_Alien_Flora_Male_New.MI_Pickaxe_Alien_Flora_Male_New'
+        MaterialSlotName = Material #25
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 262.004, 0, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=3.41648, Y=0.37526, Z=0.0648575 }
+    BoxExtent = { X=32.4449, Y=10.6508, Z=10.0318 }
+    SphereRadius = 34.2535
+}

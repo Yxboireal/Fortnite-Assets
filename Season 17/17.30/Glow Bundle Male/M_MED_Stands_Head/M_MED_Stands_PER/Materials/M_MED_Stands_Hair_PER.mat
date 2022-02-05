@@ -1,0 +1,17 @@
+Diffuse=T_M_MED_Stands_PER_FaceAcc_D
+Normal=T_M_MED_Stands_PER_FaceAcc_N
+SpecPower=T_M_MED_Stands_PER_FaceAcc_S
+Other[0]=T_M_MED_Stands_PER_FaceAcc_M
+Other[1]=T_Assassin_Suit_Hair_D
+Other[2]=T_Assassin_Suit_Hair_M
+Other[3]=T_Assassin_Suit_Hair_N
+Other[4]=3xPerlin_M
+Other[5]=T_M_MED_SkeletonHunter_hair_M
+Other[6]=T_M_MED_SkeletonHunter_hair_N
+Other[7]=T_MED_SkeletonHunter_Hair_FX
+Other[8]=T_NoisePack_01
+Other[9]=T_Slowfield_GridSquares_01
+Other[10]=ShieldPowerAnim
+Other[11]=T_Fortnite_Default_S
+Other[12]=Black_MASK
+Other[13]=T_Fuzz_MASK

@@ -1,0 +1,4 @@
+Diffuse=T_Flare_Spikeball
+SpecPower=T_Flare_Spikeball
+Other[0]=WM_PinGlow_Sphere
+Other[1]=T_Grad_Rainbow

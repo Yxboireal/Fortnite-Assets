@@ -1,0 +1,154 @@
+Skeleton = Skeleton'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Alien_Flora/Meshes/Parts/M_MED_Alien_Flora_FaceAcc_Skeleton.M_MED_Alien_Flora_FaceAcc_Skeleton'
+bHasVertexColors = false
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[46] =
+        {
+            BonesToRemove[0] = { BoneName=head_offset }
+            BonesToRemove[1] = { BoneName=dyn_head_flower_base }
+            BonesToRemove[2] = { BoneName=dyn_head_flower_02 }
+            BonesToRemove[3] = { BoneName=dyn_head_flower_03 }
+            BonesToRemove[4] = { BoneName=dyn_head_flower_04 }
+            BonesToRemove[5] = { BoneName=dyn_head_flower_01 }
+            BonesToRemove[6] = { BoneName=dyn_bud_base }
+            BonesToRemove[7] = { BoneName=dyn_bud_parent }
+            BonesToRemove[8] = { BoneName=dyn_petals_back_base_01 }
+            BonesToRemove[9] = { BoneName=dyn_petals_back_parent_01 }
+            BonesToRemove[10] = { BoneName=dyn_petals_back_base_02 }
+            BonesToRemove[11] = { BoneName=dyn_petals_back_parent_02 }
+            BonesToRemove[12] = { BoneName=dyn_petals_back_base_03 }
+            BonesToRemove[13] = { BoneName=dyn_petals_back_parent_03 }
+            BonesToRemove[14] = { BoneName=dyn_petals_back_base_04 }
+            BonesToRemove[15] = { BoneName=dyn_petals_back_parent_04 }
+            BonesToRemove[16] = { BoneName=dyn_petals_back_base_05 }
+            BonesToRemove[17] = { BoneName=dyn_petals_back_parent_05 }
+            BonesToRemove[18] = { BoneName=dyn_petals_back_base_06 }
+            BonesToRemove[19] = { BoneName=dyn_petals_back_parent_06 }
+            BonesToRemove[20] = { BoneName=dyn_petals_back_base_07 }
+            BonesToRemove[21] = { BoneName=dyn_petals_back_parent_07 }
+            BonesToRemove[22] = { BoneName=dyn_petals_back_base_08 }
+            BonesToRemove[23] = { BoneName=dyn_petals_back_parent_08 }
+            BonesToRemove[24] = { BoneName=dyn_petals_back_base_09 }
+            BonesToRemove[25] = { BoneName=dyn_petals_back_parent_09 }
+            BonesToRemove[26] = { BoneName=dyn_petals_back_base_10 }
+            BonesToRemove[27] = { BoneName=dyn_petals_back_parent_10 }
+            BonesToRemove[28] = { BoneName=dyn_petals_front_base_01 }
+            BonesToRemove[29] = { BoneName=dyn_petals_front_parent_01 }
+            BonesToRemove[30] = { BoneName=dyn_petals_front_base_02 }
+            BonesToRemove[31] = { BoneName=dyn_petals_front_parent_02 }
+            BonesToRemove[32] = { BoneName=dyn_petals_front_base_03 }
+            BonesToRemove[33] = { BoneName=dyn_petals_front_parent_03 }
+            BonesToRemove[34] = { BoneName=dyn_petals_front_base_04 }
+            BonesToRemove[35] = { BoneName=dyn_petals_front_parent_04 }
+            BonesToRemove[36] = { BoneName=dyn_petals_front_base_05 }
+            BonesToRemove[37] = { BoneName=dyn_petals_front_parent_05 }
+            BonesToRemove[38] = { BoneName=dyn_petals_front_base_06 }
+            BonesToRemove[39] = { BoneName=dyn_petals_front_parent_06 }
+            BonesToRemove[40] = { BoneName=dyn_petals_front_base_07 }
+            BonesToRemove[41] = { BoneName=dyn_petals_front_parent_07 }
+            BonesToRemove[42] = { BoneName=dyn_petals_front_base_08 }
+            BonesToRemove[43] = { BoneName=dyn_petals_front_parent_08 }
+            BonesToRemove[44] = { BoneName=dyn_petal_scarf_base }
+            BonesToRemove[45] = { BoneName=dyn_petal_scarf_parent }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[46] =
+        {
+            BonesToRemove[0] = { BoneName=head_offset }
+            BonesToRemove[1] = { BoneName=dyn_head_flower_base }
+            BonesToRemove[2] = { BoneName=dyn_head_flower_02 }
+            BonesToRemove[3] = { BoneName=dyn_head_flower_03 }
+            BonesToRemove[4] = { BoneName=dyn_head_flower_04 }
+            BonesToRemove[5] = { BoneName=dyn_head_flower_01 }
+            BonesToRemove[6] = { BoneName=dyn_bud_base }
+            BonesToRemove[7] = { BoneName=dyn_bud_parent }
+            BonesToRemove[8] = { BoneName=dyn_petals_back_base_01 }
+            BonesToRemove[9] = { BoneName=dyn_petals_back_parent_01 }
+            BonesToRemove[10] = { BoneName=dyn_petals_back_base_02 }
+            BonesToRemove[11] = { BoneName=dyn_petals_back_parent_02 }
+            BonesToRemove[12] = { BoneName=dyn_petals_back_base_03 }
+            BonesToRemove[13] = { BoneName=dyn_petals_back_parent_03 }
+            BonesToRemove[14] = { BoneName=dyn_petals_back_base_04 }
+            BonesToRemove[15] = { BoneName=dyn_petals_back_parent_04 }
+            BonesToRemove[16] = { BoneName=dyn_petals_back_base_05 }
+            BonesToRemove[17] = { BoneName=dyn_petals_back_parent_05 }
+            BonesToRemove[18] = { BoneName=dyn_petals_back_base_06 }
+            BonesToRemove[19] = { BoneName=dyn_petals_back_parent_06 }
+            BonesToRemove[20] = { BoneName=dyn_petals_back_base_07 }
+            BonesToRemove[21] = { BoneName=dyn_petals_back_parent_07 }
+            BonesToRemove[22] = { BoneName=dyn_petals_back_base_08 }
+            BonesToRemove[23] = { BoneName=dyn_petals_back_parent_08 }
+            BonesToRemove[24] = { BoneName=dyn_petals_back_base_09 }
+            BonesToRemove[25] = { BoneName=dyn_petals_back_parent_09 }
+            BonesToRemove[26] = { BoneName=dyn_petals_back_base_10 }
+            BonesToRemove[27] = { BoneName=dyn_petals_back_parent_10 }
+            BonesToRemove[28] = { BoneName=dyn_petals_front_base_01 }
+            BonesToRemove[29] = { BoneName=dyn_petals_front_parent_01 }
+            BonesToRemove[30] = { BoneName=dyn_petals_front_base_02 }
+            BonesToRemove[31] = { BoneName=dyn_petals_front_parent_02 }
+            BonesToRemove[32] = { BoneName=dyn_petals_front_base_03 }
+            BonesToRemove[33] = { BoneName=dyn_petals_front_parent_03 }
+            BonesToRemove[34] = { BoneName=dyn_petals_front_base_04 }
+            BonesToRemove[35] = { BoneName=dyn_petals_front_parent_04 }
+            BonesToRemove[36] = { BoneName=dyn_petals_front_base_05 }
+            BonesToRemove[37] = { BoneName=dyn_petals_front_parent_05 }
+            BonesToRemove[38] = { BoneName=dyn_petals_front_base_06 }
+            BonesToRemove[39] = { BoneName=dyn_petals_front_parent_06 }
+            BonesToRemove[40] = { BoneName=dyn_petals_front_base_07 }
+            BonesToRemove[41] = { BoneName=dyn_petals_front_parent_07 }
+            BonesToRemove[42] = { BoneName=dyn_petals_front_base_08 }
+            BonesToRemove[43] = { BoneName=dyn_petals_front_parent_08 }
+            BonesToRemove[44] = { BoneName=dyn_petal_scarf_base }
+            BonesToRemove[45] = { BoneName=dyn_petal_scarf_parent }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

@@ -1,0 +1,1529 @@
+Parent = Material3'/Game/Packages/Fortress_SharedMaterials/Base_Material/M_FN_Customization_MASTER.M_FN_Customization_MASTER'
+ScalarParameterValues[116] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=Simple_Specular }
+        ParameterValue = 0.8
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=Simple_Metalness }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=Simple_Roughness }
+        ParameterValue = 0.25
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=Simple_Fresnel }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = { Name=Darken_BaseColor }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[5] =
+    {
+        ParameterInfo = { Name=Darken_Emissive }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[6] =
+    {
+        ParameterInfo = { Name=Glow_BaseColor_Opacty }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[7] =
+    {
+        ParameterInfo = { Name=Glow_Emissive_Opacty }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[8] =
+    {
+        ParameterInfo = { Name=Curvature_Opactiy }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[9] =
+    {
+        ParameterInfo = { Name=Gradent_Opacity CE }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[10] =
+    {
+        ParameterInfo = { Name=Gradent_WeaponOffset CE }
+        ParameterValue = -0.5
+        ParameterName = None
+    }
+    ScalarParameterValues[11] =
+    {
+        ParameterInfo = { Name=Gradent_WeaponFalloff CE }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[12] =
+    {
+        ParameterInfo = { Name=Mask_HeightLerp_Contrast }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[13] =
+    {
+        ParameterInfo = { Name=Mask_Gradent_Opacity_CE }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[14] =
+    {
+        ParameterInfo = { Name=Mask_WeaponOffset CE }
+        ParameterValue = -0.85
+        ParameterName = None
+    }
+    ScalarParameterValues[15] =
+    {
+        ParameterInfo = { Name=Mask_WeaponFalloff CE }
+        ParameterValue = 0.15
+        ParameterName = None
+    }
+    ScalarParameterValues[16] =
+    {
+        ParameterInfo = { Name=Mask_VehicleOffset CE }
+        ParameterValue = -0.9
+        ParameterName = None
+    }
+    ScalarParameterValues[17] =
+    {
+        ParameterInfo = { Name=Mask_VehicleFalloff CE }
+        ParameterValue = 0.05
+        ParameterName = None
+    }
+    ScalarParameterValues[18] =
+    {
+        ParameterInfo = { Name=Mask_MechOffset CE }
+        ParameterValue = -0.9
+        ParameterName = None
+    }
+    ScalarParameterValues[19] =
+    {
+        ParameterInfo = { Name=Mask_MechFalloff CE }
+        ParameterValue = 0.05
+        ParameterName = None
+    }
+    ScalarParameterValues[20] =
+    {
+        ParameterInfo = { Name=FA_Fill_alternate_Axis_Opacity 02 }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[21] =
+    {
+        ParameterInfo = { Name=FA_Fill_alternate_Axis_Opacity 01 }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[22] =
+    {
+        ParameterInfo = { Name=FA-Emissive01-DarkenBase------- }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[23] =
+    {
+        ParameterInfo = { Name=FA_WarpEmissive01_Warp_Amount }
+        ParameterValue = 0.2
+        ParameterName = None
+    }
+    ScalarParameterValues[24] =
+    {
+        ParameterInfo = { Name=FA-Emissive02-DarkenBase------- }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[25] =
+    {
+        ParameterInfo = { Name=FA_Emissive02_Curve }
+        ParameterValue = 8
+        ParameterName = None
+    }
+    ScalarParameterValues[26] =
+    {
+        ParameterInfo = { Name=FA_Emissive02_Curve_End }
+        ParameterValue = 11
+        ParameterName = None
+    }
+    ScalarParameterValues[27] =
+    {
+        ParameterInfo = { Name=FA_Emissive02_Curve_Falloff_Mech }
+        ParameterValue = 1.1
+        ParameterName = None
+    }
+    ScalarParameterValues[28] =
+    {
+        ParameterInfo = { Name=FA_Emissive02_Curve_Falloff_Vehicle }
+        ParameterValue = 1.1
+        ParameterName = None
+    }
+    ScalarParameterValues[29] =
+    {
+        ParameterInfo = { Name=FA_Emissive02_Curve_Falloff_Weapon }
+        ParameterValue = 1.1
+        ParameterName = None
+    }
+    ScalarParameterValues[30] =
+    {
+        ParameterInfo = { Name=FA_Emissive02_HeightLerp_Contrast }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[31] =
+    {
+        ParameterInfo = { Name=FA_WarpEmissive02_Warp_Amount }
+        ParameterValue = 0.02
+        ParameterName = None
+    }
+    ScalarParameterValues[32] =
+    {
+        ParameterInfo = { Name=FA_TimeFrom_BP }
+        ParameterValue = -99999
+        ParameterName = None
+    }
+    ScalarParameterValues[33] =
+    {
+        ParameterInfo = { Name=FA_Time_Emissive01_Duration }
+        ParameterValue = 0.5
+        ParameterName = None
+    }
+    ScalarParameterValues[34] =
+    {
+        ParameterInfo = { Name=FA_Time_Emissive01_Curve }
+        ParameterValue = 0.3
+        ParameterName = None
+    }
+    ScalarParameterValues[35] =
+    {
+        ParameterInfo = { Name=FA_Time_Emissive02_Duration }
+        ParameterValue = 0.5
+        ParameterName = None
+    }
+    ScalarParameterValues[36] =
+    {
+        ParameterInfo = { Name=FA_Time_Emissive02_Curve }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[37] =
+    {
+        ParameterInfo = { Name=FA_Time_Emissive02_CurveBrightness_Start }
+        ParameterValue = 50
+        ParameterName = None
+    }
+    ScalarParameterValues[38] =
+    {
+        ParameterInfo = { Name=FA_Time_Emissive02_CurveBrightness_End }
+        ParameterValue = 1.2
+        ParameterName = None
+    }
+    ScalarParameterValues[39] =
+    {
+        ParameterInfo = { Name=FDecal_Customization_Mask_Sphear_Radius }
+        ParameterValue = 0.5
+        ParameterName = None
+    }
+    ScalarParameterValues[40] =
+    {
+        ParameterInfo = { Name=FDecal--Rougness--------- }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[41] =
+    {
+        ParameterInfo = { Name=FDecal__Specular }
+        ParameterValue = 0.5
+        ParameterName = None
+    }
+    ScalarParameterValues[42] =
+    {
+        ParameterInfo = { Name=FDecal_UV_Rotation_Right_Character }
+        ParameterValue = 0.75
+        ParameterName = None
+    }
+    ScalarParameterValues[43] =
+    {
+        ParameterInfo = { Name=FDecal_UV_Rotation_Right_Mech }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[44] =
+    {
+        ParameterInfo = { Name=Crystal_FresEX }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[45] =
+    {
+        ParameterInfo = { Name=ice Brightness }
+        ParameterValue = 0.8
+        ParameterName = None
+    }
+    ScalarParameterValues[46] =
+    {
+        ParameterInfo = { Name=Ice Emissive Brightness }
+        ParameterValue = 1.25
+        ParameterName = None
+    }
+    ScalarParameterValues[47] =
+    {
+        ParameterInfo = { Name=Ice Fresnel }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[48] =
+    {
+        ParameterInfo = { Name=Ice Normal Tiling }
+        ParameterValue = 1.5
+        ParameterName = None
+    }
+    ScalarParameterValues[49] =
+    {
+        ParameterInfo = { Name=IceMetallic }
+        ParameterValue = 0.8
+        ParameterName = None
+    }
+    ScalarParameterValues[50] =
+    {
+        ParameterInfo = { Name=IceNormalIntensity }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[51] =
+    {
+        ParameterInfo = { Name=SnowAmount }
+        ParameterValue = 1.8
+        ParameterName = None
+    }
+    ScalarParameterValues[52] =
+    {
+        ParameterInfo = { Name=SnowPower }
+        ParameterValue = 1.8
+        ParameterName = None
+    }
+    ScalarParameterValues[53] =
+    {
+        ParameterInfo = { Name=CreviceBlendBlance }
+        ParameterValue = 0.4
+        ParameterName = None
+    }
+    ScalarParameterValues[54] =
+    {
+        ParameterInfo = { Name=CreviceBlendINT }
+        ParameterValue = 2.5
+        ParameterName = None
+    }
+    ScalarParameterValues[55] =
+    {
+        ParameterInfo = { Name=CreviceBlendSpecular }
+        ParameterValue = 0.8
+        ParameterName = None
+    }
+    ScalarParameterValues[56] =
+    {
+        ParameterInfo = { Name=Vehicle Wrap Scale Multiplier }
+        ParameterValue = 4
+        ParameterName = None
+    }
+    ScalarParameterValues[57] =
+    {
+        ParameterInfo = { Name=Global X Rot }
+        ParameterValue = 1.75
+        ParameterName = None
+    }
+    ScalarParameterValues[58] =
+    {
+        ParameterInfo = { Name=Weapon Z Axis Rot }
+        ParameterValue = 0.2
+        ParameterName = None
+    }
+    ScalarParameterValues[59] =
+    {
+        ParameterInfo = { Name=Vehicle Z Axis Rot }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[60] =
+    {
+        ParameterInfo = { Name=Vehicle Z axis Rotation }
+        ParameterValue = 0.25
+        ParameterName = None
+    }
+    ScalarParameterValues[61] =
+    {
+        ParameterInfo = { Name=Wrap_Texture Scale }
+        ParameterValue = 25
+        ParameterName = None
+    }
+    ScalarParameterValues[62] =
+    {
+        ParameterInfo = { Name=Wrap_Normal Texture Intensity }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[63] =
+    {
+        ParameterInfo = { Name=Wrap_Triplanar Seam Hardness }
+        ParameterValue = 0.5
+        ParameterName = None
+    }
+    ScalarParameterValues[64] =
+    {
+        ParameterInfo = { Name=Triplaner_Specular }
+        ParameterValue = 0.8
+        ParameterName = None
+    }
+    ScalarParameterValues[65] =
+    {
+        ParameterInfo = { Name=Triplaners Seam Hardness }
+        ParameterValue = 0.5
+        ParameterName = None
+    }
+    ScalarParameterValues[66] =
+    {
+        ParameterInfo = { Name=Triplaner_RoughnessMin }
+        ParameterValue = 0.25
+        ParameterName = None
+    }
+    ScalarParameterValues[67] =
+    {
+        ParameterInfo = { Name=Triplaner_RoughnessMax }
+        ParameterValue = 0.5
+        ParameterName = None
+    }
+    ScalarParameterValues[68] =
+    {
+        ParameterInfo = { Name=Global Z Rot }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[69] =
+    {
+        ParameterInfo = { Name=GradientHeightLerp_PatternMin }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[70] =
+    {
+        ParameterInfo = { Name=GradientHeightLerp_PatternMax }
+        ParameterValue = 0.8
+        ParameterName = None
+    }
+    ScalarParameterValues[71] =
+    {
+        ParameterInfo = { Name=GradientHeightLerpContrast }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[72] =
+    {
+        ParameterInfo = { Name=Wrap Gradient_ Power }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[73] =
+    {
+        ParameterInfo = { Name=Wrap Gradient_ GradientOffset }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[74] =
+    {
+        ParameterInfo = { Name=Wrap Gradient_ WeaponOffset }
+        ParameterValue = -0.2
+        ParameterName = None
+    }
+    ScalarParameterValues[75] =
+    {
+        ParameterInfo = { Name=Wrap Gradient_VehicleRadius Falloff }
+        ParameterValue = 0.3
+        ParameterName = None
+    }
+    ScalarParameterValues[76] =
+    {
+        ParameterInfo = { Name=Wrap Gradient_ VehicleOffset }
+        ParameterValue = -0.2
+        ParameterName = None
+    }
+    ScalarParameterValues[77] =
+    {
+        ParameterInfo = { Name=Wrap Gradient_ invert Gradient }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[78] =
+    {
+        ParameterInfo = { Name=Buildup_MaskSecondary Material }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[79] =
+    {
+        ParameterInfo = { Name=BuildUp_Roughness }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[80] =
+    {
+        ParameterInfo = { Name=BuidUp_TriPlanner_Contrast }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[81] =
+    {
+        ParameterInfo = { Name=BuildUp_Z_Strenght_Weapon }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[82] =
+    {
+        ParameterInfo = { Name=BuldUp_Grad_Falloff_Weapon }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[83] =
+    {
+        ParameterInfo = { Name=BuildUp_TileRate_Weapon }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[84] =
+    {
+        ParameterInfo = { Name=BuildUp_TileRate_Vehicle }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[85] =
+    {
+        ParameterInfo = { Name=BuildUp_TileRate_Backpack }
+        ParameterValue = 0.5
+        ParameterName = None
+    }
+    ScalarParameterValues[86] =
+    {
+        ParameterInfo = { Name=BuildUp_TileRate_Mech }
+        ParameterValue = 5
+        ParameterName = None
+    }
+    ScalarParameterValues[87] =
+    {
+        ParameterInfo = { Name=BuildUp_TileRate_Pickaxe }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[88] =
+    {
+        ParameterInfo = { Name=ThinFilm_Exponent }
+        ParameterValue = 3
+        ParameterName = None
+    }
+    ScalarParameterValues[89] =
+    {
+        ParameterInfo = { Name=ThinFilm_Intensity }
+        ParameterValue = 0.5
+        ParameterName = None
+    }
+    ScalarParameterValues[90] =
+    {
+        ParameterInfo = { Name=TS_Fill_alternate_Axis_Opacity 01 }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[91] =
+    {
+        ParameterInfo = { Name=TS_Fill_alternate_Axis_Opacity 02 }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[92] =
+    {
+        ParameterInfo = { Name=TS_Blend_Hieghtlerp_Contrast }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[93] =
+    {
+        ParameterInfo = { Name=TS_Blend_OffsetWeapon  }
+        ParameterValue = -0.5
+        ParameterName = None
+    }
+    ScalarParameterValues[94] =
+    {
+        ParameterInfo = { Name=TS_Blend_OffsetVehicle  }
+        ParameterValue = -0.65
+        ParameterName = None
+    }
+    ScalarParameterValues[95] =
+    {
+        ParameterInfo = { Name=TS_Blend_FalloffWeapon (negative inverts) }
+        ParameterValue = -0.4
+        ParameterName = None
+    }
+    ScalarParameterValues[96] =
+    {
+        ParameterInfo = { Name=TS_Blend_FalloffVehicle }
+        ParameterValue = -0.4
+        ParameterName = None
+    }
+    ScalarParameterValues[97] =
+    {
+        ParameterInfo = { Name=TS_Blend_FalloffMech }
+        ParameterValue = -1
+        ParameterName = None
+    }
+    ScalarParameterValues[98] =
+    {
+        ParameterInfo =
+        {
+            Name = TS_AEmissive_alternate_Axis_Masking_Weapon
+        }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[99] =
+    {
+        ParameterInfo = { Name=TS_Emissive01_Curve }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[100] =
+    {
+        ParameterInfo = { Name=TS_Emissive01_HeightLerp_Contrast }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[101] =
+    {
+        ParameterInfo = { Name=TS_Emissive01_OffsetWeapon  }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[102] =
+    {
+        ParameterInfo =
+        {
+            Name = TS_Emissive01_FalloffWeapon (negative inverts)
+        }
+        ParameterValue = 1.5
+        ParameterName = None
+    }
+    ScalarParameterValues[103] =
+    {
+        ParameterInfo = { Name=TS_WarpEmissive01_Warp_Amount }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[104] =
+    {
+        ParameterInfo = { Name=TS_Emissive02_Curve }
+        ParameterValue = 11
+        ParameterName = None
+    }
+    ScalarParameterValues[105] =
+    {
+        ParameterInfo = { Name=TS-Emissive02-CurveBrightness }
+        ParameterValue = 1.5
+        ParameterName = None
+    }
+    ScalarParameterValues[106] =
+    {
+        ParameterInfo = { Name=TS-Emissive02-CurveMask }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[107] =
+    {
+        ParameterInfo = { Name=TS-Emissive02-DarkenBase------- }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[108] =
+    {
+        ParameterInfo = { Name=TS_Emissive02Curve_Falloff_Mech }
+        ParameterValue = 1.1
+        ParameterName = None
+    }
+    ScalarParameterValues[109] =
+    {
+        ParameterInfo = { Name=TS_Emissive02Curve_Falloff_Vehicle }
+        ParameterValue = 1.1
+        ParameterName = None
+    }
+    ScalarParameterValues[110] =
+    {
+        ParameterInfo = { Name=TS_Emissive02Curve_Falloff_Weapon }
+        ParameterValue = 1.1
+        ParameterName = None
+    }
+    ScalarParameterValues[111] =
+    {
+        ParameterInfo = { Name=TS_Emissive02_HeightLerp_Contrast }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[112] =
+    {
+        ParameterInfo = { Name=TS_WarpEmissive02_Warp_Amount }
+        ParameterValue = 0.1
+        ParameterName = None
+    }
+    ScalarParameterValues[113] =
+    {
+        ParameterInfo = { Name=TS_Vehicle_Side_01 UVs 0=Off 1=Active }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[114] =
+    {
+        ParameterInfo = { Name=TS-WarpUVS-01-Amount Weapon }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[115] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[21] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=CustomizationMask (_CM) }
+        ParameterValue = Texture2D'/Game/Athena/Aircraft/PartyBus_RT/Textures/AllBlackMasks.AllBlackMasks'
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=Wrap_Normals }
+        ParameterValue = Texture2D'/Game/Weapons/WeaponSkins/Wraps/Textures/Zebra/T_Wrap_Zebra_N.T_Wrap_Zebra_N'
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=FA_Mask_02 }
+        ParameterValue = Texture2D'/Game/Weapons/WeaponSkins/Wraps/Textures/Polygon/T_Wrap_Polygon_M2.T_Wrap_Polygon_M2'
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=FA_Emissive01Gradent_Texture }
+        ParameterValue = Texture2D'/Game/Weapons/WeaponSkins/Wraps/Textures/Fryangles/T_Wrap_Fryangles_M.T_Wrap_Fryangles_M'
+        ParameterName = None
+    }
+    TextureParameterValues[4] =
+    {
+        ParameterInfo = { Name=FA_Emissive02_Gradent_Texture }
+        ParameterValue = Texture2D'/Game/Weapons/WeaponSkins/Wraps/Textures/Fryangles/T_Wrap_Fryangles_M2.T_Wrap_Fryangles_M2'
+        ParameterName = None
+    }
+    TextureParameterValues[5] =
+    {
+        ParameterInfo = { Name=FDecal_BaseColor_Tex }
+        ParameterValue = Texture2D'/Game/Weapons/WeaponSkins/Wraps/Textures/Polygon/T_Wrap_Polygon_Decal.T_Wrap_Polygon_Decal'
+        ParameterName = None
+    }
+    TextureParameterValues[6] =
+    {
+        ParameterInfo = { Name=Triplaner_01_Diffuse }
+        ParameterValue = Texture2D'/Game/Characters/Fortress_Character/Textures/AllBlack.AllBlack'
+        ParameterName = None
+    }
+    TextureParameterValues[7] =
+    {
+        ParameterInfo = { Name=Wrap_Diffuse }
+        ParameterValue = Texture2D'/Game/Weapons/WeaponSkins/Wraps/Textures/Zebra/T_Wrap_Zebra_D.T_Wrap_Zebra_D'
+        ParameterName = None
+    }
+    TextureParameterValues[8] =
+    {
+        ParameterInfo = { Name=Triplaner_01_Normals }
+        ParameterValue = Texture2D'/Game/Packages/Fortress_SharedMaterials/Textures/FlatNormalBlue.FlatNormalBlue'
+        ParameterName = None
+    }
+    TextureParameterValues[9] =
+    {
+        ParameterInfo = { Name=Triplaner_02_Diffuse }
+        ParameterValue = Texture2D'/Game/Weapons/WeaponSkins/Wraps/Textures/Slurp/T_Wrap_Slurp_Gradient_D.T_Wrap_Slurp_Gradient_D'
+        ParameterName = None
+    }
+    TextureParameterValues[10] =
+    {
+        ParameterInfo = { Name=Triplaner_02_Normals }
+        ParameterValue = Texture2D'/Game/Packages/Fortress_SharedMaterials/Textures/FlatNormalBlue.FlatNormalBlue'
+        ParameterName = None
+    }
+    TextureParameterValues[11] =
+    {
+        ParameterInfo = { Name=BuildUp_Diffuse01 }
+        ParameterValue = Texture2D'/Game/Weapons/WeaponSkins/Wraps/Textures/Fryangles/T_Wrap_Fryangles_D.T_Wrap_Fryangles_D'
+        ParameterName = None
+    }
+    TextureParameterValues[12] =
+    {
+        ParameterInfo = { Name=BuildUp_Diffuse02 }
+        ParameterValue = Texture2D'/Game/Weapons/WeaponSkins/Wraps/Textures/Polygon/T_Wrap_Polygon_D2.T_Wrap_Polygon_D2'
+        ParameterName = None
+    }
+    TextureParameterValues[13] =
+    {
+        ParameterInfo = { Name=SkinFX_Mask }
+        ParameterValue = Texture2D'/Game/Packages/Fortress_SharedMaterials/Textures/whiteTexture.WhiteTexture'
+        ParameterName = None
+    }
+    TextureParameterValues[14] =
+    {
+        ParameterInfo = { Name=Thin Film Texture }
+        ParameterValue = Texture2D'/Game/Weapons/WeaponSkins/Textures/T_ThinFilm_Spectrum_COLOR.T_ThinFilm_Spectrum_COLOR'
+        ParameterName = None
+    }
+    TextureParameterValues[15] =
+    {
+        ParameterInfo = { Name=TS_BaseColor_02 }
+        ParameterValue = Texture2D'/Game/Weapons/WeaponSkins/Wraps/Textures/Polygon/T_Wrap_Polygon_D.T_Wrap_Polygon_D'
+        ParameterName = None
+    }
+    TextureParameterValues[16] =
+    {
+        ParameterInfo = { Name=TS_BaseColor_01 }
+        ParameterValue = Texture2D'/Game/Weapons/WeaponSkins/Wraps/Textures/Polygon/T_Wrap_Polygon_D.T_Wrap_Polygon_D'
+        ParameterName = None
+    }
+    TextureParameterValues[17] =
+    {
+        ParameterInfo = { Name=TS_Mask_01 }
+        ParameterValue = Texture2D'/Game/Weapons/WeaponSkins/Wraps/Textures/Polygon/T_Wrap_Polygon_M.T_Wrap_Polygon_M'
+        ParameterName = None
+    }
+    TextureParameterValues[18] =
+    {
+        ParameterInfo = { Name=TS_Mask_02 }
+        ParameterValue = Texture2D'/Game/Weapons/WeaponSkins/Wraps/Textures/Polygon/T_Wrap_Polygon_M.T_Wrap_Polygon_M'
+        ParameterName = None
+    }
+    TextureParameterValues[19] =
+    {
+        ParameterInfo = { Name=Ts_Emissive01Gradent_Texture }
+        ParameterValue = Texture2D'/Game/Weapons/WeaponSkins/Wraps/Textures/Polygon/T_Wrap_Polygon_M3.T_Wrap_Polygon_M3'
+        ParameterName = None
+    }
+    TextureParameterValues[20] =
+    {
+        ParameterInfo = { Name=TS_Emissive02_Gradent_Texture }
+        ParameterValue = Texture2D'/Game/Weapons/WeaponSkins/Textures/T_VertGradient_MASK.T_VertGradient_MASK'
+        ParameterName = None
+    }
+}
+VectorParameterValues[62] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=Simple_Color }
+        ParameterValue = { R=0.006049, G=0.004777, B=0.012286, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=Simple_Emissive }
+        ParameterValue = { R=0, G=0, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=Glow_ColorA }
+        ParameterValue = { R=1, G=0.838799, B=0.194618, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[3] =
+    {
+        ParameterInfo = { Name=Glow_ColorB }
+        ParameterValue = { R=1, G=0.838799, B=0.194618, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[4] =
+    {
+        ParameterInfo = { Name=TS_Mask_01_Channel }
+        ParameterValue = { R=0, G=0, B=1, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[5] =
+    {
+        ParameterInfo = { Name=FA_Emissive01_Spread_XY }
+        ParameterValue = { R=0.8, G=1, B=1, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[6] =
+    {
+        ParameterInfo = { Name=FA_WarpEmissive01MaskChannel_01 }
+        ParameterValue = { R=0, G=1, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[7] =
+    {
+        ParameterInfo = { Name=FA_Emissive02_Gradent_TextureChannel }
+        ParameterValue = { R=0, G=0, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[8] =
+    {
+        ParameterInfo = { Name=FA_Emissive02_Spread_Mech_XY }
+        ParameterValue = { R=0.6, G=1, B=1, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[9] =
+    {
+        ParameterInfo = { Name=FA_Emissive02_Spread_XY }
+        ParameterValue = { R=0.6, G=1, B=1, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[10] =
+    {
+        ParameterInfo = { Name=FA_Emissive02_OffsetMech_End }
+        ParameterValue = { R=0, G=0, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[11] =
+    {
+        ParameterInfo = { Name=FA_Emissive02_OffsetMech_Start }
+        ParameterValue = { R=0, G=0, B=0.25, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[12] =
+    {
+        ParameterInfo = { Name=FA_Emissive02_OffsetVehicle_End }
+        ParameterValue = { R=0.1, G=0, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[13] =
+    {
+        ParameterInfo = { Name=FA_Emissive02_OffsetVehicle_Start }
+        ParameterValue = { R=0.3, G=0, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[14] =
+    {
+        ParameterInfo = { Name=FA_Emissive02_OffsetWeapon_End }
+        ParameterValue = { R=0, G=0.1, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[15] =
+    {
+        ParameterInfo = { Name=FA_Emissive02_OffsetWeapon_Start }
+        ParameterValue = { R=0, G=0.3, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[16] =
+    {
+        ParameterInfo = { Name=FA_WarpEmissive02MaskChannel_02 }
+        ParameterValue = { R=0, G=1, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[17] =
+    {
+        ParameterInfo = { Name=FA_Time_Emissive01_Color_Start }
+        ParameterValue = { R=50, G=3.83885, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[18] =
+    {
+        ParameterInfo = { Name=FA_Time_Emissive01_Color_End }
+        ParameterValue = { R=0.401978, G=0.042311, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[19] =
+    {
+        ParameterInfo = { Name=FA_Scale_Weapon_01 A=uniform }
+        ParameterValue = { R=1, G=1, B=1, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[20] =
+    {
+        ParameterInfo = { Name=FA_Panning_Vehicle_01 }
+        ParameterValue = { R=0.5, G=0, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[21] =
+    {
+        ParameterInfo = { Name=FA_Panning_Mech_01 }
+        ParameterValue = { R=0, G=0, B=0.5, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[22] =
+    {
+        ParameterInfo = { Name=FA_Panning_Weapon_02--------------------- }
+        ParameterValue = { R=0, G=0.15, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[23] =
+    {
+        ParameterInfo = { Name=FA_Panning_Vehicle_02 }
+        ParameterValue = { R=0.15, G=0, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[24] =
+    {
+        ParameterInfo = { Name=FA_Panning_Mech_02 }
+        ParameterValue = { R=0, G=0, B=0.15, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[25] =
+    {
+        ParameterInfo = { Name=FDecal_BaseColor_Simple }
+        ParameterValue = { R=0.7, G=0.7, B=0.7, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[26] =
+    {
+        ParameterInfo = { Name=FDecal_Customization_Mask_Channel }
+        ParameterValue = { R=0, G=0, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[27] =
+    {
+        ParameterInfo = { Name=Ice Edge Tint }
+        ParameterValue = { R=0.551342, G=0.850115, B=0.885417, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[28] =
+    {
+        ParameterInfo = { Name=BuildUp_02_Speed_Weapon }
+        ParameterValue = { R=0, G=0.2, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[29] =
+    {
+        ParameterInfo = { Name=BuildUp_02_Speed_Vehicle }
+        ParameterValue = { R=0.1, G=0.02, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[30] =
+    {
+        ParameterInfo = { Name=BuildUp_02_Speed_Mech }
+        ParameterValue = { R=0, G=-0.2, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[31] =
+    {
+        ParameterInfo = { Name=TS_SimpleDifuse_Rougness_01 }
+        ParameterValue = { R=0.278894, G=0.036889, B=0.171441, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[32] =
+    {
+        ParameterInfo = { Name=TS_SimpleDifuse_Rougness_02 }
+        ParameterValue = { R=0.038204, G=0.031896, B=0.109462, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[33] =
+    {
+        ParameterInfo = { Name=TS_Fill_alternate_Axis_Color_Mask 02 }
+        ParameterValue = { R=0, G=1, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[34] =
+    {
+        ParameterInfo = { Name=TS_Fill_Z_Axis_Weapon_Color_Mask_02 }
+        ParameterValue = { R=0.760417, G=0.760417, B=0.760417, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[35] =
+    {
+        ParameterInfo = { Name=TS_Blend_HieghtlerpMaskChannel_01 }
+        ParameterValue = { R=0, G=1, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[36] =
+    {
+        ParameterInfo = { Name=TS_Emissive01_Color }
+        ParameterValue = { R=1, G=0, B=0.038955, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[37] =
+    {
+        ParameterInfo = { Name=TS_Emissive01_MaskChannel_01 }
+        ParameterValue = { R=0, G=0, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[38] =
+    {
+        ParameterInfo = { Name=Ts_Emissive01_TextureChannel }
+        ParameterValue = { R=0, G=0, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[39] =
+    {
+        ParameterInfo = { Name=TS_Emissive02_TextureChannel }
+        ParameterValue = { R=0, G=0, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[40] =
+    {
+        ParameterInfo = { Name=TS_WarpEmissive01MaskChannel_01 }
+        ParameterValue = { R=0, G=1, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[41] =
+    {
+        ParameterInfo = { Name=TS_WarpEmissive01MaskChannel_02 }
+        ParameterValue = { R=1, G=0, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[42] =
+    {
+        ParameterInfo = { Name=TS_Emissive02_Color }
+        ParameterValue = { R=0.020289, G=0.022174, B=0.076185, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[43] =
+    {
+        ParameterInfo = { Name=TS_Emissive02_MaskChannel_02 }
+        ParameterValue = { R=1, G=0, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[44] =
+    {
+        ParameterInfo = { Name=TS_Emissive02_Spread_XY }
+        ParameterValue = { R=0.79, G=1, B=1, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[45] =
+    {
+        ParameterInfo = { Name=TS_Emissive02_OffsetWeapon }
+        ParameterValue = { R=0, G=0, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[46] =
+    {
+        ParameterInfo = { Name=TS_Emissive02_OffsetVehicle }
+        ParameterValue = { R=0, G=0, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[47] =
+    {
+        ParameterInfo = { Name=TS_Emissive02_OffsetMech }
+        ParameterValue = { R=0, G=0, B=-0.08, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[48] =
+    {
+        ParameterInfo = { Name=TS_WarpEmissive02MaskChannel_02 }
+        ParameterValue = { R=0, G=1, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[49] =
+    {
+        ParameterInfo = { Name=TS-WarpUVS-01_Channel }
+        ParameterValue = { R=0, G=1, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[50] =
+    {
+        ParameterInfo =
+        {
+            Name = TS-Rotation-Weapon-01---------------------
+        }
+        ParameterValue = { R=0, G=0, B=-0.25, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[51] =
+    {
+        ParameterInfo = { Name=TS_Rotation_Character_01 }
+        ParameterValue = { R=0.25, G=0.25, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[52] =
+    {
+        ParameterInfo = { Name=TS_Offset_Weapon_01--------------------- }
+        ParameterValue = { R=0, G=0, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[53] =
+    {
+        ParameterInfo = { Name=TS_Panning_Weapon_02 }
+        ParameterValue = { R=0, G=0.3, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[54] =
+    {
+        ParameterInfo = { Name=TS_Offset_Vehicle_01 }
+        ParameterValue = { R=0, G=0.5, B=0.11, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[55] =
+    {
+        ParameterInfo = { Name=TS_Offset_Vehicle_Side_01 }
+        ParameterValue = { R=0, G=0, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[56] =
+    {
+        ParameterInfo = { Name=TS_Scale_Weapon_01 A=uniform }
+        ParameterValue = { R=0, G=1, B=1, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[57] =
+    {
+        ParameterInfo = { Name=TS_Scale_Vehicle_01 A=uniform }
+        ParameterValue = { R=1, G=1, B=1, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[58] =
+    {
+        ParameterInfo = { Name=TS_Scale_Vehicle_Side_01 A=uniform }
+        ParameterValue = { R=1, G=0, B=1, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[59] =
+    {
+        ParameterInfo = { Name=TS_Scale_Character_01 A=uniform }
+        ParameterValue = { R=1, G=1, B=1, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[60] =
+    {
+        ParameterInfo = { Name=TS_Panning_Vehicle_02 }
+        ParameterValue = { R=0.3, G=0, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[61] =
+    {
+        ParameterInfo = { Name=TS_Panning_Mech_02 }
+        ParameterValue = { R=0, G=0, B=0.3, A=1 }
+        ParameterName = None
+    }
+}
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0.3333
+}
+StaticParameters =
+{
+    StaticSwitchParameters[43] =
+    {
+        StaticSwitchParameters[0] =
+        {
+            Value = true
+            ParameterInfo = { Name=Allow Customization Effects }
+            bOverride = true
+        }
+        StaticSwitchParameters[1] =
+        {
+            Value = true
+            ParameterInfo =
+            {
+                Name = Allow Secondary Customization Area (Simple)
+            }
+            bOverride = true
+        }
+        StaticSwitchParameters[2] =
+        {
+            Value = true
+            ParameterInfo = { Name=FryAngles }
+            bOverride = true
+        }
+        StaticSwitchParameters[3] =
+        {
+            Value = true
+            ParameterInfo = { Name=Function_Left_Right_Decal }
+            bOverride = true
+        }
+        StaticSwitchParameters[4] =
+        {
+            Value = true
+            ParameterInfo = { Name=TopSideProjection }
+            bOverride = true
+        }
+        StaticSwitchParameters[5] =
+        {
+            Value = false
+            ParameterInfo = { Name=UseSimpleEmissive }
+            bOverride = true
+        }
+        StaticSwitchParameters[6] =
+        {
+            Value = true
+            ParameterInfo = { Name=Curvature_Primary_Mask }
+            bOverride = true
+        }
+        StaticSwitchParameters[7] =
+        {
+            Value = false
+            ParameterInfo =
+            {
+                Name = Curvature-Enable--------------------------------
+            }
+            bOverride = true
+        }
+        StaticSwitchParameters[8] =
+        {
+            Value = false
+            ParameterInfo =
+            {
+                Name = Gradent-Enable CE--------------------------------
+            }
+            bOverride = true
+        }
+        StaticSwitchParameters[9] =
+        {
+            Value = true
+            ParameterInfo = { Name=Gradent_Invert CE }
+            bOverride = true
+        }
+        StaticSwitchParameters[10] =
+        {
+            Value = true
+            ParameterInfo = { Name=Mask-Glow------------------------ }
+            bOverride = true
+        }
+        StaticSwitchParameters[11] =
+        {
+            Value = true
+            ParameterInfo = { Name=Mask_HeightLerp }
+            bOverride = true
+        }
+        StaticSwitchParameters[12] =
+        {
+            Value = true
+            ParameterInfo = { Name=Mask_Gradent }
+            bOverride = true
+        }
+        StaticSwitchParameters[13] =
+        {
+            Value = true
+            ParameterInfo = { Name=Mask_Invert_Gradent CE }
+            bOverride = true
+        }
+        StaticSwitchParameters[14] =
+        {
+            Value = true
+            ParameterInfo = { Name=FDecal_BaseColor__Simple }
+            bOverride = true
+        }
+        StaticSwitchParameters[15] =
+        {
+            Value = true
+            ParameterInfo = { Name=FDecal_Projection-LR--->Side }
+            bOverride = true
+        }
+        StaticSwitchParameters[16] =
+        {
+            Value = true
+            ParameterInfo = { Name=FDecal_UV_SafeZone_Front }
+            bOverride = true
+        }
+        StaticSwitchParameters[17] =
+        {
+            Value = true
+            ParameterInfo = { Name=Use Procedural Snow }
+            bOverride = true
+        }
+        StaticSwitchParameters[18] =
+        {
+            Value = true
+            ParameterInfo = { Name=Triplaner_01_NormalsSimple }
+            bOverride = true
+        }
+        StaticSwitchParameters[19] =
+        {
+            Value = false
+            ParameterInfo = { Name=BlendGradientByTriPlaner 01 (Alpha) }
+            bOverride = true
+        }
+        StaticSwitchParameters[20] =
+        {
+            Value = true
+            ParameterInfo = { Name=Disable_MainTextures }
+            bOverride = true
+        }
+        StaticSwitchParameters[21] =
+        {
+            Value = true
+            ParameterInfo = { Name=Disable_normals01 }
+            bOverride = true
+        }
+        StaticSwitchParameters[22] =
+        {
+            Value = true
+            ParameterInfo = { Name=Disable_normals02 }
+            bOverride = true
+        }
+        StaticSwitchParameters[23] =
+        {
+            Value = false
+            ParameterInfo =
+            {
+                Name = TS-SimpleDifuse-Rougness-01----------------------
+            }
+            bOverride = true
+        }
+        StaticSwitchParameters[24] =
+        {
+            Value = true
+            ParameterInfo = { Name=TS-SimpleNormal-01---------------------- }
+            bOverride = true
+        }
+        StaticSwitchParameters[25] =
+        {
+            Value = false
+            ParameterInfo =
+            {
+                Name = TS-Blend-TS_01--TS_02------------------------------------------------
+            }
+            bOverride = true
+        }
+        StaticSwitchParameters[26] =
+        {
+            Value = false
+            ParameterInfo =
+            {
+                Name = TS-SimpleDifuse-Rougness-02---------------------
+            }
+            bOverride = true
+        }
+        StaticSwitchParameters[27] =
+        {
+            Value = false
+            ParameterInfo = { Name=Ts-Blend-Gradent-->Height_Lerp }
+            bOverride = true
+        }
+        StaticSwitchParameters[28] =
+        {
+            Value = true
+            ParameterInfo =
+            {
+                Name = TS-Emissive-01------------------------------------------------------
+            }
+            bOverride = true
+        }
+        StaticSwitchParameters[29] =
+        {
+            Value = false
+            ParameterInfo = { Name=TS-Emissive-01-Color--->Curve }
+            bOverride = true
+        }
+        StaticSwitchParameters[30] =
+        {
+            Value = false
+            ParameterInfo = { Name=TS-Emissive01--TS-Mask-01--->TS-Mask-02 }
+            bOverride = true
+        }
+        StaticSwitchParameters[31] =
+        {
+            Value = false
+            ParameterInfo = { Name=TS_Emissive01_HeightLerp }
+            bOverride = true
+        }
+        StaticSwitchParameters[32] =
+        {
+            Value = true
+            ParameterInfo = { Name=TS_Emissive01_X+X }
+            bOverride = true
+        }
+        StaticSwitchParameters[33] =
+        {
+            Value = true
+            ParameterInfo = { Name=Ts-Emissive01_Gradent-->Texture }
+            bOverride = true
+        }
+        StaticSwitchParameters[34] =
+        {
+            Value = false
+            ParameterInfo =
+            {
+                Name = TS-Emissive-02------------------------------------------------------
+            }
+            bOverride = true
+        }
+        StaticSwitchParameters[35] =
+        {
+            Value = false
+            ParameterInfo = { Name=TS-Emissive-02-Color--->Curve }
+            bOverride = true
+        }
+        StaticSwitchParameters[36] =
+        {
+            Value = true
+            ParameterInfo = { Name=TS-Emissive02Curve-Height----->Uvs }
+            bOverride = true
+        }
+        StaticSwitchParameters[37] =
+        {
+            Value = true
+            ParameterInfo = { Name=TS_Emissive02--TS-Mask-01--->TS-Mask-02 }
+            bOverride = true
+        }
+        StaticSwitchParameters[38] =
+        {
+            Value = true
+            ParameterInfo = { Name=TS_Emissive02_HeightLerp }
+            bOverride = true
+        }
+        StaticSwitchParameters[39] =
+        {
+            Value = false
+            ParameterInfo = { Name=TS_Emissive02_X+X }
+            bOverride = true
+        }
+        StaticSwitchParameters[40] =
+        {
+            Value = false
+            ParameterInfo = { Name=TS_Emissive02_Gradent-->Texture }
+            bOverride = true
+        }
+        StaticSwitchParameters[41] =
+        {
+            Value = true
+            ParameterInfo = { Name=TS_WarpEmissive02--TS_Mask_01----------- }
+            bOverride = true
+        }
+        StaticSwitchParameters[42] =
+        {
+            Value = true
+            ParameterInfo = { Name=TS_WarpEmissive02_TS_Mask_02 }
+            bOverride = true
+        }
+    }
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[1] =
+{
+    TextureStreamingData[0] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = FlatNormalBlue
+    }
+}

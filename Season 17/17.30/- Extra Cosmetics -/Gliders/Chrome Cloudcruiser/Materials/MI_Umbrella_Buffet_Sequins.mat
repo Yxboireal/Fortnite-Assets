@@ -1,0 +1,9 @@
+Diffuse=T_Umbrella_Buffet_Sequin_D
+Normal=T_SequinTile_N
+SpecPower=T_Umbrella_Buffet_S
+Other[0]=T_SequinTile
+Other[1]=T_SequinTile_roughness
+Other[2]=T_ShieldCaustics_Tile_Chromatic
+Other[3]=T_Umbrella_Buffet_M
+Other[4]=T_Umbrella_Buffet_N
+Other[5]=64x64Noise

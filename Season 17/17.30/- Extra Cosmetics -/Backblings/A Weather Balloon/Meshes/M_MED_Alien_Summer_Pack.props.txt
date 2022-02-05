@@ -1,0 +1,108 @@
+Skeleton = Skeleton'/Game/Accessories/FORT_Backpacks/M_MED_Alien_Summer/Meshes/M_MED_Alien_Summer_Pack_Skeleton.M_MED_Alien_Summer_Pack_Skeleton'
+bHasVertexColors = false
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[6] =
+{
+    Sockets[0] =
+    {
+        SocketName = FX_Outter_1
+        BoneName = dyn_outerRotation_jnt
+        RelativeLocation = { X=9.75, Y=0.5, Z=9.75 }
+        RelativeRotation = { Yaw=0, Pitch=1110704128, Roll=-1028390912 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[1] =
+    {
+        SocketName = FX_Outter_2
+        BoneName = dyn_outerRotation_jnt
+        RelativeLocation = { X=-9.75, Y=0.5, Z=9.75 }
+        RelativeRotation = { Yaw=0, Pitch=1124532224, Roll=-1028390912 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[2] =
+    {
+        SocketName = FX_Outter_3
+        BoneName = dyn_outerRotation_jnt
+        RelativeLocation = { X=-9.75, Y=0.5, Z=-9.75 }
+        RelativeRotation = { Yaw=0, Pitch=-1022951424, Roll=-1028390912 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[3] =
+    {
+        SocketName = FX_Outter_4
+        BoneName = dyn_outerRotation_jnt
+        RelativeLocation = { X=9.75, Y=0.5, Z=-9.75 }
+        RelativeRotation = { Yaw=0, Pitch=-1036779520, Roll=-1028390912 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[4] =
+    {
+        SocketName = FX_Main
+        BoneName = dyn_float_jnt
+        RelativeLocation = { X=0, Y=0, Z=1.07914 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=1119092736 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[5] =
+    {
+        SocketName = FX_Inner
+        BoneName = dyn_innerRotation_jnt
+        RelativeLocation = { X=0, Y=-1.3, Z=0 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

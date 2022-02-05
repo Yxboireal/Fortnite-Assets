@@ -1,0 +1,26 @@
+Materials[1] =
+{
+    Materials[0] = MaterialInstanceConstant'/Game/Creative/Devices/Mannequin/Materials/MI_CP_Device_Mannequin_Icon.MI_CP_Device_Mannequin_Icon'
+}
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = MaterialInstanceConstant'/Game/Creative/Devices/Mannequin/Materials/MI_CP_Device_Mannequin_Icon.MI_CP_Device_Mannequin_Icon'
+        MaterialSlotName = lambert3
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 36.0056, 0, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=1.90735e-06, Y=2.11758e-22, Z=1.90735e-06 }
+    BoxExtent = { X=18, Y=1.10218e-15, Z=18 }
+    SphereRadius = 18
+}

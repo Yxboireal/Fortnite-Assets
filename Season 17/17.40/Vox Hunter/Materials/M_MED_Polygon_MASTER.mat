@@ -1,0 +1,15 @@
+Diffuse=DefaultDiffuse
+Normal=DefaultNormal
+SpecPower=T_Fortnite_Default_S
+Other[0]=DefaultDiffuse_TC_Masks
+Other[1]=T_MasterKey_Swatch_GMap
+Other[2]=T_Fort_Character_AllBlack
+Other[3]=T_Fort_Character_AllBlack_LinearGreyscale
+Other[4]=M_MED_Polygon_Hair_Mask
+Other[5]=M_MED_Polygon_SLMask
+Other[6]=T_M_MED_Polygon_Body_SL
+Other[7]=T_NoisePack_01
+Other[8]=T_Slowfield_GridSquares_01
+Other[9]=ShieldPowerAnim
+Other[10]=Black_MASK
+Other[11]=T_SkinBump_N

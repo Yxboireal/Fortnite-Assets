@@ -1,0 +1,6 @@
+Diffuse=T_M_MED_Vivid_Color_Body_D
+Normal=T_M_MED_Vivid_Color_Body_N
+SpecPower=T_M_MED_Vivid_Color_Body_S
+Emissive=T_M_MED_Vivid_Color_Body_E
+Other[0]=T_M_MED_Vivid_Color_Body_M
+Other[1]=T_M_MED_Vivid_Color_Body_FX

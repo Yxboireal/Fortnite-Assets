@@ -1,0 +1,7 @@
+Diffuse=T_Wrap_Sandcastle_D
+Normal=T_Wrap_Sandcastle_N
+Emissive=T_Wrap_Sandcastle_EmissiveRamp
+Other[0]=T_Wrap_Sandcastle_MASK
+Other[1]=T_Wrap_Dragonfruit_D
+Other[2]=T_Wrap_Dragonfruit_N
+Other[3]=T_Wrap_Dragonfruit_MASK

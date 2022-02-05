@@ -1,0 +1,23 @@
+Materials[1] = {  }
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = None
+        MaterialSlotName = MI_Pickaxe_Dragonfruit_Male_1h
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 56.1879, 0, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=-0.0279064, Y=0.105166, Z=34.7609 }
+    BoxExtent = { X=2.31366, Y=1.64162, Z=25.3712 }
+    SphereRadius = 25.4576
+}

@@ -1,0 +1,5 @@
+Diffuse=T_M_MED_RuckusMini_Body_D
+Normal=T_M_MED_RuckusMini_Body_N
+Other[0]=T_M_MED_RuckusMini_Body_DF_Mobile
+Other[1]=T_M_MED_RuckusMini_Body_DiffuseShaded
+Other[2]=T_M_MED_RuckusMini_Body_SSC

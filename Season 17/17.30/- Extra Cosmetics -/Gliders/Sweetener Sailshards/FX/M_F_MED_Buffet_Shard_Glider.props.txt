@@ -1,0 +1,44 @@
+TwoSided = false
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[6] =
+{
+    ReferencedTextures[0] = Texture2D'/Game/Characters/Player/Female/Medium/Bodies/F_MED_Buffet_Shard/FX/T_Flare_Ray.T_Flare_Ray'
+    ReferencedTextures[1] = Texture2D'/Game/Characters/Player/Female/Medium/Bodies/F_MED_Buffet_Shard/FX/T_Wave.T_Wave'
+    ReferencedTextures[2] = Texture2D'/Game/Effects/Fort_Effects/Gameplay/SmokeDustExplosions/Textures/T_NoisePack_01.T_NoisePack_01'
+    ReferencedTextures[3] = Texture2D'/Game/Effects/Fort_Effects/Textures/Energy/T_OutpostShockwaveStreaks_02.T_OutpostShockwaveStreaks_02'
+    ReferencedTextures[4] = Texture2D'/Game/Environments/Apollo/Sets/IceHotel/Textures/RefractionNoise.RefractionNoise'
+    ReferencedTextures[5] = Texture2D'/Game/Environments/Hexmap/HexTile/T_FireNoise_01.T_FireNoise_01'
+}
+Expressions[0] = {}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Opaque (0)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[0] = {}
+CollectedScalarParameters[0] = {}
+CollectedVectorParameters[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

@@ -1,0 +1,114 @@
+Parent = Material3'/Game/Effects/Niagara/MasterMaterials/Mesh/M_Mesh_Opaque_Master.M_Mesh_Opaque_Master'
+ScalarParameterValues[1] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[5] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=BaseColorMask }
+        ParameterValue = Texture2D'/Game/Weapons/FORT_Melee/Pickaxe_Keyboard_Male/Textures/T_Pickaxe_Keyboard_Male_FX.T_Pickaxe_Keyboard_Male_FX'
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=Diffuse }
+        ParameterValue = Texture2D'/Game/Weapons/FORT_Melee/Pickaxe_Keyboard_Male/Textures/T_Pickaxe_Keyboard_Male_D.T_Pickaxe_Keyboard_Male_D'
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=Specular }
+        ParameterValue = Texture2D'/Game/Weapons/FORT_Melee/Pickaxe_Keyboard_Male/Textures/T_Pickaxe_Keyboard_Male_S.T_Pickaxe_Keyboard_Male_S'
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=Emissive Texture }
+        ParameterValue = Texture2D'/Game/Weapons/FORT_Melee/Pickaxe_Keyboard_Male/Textures/T_Pickaxe_Keyboard_Male_E.T_Pickaxe_Keyboard_Male_E'
+        ParameterName = None
+    }
+    TextureParameterValues[4] =
+    {
+        ParameterInfo = { Name=Normal }
+        ParameterValue = Texture2D'/Game/Weapons/FORT_Melee/Pickaxe_Keyboard_Male/Textures/T_Pickaxe_Keyboard_Male_N.T_Pickaxe_Keyboard_Male_N'
+        ParameterName = None
+    }
+}
+VectorParameterValues[0] = {}
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = true
+    BlendMode = BLEND_Masked (1)
+    bOverride_TwoSided = true
+    TwoSided = true
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0.3333
+}
+StaticParameters =
+{
+    StaticSwitchParameters[1] =
+    {
+        StaticSwitchParameters[0] =
+        {
+            Value = false
+            ParameterInfo = { Name=Enable Vertex Offset }
+            bOverride = true
+        }
+    }
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[6] =
+{
+    TextureStreamingData[0] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = Noise32x32
+    }
+    TextureStreamingData[1] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_BlankWhite_01
+    }
+    TextureStreamingData[2] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_Pickaxe_Keyboard_Male_D
+    }
+    TextureStreamingData[3] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_Pickaxe_Keyboard_Male_E
+    }
+    TextureStreamingData[4] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_Pickaxe_Keyboard_Male_N
+    }
+    TextureStreamingData[5] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_Pickaxe_Keyboard_Male_S
+    }
+}

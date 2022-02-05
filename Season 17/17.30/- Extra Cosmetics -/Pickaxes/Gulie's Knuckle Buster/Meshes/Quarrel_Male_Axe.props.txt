@@ -1,0 +1,69 @@
+Skeleton = Skeleton'/Game/Weapons/FORT_Melee/Pickaxe_Quarrel_Male/Meshes/Quarrel_Male_Axe_Skeleton.Quarrel_Male_Axe_Skeleton'
+bHasVertexColors = false
+LODInfo[3] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[6] =
+        {
+            BonesToPrioritize[0] = { BoneName=dyn_strapA1 }
+            BonesToPrioritize[1] = { BoneName=dyn_strapA2 }
+            BonesToPrioritize[2] = { BoneName=dyn_strapA3 }
+            BonesToPrioritize[3] = { BoneName=dyn_strapB1 }
+            BonesToPrioritize[4] = { BoneName=dyn_strapB2 }
+            BonesToPrioritize[5] = { BoneName=dyn_strapB3 }
+        }
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[11] =
+        {
+            BonesToRemove[0] = { BoneName=dyn_strapA1 }
+            BonesToRemove[1] = { BoneName=dyn_strapA2 }
+            BonesToRemove[2] = { BoneName=dyn_strapA3 }
+            BonesToRemove[3] = { BoneName=dyn_strapA4 }
+            BonesToRemove[4] = { BoneName=dyn_strapA5 }
+            BonesToRemove[5] = { BoneName=dyn_strapA6 }
+            BonesToRemove[6] = { BoneName=dyn_strapB1 }
+            BonesToRemove[7] = { BoneName=dyn_strapB2 }
+            BonesToRemove[8] = { BoneName=dyn_strapB3 }
+            BonesToRemove[9] = { BoneName=dyn_strapB4 }
+            BonesToRemove[10] = { BoneName=dyn_strapB5 }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[3] = { , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

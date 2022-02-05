@@ -1,0 +1,142 @@
+Skeleton = Skeleton'/Game/Weapons/FORT_Melee/Pickaxe_Alien_Summer_Male/Meshes/Alien_Summer_Male_Skeleton.Alien_Summer_Male_Skeleton'
+bHasVertexColors = false
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[8] =
+        {
+            BonesToPrioritize[0] = { BoneName=drip_base_01 }
+            BonesToPrioritize[1] = { BoneName=drip_base_02 }
+            BonesToPrioritize[2] = { BoneName=drip_base_03 }
+            BonesToPrioritize[3] = { BoneName=drip_01_r }
+            BonesToPrioritize[4] = { BoneName=drip_02_r }
+            BonesToPrioritize[5] = { BoneName=drip_01_l }
+            BonesToPrioritize[6] = { BoneName=drip_02_l }
+            BonesToPrioritize[7] = { BoneName=None }
+        }
+        SourceImportFilename = "D:/Build/FortressArtSource/assets/Pickaxe/Alien_Summer_Male/Rig/Alien_Summer_Male_Axe_Left.fbx"
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[9] =
+{
+    Sockets[0] =
+    {
+        SocketName = DRIP_01
+        BoneName = Melee_TwoHanded_Handle
+        RelativeLocation = { X=3.24518, Y=-3.32701, Z=13.3509 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[1] =
+    {
+        SocketName = DRIP_01_0
+        BoneName = Melee_TwoHanded_Handle
+        RelativeLocation = { X=3.36829, Y=-6.64264, Z=9.70411 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[2] =
+    {
+        SocketName = DRIP_01_1
+        BoneName = Melee_TwoHanded_Handle
+        RelativeLocation = { X=3.30162, Y=-5.17758, Z=15.5474 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[3] =
+    {
+        SocketName = DRIP_01_2
+        BoneName = Melee_TwoHanded_Handle
+        RelativeLocation = { X=3.35464, Y=-8.24393, Z=14.4158 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[4] =
+    {
+        SocketName = DRIP_01_3
+        BoneName = Melee_TwoHanded_Handle
+        RelativeLocation = { X=-3.11982, Y=-6.59201, Z=16.4698 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[5] =
+    {
+        SocketName = DRIP_01_4
+        BoneName = Melee_TwoHanded_Handle
+        RelativeLocation = { X=-3.2891, Y=-5.56396, Z=15.0884 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[6] =
+    {
+        SocketName = DRIP_01_5
+        BoneName = Melee_TwoHanded_Handle
+        RelativeLocation = { X=-3.22691, Y=-6.26567, Z=12.8934 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[7] =
+    {
+        SocketName = DRIP_01_6
+        BoneName = Melee_TwoHanded_Handle
+        RelativeLocation = { X=-2.78743, Y=-6.15533, Z=10.0027 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[8] =
+    {
+        SocketName = DRIP_01_7
+        BoneName = Melee_TwoHanded_Handle
+        RelativeLocation = { X=-3.35249, Y=-7.03101, Z=11.047 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

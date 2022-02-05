@@ -1,0 +1,38 @@
+Materials[2] =
+{
+    Materials[0] = MaterialInstanceConstant'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Vivid_Color/FX/MI_VividColor_ActiveBodyElectricitySmokeAftermath_Inst.MI_VividColor_ActiveBodyElectricitySmokeAftermath_Inst'
+    Materials[1] = MaterialInstanceConstant'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Vivid_Color/FX/MI_VividColor_ActiveBodyElectricitySpike_Combo.MI_VividColor_ActiveBodyElectricitySpike_Combo'
+}
+SourceModels[0] = {}
+StaticMaterials[2] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = MaterialInstanceConstant'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Vivid_Color/FX/MI_VividColor_ActiveBodyElectricitySmokeAftermath_Inst.MI_VividColor_ActiveBodyElectricitySmokeAftermath_Inst'
+        MaterialSlotName = Smoke
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 10.0001, 0, 0, 0 }
+        }
+    }
+    StaticMaterials[1] =
+    {
+        MaterialInterface = MaterialInstanceConstant'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Vivid_Color/FX/MI_VividColor_ActiveBodyElectricitySpike_Combo.MI_VividColor_ActiveBodyElectricitySpike_Combo'
+        MaterialSlotName = Electricity
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 9.9993, 0, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=50, Y=0.109009, Z=1.27509 }
+    BoxExtent = { X=50, Y=0.109009, Z=3.30891 }
+    SphereRadius = 50.0526
+}

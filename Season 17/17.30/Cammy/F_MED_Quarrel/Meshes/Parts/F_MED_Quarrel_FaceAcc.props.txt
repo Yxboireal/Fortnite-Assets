@@ -1,0 +1,155 @@
+Skeleton = Skeleton'/Game/Characters/Player/Female/Medium/Bodies/F_MED_Quarrel/Meshes/Parts/F_MED_Quarrel_FaceAcc_Skeleton.F_MED_Quarrel_FaceAcc_Skeleton'
+bHasVertexColors = true
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[6] =
+        {
+            BonesToPrioritize[0] = { BoneName=head }
+            BonesToPrioritize[1] = { BoneName=dyn_r_bang_01 }
+            BonesToPrioritize[2] = { BoneName=dyn_r_bang_02 }
+            BonesToPrioritize[3] = { BoneName=dyn_r_bang_03 }
+            BonesToPrioritize[4] = { BoneName=dyn_r_bang_04 }
+            BonesToPrioritize[5] = { BoneName=None }
+        }
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[41] =
+        {
+            BonesToRemove[0] = { BoneName=dyn_l_braid_MSTR }
+            BonesToRemove[1] = { BoneName=dyn_l_braid_01 }
+            BonesToRemove[2] = { BoneName=dyn_l_braid_02 }
+            BonesToRemove[3] = { BoneName=dyn_l_braid_03 }
+            BonesToRemove[4] = { BoneName=dyn_l_braid_04 }
+            BonesToRemove[5] = { BoneName=dyn_l_braid_05 }
+            BonesToRemove[6] = { BoneName=dyn_l_braid_06 }
+            BonesToRemove[7] = { BoneName=dyn_l_braid_07 }
+            BonesToRemove[8] = { BoneName=dyn_l_braid_08 }
+            BonesToRemove[9] = { BoneName=dyn_r_braid_MSTR }
+            BonesToRemove[10] = { BoneName=dyn_r_braid_01 }
+            BonesToRemove[11] = { BoneName=dyn_r_braid_02 }
+            BonesToRemove[12] = { BoneName=dyn_r_braid_03 }
+            BonesToRemove[13] = { BoneName=dyn_r_braid_04 }
+            BonesToRemove[14] = { BoneName=dyn_r_braid_05 }
+            BonesToRemove[15] = { BoneName=dyn_r_braid_06 }
+            BonesToRemove[16] = { BoneName=dyn_r_braid_07 }
+            BonesToRemove[17] = { BoneName=dyn_r_braid_08 }
+            BonesToRemove[18] = { BoneName=dyn_backhair }
+            BonesToRemove[19] = { BoneName=dyn_l_hatFlap }
+            BonesToRemove[20] = { BoneName=dyn_r_bang_MSTR }
+            BonesToRemove[21] = { BoneName=dyn_r_bang_01 }
+            BonesToRemove[22] = { BoneName=dyn_r_bang_02 }
+            BonesToRemove[23] = { BoneName=dyn_r_bang_03 }
+            BonesToRemove[24] = { BoneName=dyn_r_bang_04 }
+            BonesToRemove[25] = { BoneName=dyn_l_bang_MSTR }
+            BonesToRemove[26] = { BoneName=dyn_l_bang_01 }
+            BonesToRemove[27] = { BoneName=dyn_l_bang_02 }
+            BonesToRemove[28] = { BoneName=dyn_l_bang_03 }
+            BonesToRemove[29] = { BoneName=ponytail_CV_0 }
+            BonesToRemove[30] = { BoneName=ponytail_CV_r_0 }
+            BonesToRemove[31] = { BoneName=ponytail_CV_l_0 }
+            BonesToRemove[32] = { BoneName=ponytail_CV_1 }
+            BonesToRemove[33] = { BoneName=ponytail_CV_l_1 }
+            BonesToRemove[34] = { BoneName=ponytail_CV_r_1 }
+            BonesToRemove[35] = { BoneName=ponytail_CV_2 }
+            BonesToRemove[36] = { BoneName=ponytail_CV_3 }
+            BonesToRemove[37] = { BoneName=ponytail_CV_l_2 }
+            BonesToRemove[38] = { BoneName=ponytail_CV_l_3 }
+            BonesToRemove[39] = { BoneName=ponytail_CV_r_2 }
+            BonesToRemove[40] = { BoneName=ponytail_CV_r_3 }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[41] =
+        {
+            BonesToRemove[0] = { BoneName=dyn_l_braid_MSTR }
+            BonesToRemove[1] = { BoneName=dyn_l_braid_01 }
+            BonesToRemove[2] = { BoneName=dyn_l_braid_02 }
+            BonesToRemove[3] = { BoneName=dyn_l_braid_03 }
+            BonesToRemove[4] = { BoneName=dyn_l_braid_04 }
+            BonesToRemove[5] = { BoneName=dyn_l_braid_05 }
+            BonesToRemove[6] = { BoneName=dyn_l_braid_06 }
+            BonesToRemove[7] = { BoneName=dyn_l_braid_07 }
+            BonesToRemove[8] = { BoneName=dyn_l_braid_08 }
+            BonesToRemove[9] = { BoneName=dyn_r_braid_MSTR }
+            BonesToRemove[10] = { BoneName=dyn_r_braid_01 }
+            BonesToRemove[11] = { BoneName=dyn_r_braid_02 }
+            BonesToRemove[12] = { BoneName=dyn_r_braid_03 }
+            BonesToRemove[13] = { BoneName=dyn_r_braid_04 }
+            BonesToRemove[14] = { BoneName=dyn_r_braid_05 }
+            BonesToRemove[15] = { BoneName=dyn_r_braid_06 }
+            BonesToRemove[16] = { BoneName=dyn_r_braid_07 }
+            BonesToRemove[17] = { BoneName=dyn_r_braid_08 }
+            BonesToRemove[18] = { BoneName=dyn_backhair }
+            BonesToRemove[19] = { BoneName=dyn_l_hatFlap }
+            BonesToRemove[20] = { BoneName=dyn_r_bang_MSTR }
+            BonesToRemove[21] = { BoneName=dyn_r_bang_01 }
+            BonesToRemove[22] = { BoneName=dyn_r_bang_02 }
+            BonesToRemove[23] = { BoneName=dyn_r_bang_03 }
+            BonesToRemove[24] = { BoneName=dyn_r_bang_04 }
+            BonesToRemove[25] = { BoneName=dyn_l_bang_MSTR }
+            BonesToRemove[26] = { BoneName=dyn_l_bang_01 }
+            BonesToRemove[27] = { BoneName=dyn_l_bang_02 }
+            BonesToRemove[28] = { BoneName=dyn_l_bang_03 }
+            BonesToRemove[29] = { BoneName=ponytail_CV_0 }
+            BonesToRemove[30] = { BoneName=ponytail_CV_r_0 }
+            BonesToRemove[31] = { BoneName=ponytail_CV_l_0 }
+            BonesToRemove[32] = { BoneName=ponytail_CV_1 }
+            BonesToRemove[33] = { BoneName=ponytail_CV_l_1 }
+            BonesToRemove[34] = { BoneName=ponytail_CV_r_1 }
+            BonesToRemove[35] = { BoneName=ponytail_CV_2 }
+            BonesToRemove[36] = { BoneName=ponytail_CV_3 }
+            BonesToRemove[37] = { BoneName=ponytail_CV_l_2 }
+            BonesToRemove[38] = { BoneName=ponytail_CV_l_3 }
+            BonesToRemove[39] = { BoneName=ponytail_CV_r_2 }
+            BonesToRemove[40] = { BoneName=ponytail_CV_r_3 }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[1] =
+{
+    SkinWeightProfiles[0] = { Name=Alternative }
+}
+NumVertexColorChannels = 0

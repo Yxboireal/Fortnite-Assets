@@ -1,0 +1,106 @@
+Skeleton = Skeleton'/Game/Characters/Player/Female/Medium/Bodies/F_MED_Tie_Dye_Fashion/Meshes/Parts/D/F_MED_TieDyeFashion_D_FaceAcc_Skeleton.F_MED_TieDyeFashion_D_FaceAcc_Skeleton'
+bHasVertexColors = false
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[22] =
+        {
+            BonesToRemove[0] = { BoneName=dyn_ponytail_base }
+            BonesToRemove[1] = { BoneName=dyn_ponytail_parent }
+            BonesToRemove[2] = { BoneName=dyn_ponytail_01 }
+            BonesToRemove[3] = { BoneName=dyn_ponytail_02 }
+            BonesToRemove[4] = { BoneName=dyn_ponytail_03 }
+            BonesToRemove[5] = { BoneName=dyn_ponytail_strand_03 }
+            BonesToRemove[6] = { BoneName=dyn_ponytail_strand_04 }
+            BonesToRemove[7] = { BoneName=dyn_ponytail_strand_05 }
+            BonesToRemove[8] = { BoneName=dyn_ponytail_strand_02 }
+            BonesToRemove[9] = { BoneName=dyn_ponytail_strand_01 }
+            BonesToRemove[10] = { BoneName=dyn_bangs_r_01 }
+            BonesToRemove[11] = { BoneName=dyn_bangs_r_02 }
+            BonesToRemove[12] = { BoneName=dyn_bangs_00 }
+            BonesToRemove[13] = { BoneName=dyn_bangs_04 }
+            BonesToRemove[14] = { BoneName=dyn_bangs_05 }
+            BonesToRemove[15] = { BoneName=dyn_bangs_06 }
+            BonesToRemove[16] = { BoneName=dyn_bangs_07 }
+            BonesToRemove[17] = { BoneName=dyn_bangs_08 }
+            BonesToRemove[18] = { BoneName=dyn_bangs_09 }
+            BonesToRemove[19] = { BoneName=dyn_bangs_01 }
+            BonesToRemove[20] = { BoneName=dyn_bangs_02 }
+            BonesToRemove[21] = { BoneName=dyn_bangs_03 }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[22] =
+        {
+            BonesToRemove[0] = { BoneName=dyn_ponytail_base }
+            BonesToRemove[1] = { BoneName=dyn_ponytail_parent }
+            BonesToRemove[2] = { BoneName=dyn_ponytail_01 }
+            BonesToRemove[3] = { BoneName=dyn_ponytail_02 }
+            BonesToRemove[4] = { BoneName=dyn_ponytail_03 }
+            BonesToRemove[5] = { BoneName=dyn_ponytail_strand_03 }
+            BonesToRemove[6] = { BoneName=dyn_ponytail_strand_04 }
+            BonesToRemove[7] = { BoneName=dyn_ponytail_strand_05 }
+            BonesToRemove[8] = { BoneName=dyn_ponytail_strand_02 }
+            BonesToRemove[9] = { BoneName=dyn_ponytail_strand_01 }
+            BonesToRemove[10] = { BoneName=dyn_bangs_r_01 }
+            BonesToRemove[11] = { BoneName=dyn_bangs_r_02 }
+            BonesToRemove[12] = { BoneName=dyn_bangs_00 }
+            BonesToRemove[13] = { BoneName=dyn_bangs_04 }
+            BonesToRemove[14] = { BoneName=dyn_bangs_05 }
+            BonesToRemove[15] = { BoneName=dyn_bangs_06 }
+            BonesToRemove[16] = { BoneName=dyn_bangs_07 }
+            BonesToRemove[17] = { BoneName=dyn_bangs_08 }
+            BonesToRemove[18] = { BoneName=dyn_bangs_09 }
+            BonesToRemove[19] = { BoneName=dyn_bangs_01 }
+            BonesToRemove[20] = { BoneName=dyn_bangs_02 }
+            BonesToRemove[21] = { BoneName=dyn_bangs_03 }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

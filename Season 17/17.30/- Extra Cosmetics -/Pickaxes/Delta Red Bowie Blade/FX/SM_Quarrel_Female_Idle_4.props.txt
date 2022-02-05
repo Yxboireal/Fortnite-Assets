@@ -1,0 +1,26 @@
+Materials[1] =
+{
+    Materials[0] = MaterialInstanceConstant'/Game/Weapons/FORT_Melee/Pickaxe_Quarrel_Female/FX/MI_Pickaxe_Buffet_Female_Energy_Ring.MI_Pickaxe_Buffet_Female_Energy_Ring'
+}
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = MaterialInstanceConstant'/Game/Weapons/FORT_Melee/Pickaxe_Quarrel_Female/FX/MI_Pickaxe_Buffet_Female_Energy_Ring.MI_Pickaxe_Buffet_Female_Energy_Ring'
+        MaterialSlotName = WorldGridMaterial
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 122.624, 0, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=-1.62262, Y=-32.5807, Z=7.62939e-06 }
+    BoxExtent = { X=49.4281, Y=34.3748, Z=45.3316 }
+    SphereRadius = 60.6878
+}
