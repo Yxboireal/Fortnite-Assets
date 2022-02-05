@@ -1,0 +1,66 @@
+Skeleton = Skeleton'/Game/Weapons/FORT_Melee/Pickaxe_Innovator_Female/Meshes/Innovator_Female_Skeleton.Innovator_Female_Skeleton'
+bHasVertexColors = false
+LODInfo[3] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[2] =
+{
+    Sockets[0] =
+    {
+        SocketName = FX_UpperSocket
+        BoneName = b_AR_Root
+        RelativeLocation = { X=1.63663, Y=-1.06528e-06, Z=93.3911 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[1] =
+    {
+        SocketName = FX_LowerSocket
+        BoneName = b_AR_Root
+        RelativeLocation = { X=1.89814, Y=-3.4974e-07, Z=17.8773 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[3] = { , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

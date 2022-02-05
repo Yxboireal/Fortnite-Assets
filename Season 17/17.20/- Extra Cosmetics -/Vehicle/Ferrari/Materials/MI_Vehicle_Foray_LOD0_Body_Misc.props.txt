@@ -1,0 +1,206 @@
+Parent = None
+ScalarParameterValues[10] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=CarbonFiber_ClearCoat }
+        ParameterValue = 0.55
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=CarbonFiber_Metallic }
+        ParameterValue = 1.25
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=CarbonFiber_Roughness0 }
+        ParameterValue = 0.12
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=CarbonFiber_Roughness1 }
+        ParameterValue = 1.8
+        ParameterName = None
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = { Name=CarbonFiber_Specular }
+        ParameterValue = 0.45
+        ParameterName = None
+    }
+    ScalarParameterValues[5] =
+    {
+        ParameterInfo = { Name=CarbonFiber_Tiling_X }
+        ParameterValue = 160
+        ParameterName = None
+    }
+    ScalarParameterValues[6] =
+    {
+        ParameterInfo = { Name=CarbonFiber_Tiling_Y }
+        ParameterValue = 140
+        ParameterName = None
+    }
+    ScalarParameterValues[7] =
+    {
+        ParameterInfo = { Name=CarbonFresnel }
+        ParameterValue = 6
+        ParameterName = None
+    }
+    ScalarParameterValues[8] =
+    {
+        ParameterInfo = { Name=CarbonFresnelBRF }
+        ParameterValue = 0.125
+        ParameterName = None
+    }
+    ScalarParameterValues[9] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[4] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=Diffuse }
+        ParameterValue = Texture2D'/FortniteGame/Plugins/GameFeatures/Foray/Content/Textures/T_Vehicle_Foray_LOD0_Body_Misc_D.T_Vehicle_Foray_LOD0_Body_Misc_D'
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=MaterialLayerMask }
+        ParameterValue = Texture2D'/FortniteGame/Plugins/GameFeatures/Foray/Content/Textures/T_Vehicle_Foray_LOD0_Body_Misc_Masks.T_Vehicle_Foray_LOD0_Body_Misc_Masks'
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=Normal }
+        ParameterValue = Texture2D'/FortniteGame/Plugins/GameFeatures/Foray/Content/Textures/T_Vehicle_Foray_LOD0_Body_Misc_N.T_Vehicle_Foray_LOD0_Body_Misc_N'
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=Specular Mask }
+        ParameterValue = Texture2D'/FortniteGame/Plugins/GameFeatures/Foray/Content/Textures/T_Vehicle_Foray_LOD0_Body_Misc_S.T_Vehicle_Foray_LOD0_Body_Misc_S'
+        ParameterName = None
+    }
+}
+VectorParameterValues[3] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=CarbonFiber }
+        ParameterValue = { R=0.005, G=0.005, B=0.005, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=CarbonFiber1 }
+        ParameterValue = { R=0.025, G=0.025, B=0.025, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=CarbonFiber2 }
+        ParameterValue = { R=0.01, G=0.01, B=0.01, A=1 }
+        ParameterName = None
+    }
+}
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = true
+    TwoSided = true
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0.5
+}
+StaticParameters =
+{
+    StaticSwitchParameters[4] =
+    {
+        StaticSwitchParameters[0] =
+        {
+            Value = true
+            ParameterInfo = { Name=IsRealisticCarPaint }
+            bOverride = true
+        }
+        StaticSwitchParameters[1] =
+        {
+            Value = true
+            ParameterInfo = { Name=NoPaint }
+            bOverride = true
+        }
+        StaticSwitchParameters[2] =
+        {
+            Value = true
+            ParameterInfo = { Name=UseCarbonFiber }
+            bOverride = true
+        }
+        StaticSwitchParameters[3] =
+        {
+            Value = true
+            ParameterInfo = { Name=UseRealisticPaintMask }
+            bOverride = true
+        }
+    }
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[7] =
+{
+    TextureStreamingData[0] =
+    {
+        SamplingScale = 140
+        UVChannelIndex = 0
+        TextureName = T_CarbonFiberWeave_01_M
+    }
+    TextureStreamingData[1] =
+    {
+        SamplingScale = 140
+        UVChannelIndex = 0
+        TextureName = T_CarbonFiberWeave_03_N
+    }
+    TextureStreamingData[2] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_Vehicle_Foray_LOD0_Body_Misc_D
+    }
+    TextureStreamingData[3] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_Vehicle_Foray_LOD0_Body_Misc_N
+    }
+    TextureStreamingData[4] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_Vehicle_Foray_LOD0_Body_Misc_S
+    }
+    TextureStreamingData[5] =
+    {
+        SamplingScale = 1.59375
+        UVChannelIndex = 0
+        TextureName = ValetDamage_AO
+    }
+    TextureStreamingData[6] =
+    {
+        SamplingScale = 1.59375
+        UVChannelIndex = 0
+        TextureName = ValetDamage_N
+    }
+}

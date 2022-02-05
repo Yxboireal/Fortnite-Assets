@@ -1,0 +1,454 @@
+Parent = MaterialInstanceConstant'/Game/Packages/Fortress_SharedMaterials/MaterialInstances/CharacterShader_Male.CharacterShader_Male'
+ScalarParameterValues[28] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo =
+        {
+            Name = Roughness Map Now affects Clearcoat roughness
+        }
+        ParameterValue = 0.75
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=Undercoat Roughness }
+        ParameterValue = 0.1
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=Fuzz Exponent }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=Fuzz Fresnel Blend }
+        ParameterValue = 0.5
+        ParameterName = None
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = { Name=Fuzz Tiling }
+        ParameterValue = 10
+        ParameterName = None
+    }
+    ScalarParameterValues[5] =
+    {
+        ParameterInfo = { Name=Emissive Fres EX }
+        ParameterValue = 0.02
+        ParameterName = None
+    }
+    ScalarParameterValues[6] =
+    {
+        ParameterInfo = { Name=emissive mult }
+        ParameterValue = 0.5
+        ParameterName = None
+    }
+    ScalarParameterValues[7] =
+    {
+        ParameterInfo = { Name=Layer1_Metalness }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[8] =
+    {
+        ParameterInfo = { Name=Layer2_Metalness }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[9] =
+    {
+        ParameterInfo = { Name=Layer3_Metalness }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[10] =
+    {
+        ParameterInfo = { Name=Layer4_Metalness }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[11] =
+    {
+        ParameterInfo = { Name=Overwrite Metallic from _S Mask }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[12] =
+    {
+        ParameterInfo = { Name=FresnelReflectance_LUT }
+        ParameterValue = 189
+        ParameterName = None
+    }
+    ScalarParameterValues[13] =
+    {
+        ParameterInfo = { Name=Emissive_BrightnessMax }
+        ParameterValue = 200
+        ParameterName = None
+    }
+    ScalarParameterValues[14] =
+    {
+        ParameterInfo = { Name=PanningEmissive_Fresnel Exponent }
+        ParameterValue = 8
+        ParameterName = None
+    }
+    ScalarParameterValues[15] =
+    {
+        ParameterInfo = { Name=Rim Intensity }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[16] =
+    {
+        ParameterInfo = { Name=Close Range Rim Strength }
+        ParameterValue = 0.2
+        ParameterName = None
+    }
+    ScalarParameterValues[17] =
+    {
+        ParameterInfo = { Name=Close Range Rim Brightness }
+        ParameterValue = 3
+        ParameterName = None
+    }
+    ScalarParameterValues[18] =
+    {
+        ParameterInfo = { Name=RimFresnelExp }
+        ParameterValue = 3
+        ParameterName = None
+    }
+    ScalarParameterValues[19] =
+    {
+        ParameterInfo = { Name=SIlkFresnelMax }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[20] =
+    {
+        ParameterInfo = { Name=SS Inner Strength }
+        ParameterValue = 8
+        ParameterName = None
+    }
+    ScalarParameterValues[21] =
+    {
+        ParameterInfo = { Name=ThinFilm_Exponent }
+        ParameterValue = 1.7
+        ParameterName = None
+    }
+    ScalarParameterValues[22] =
+    {
+        ParameterInfo = { Name=ThinFilm_Intensity }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[23] =
+    {
+        ParameterInfo = { Name=ThinFilm_Offset }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[24] =
+    {
+        ParameterInfo = { Name=ThinFilm_RoughnessScale }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[25] =
+    {
+        ParameterInfo = { Name=ThinFilm_Scale }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[26] =
+    {
+        ParameterInfo = { Name=ThinFilm_Warp }
+        ParameterValue = 0.4
+        ParameterName = None
+    }
+    ScalarParameterValues[27] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[11] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=ClothFuzz Texture }
+        ParameterValue = Texture2D'/Game/Weapons/WeaponSkins/Textures/T_Fuzz_MASK.T_Fuzz_MASK'
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=Diffuse }
+        ParameterValue = Texture2D'/FortniteGame/Plugins/GameFeatures/MotherGameplay/Content/Items/AvacadoEaterBird/Textures/T_Avocado_Eater_Bird_Med_Fauna_D.T_Avocado_Eater_Bird_Med_Fauna_D'
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=Layer Mask }
+        ParameterValue = Texture2D'/Engine/EngineMaterials/DefaultDiffuse.DefaultDiffuse'
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=Layer2_Gradient }
+        ParameterValue = Texture2D'/Engine/EngineMaterials/DefaultDiffuse.DefaultDiffuse'
+        ParameterName = None
+    }
+    TextureParameterValues[4] =
+    {
+        ParameterInfo = { Name=Layer3_Gradient }
+        ParameterValue = Texture2D'/Engine/EngineMaterials/DefaultDiffuse.DefaultDiffuse'
+        ParameterName = None
+    }
+    TextureParameterValues[5] =
+    {
+        ParameterInfo = { Name=M }
+        ParameterValue = Texture2D'/FortniteGame/Plugins/GameFeatures/MotherGameplay/Content/Items/AvacadoEaterBird/Textures/T_Avocado_Eater_Bird_Med_Fauna_M.T_Avocado_Eater_Bird_Med_Fauna_M'
+        ParameterName = None
+    }
+    TextureParameterValues[6] =
+    {
+        ParameterInfo = { Name=Normals }
+        ParameterValue = Texture2D'/FortniteGame/Plugins/GameFeatures/MotherGameplay/Content/Items/AvacadoEaterBird/Textures/T_Avocado_Eater_Bird_Med_Fauna_N.T_Avocado_Eater_Bird_Med_Fauna_N'
+        ParameterName = None
+    }
+    TextureParameterValues[7] =
+    {
+        ParameterInfo = { Name=EmissiveGradient }
+        ParameterValue = Texture2D'/Game/UI/CodeReferenced/SolidWhite.SolidWhite'
+        ParameterName = None
+    }
+    TextureParameterValues[8] =
+    {
+        ParameterInfo = { Name=SkinFX_Mask }
+        ParameterValue = Texture2D'/FortniteGame/Plugins/GameFeatures/MotherGameplay/Content/Items/AvacadoEaterBird/Textures/T_Avocado_Eater_Bird_Med_Fauna_FX.T_Avocado_Eater_Bird_Med_Fauna_FX'
+        ParameterName = None
+    }
+    TextureParameterValues[9] =
+    {
+        ParameterInfo = { Name=SpecularMasks }
+        ParameterValue = Texture2D'/FortniteGame/Plugins/GameFeatures/MotherGameplay/Content/Items/AvacadoEaterBird/Textures/T_Avocado_Eater_Bird_Med_Fauna_S.T_Avocado_Eater_Bird_Med_Fauna_S'
+        ParameterName = None
+    }
+    TextureParameterValues[10] =
+    {
+        ParameterInfo = { Name=Thin Film Texture }
+        ParameterValue = Texture2D'/FortniteGame/Plugins/GameFeatures/MotherGameplay/Content/Items/AvacadoEaterBird/Textures/T_ThinFilm_Avocado_Eater_Bird_Med.T_ThinFilm_Avocado_Eater_Bird_Med'
+        ParameterName = None
+    }
+}
+VectorParameterValues[8] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=Cloth Fuzz Tint }
+        ParameterValue = { R=0.109375, G=0.087595, B=0.056265, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=Fuzz Tint }
+        ParameterValue = { R=3, G=1.64565, B=0.137937, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=Emissive Color }
+        ParameterValue = { R=0, G=0.469842, B=1, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[3] =
+    {
+        ParameterInfo = { Name=MetalMaskChannel }
+        ParameterValue = { R=1, G=0, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[4] =
+    {
+        ParameterInfo = { Name=EmissiveColor }
+        ParameterValue = { R=0, G=0.292211, B=0.369792, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[5] =
+    {
+        ParameterInfo = { Name=Silk Channel }
+        ParameterValue = { R=0.234375, G=0, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[6] =
+    {
+        ParameterInfo = { Name=Skin Boost Color And Exponent }
+        ParameterValue = { R=0.375, G=0.375, B=0.375, A=2 }
+        ParameterName = None
+    }
+    VectorParameterValues[7] =
+    {
+        ParameterInfo = { Name=SS Color }
+        ParameterValue = { R=1, G=0.132552, B=0, A=0 }
+        ParameterName = None
+    }
+}
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0.3333
+}
+StaticParameters =
+{
+    StaticSwitchParameters[10] =
+    {
+        StaticSwitchParameters[0] =
+        {
+            Value = false
+            ParameterInfo = { Name=Color Cloth Fuzz by Channel }
+            bOverride = true
+        }
+        StaticSwitchParameters[1] =
+        {
+            Value = true
+            ParameterInfo = { Name=useNewClothShading }
+            bOverride = true
+        }
+        StaticSwitchParameters[2] =
+        {
+            Value = false
+            ParameterInfo = { Name=use Alpha Channel as mask }
+            bOverride = true
+        }
+        StaticSwitchParameters[3] =
+        {
+            Value = true
+            ParameterInfo = { Name=Use Vertex Colors for Mask }
+            bOverride = true
+        }
+        StaticSwitchParameters[4] =
+        {
+            Value = true
+            ParameterInfo =
+            {
+                Name = Use 'Emissive' Texture as Panning Emissive Color
+            }
+            bOverride = true
+        }
+        StaticSwitchParameters[5] =
+        {
+            Value = false
+            ParameterInfo = { Name=Enable CloseRangeRimlight }
+            bOverride = true
+        }
+        StaticSwitchParameters[6] =
+        {
+            Value = true
+            ParameterInfo = { Name=Use Clear Coat }
+            bOverride = true
+        }
+        StaticSwitchParameters[7] =
+        {
+            Value = true
+            ParameterInfo = { Name=Use Thin Film }
+            bOverride = true
+        }
+        StaticSwitchParameters[8] =
+        {
+            Value = true
+            ParameterInfo = { Name=Use Diffuse in SS Color }
+            bOverride = true
+        }
+        StaticSwitchParameters[9] =
+        {
+            Value = true
+            ParameterInfo = { Name=Use Fresnel for SS Opacity }
+            bOverride = true
+        }
+    }
+    StaticComponentMaskParameters[6] =
+    {
+        StaticComponentMaskParameters[0] =
+        {
+            R = false
+            G = false
+            B = true
+            A = false
+            ParameterInfo = { Name=Clear Coat Channel }
+            bOverride = true
+        }
+        StaticComponentMaskParameters[1] =
+        {
+            R = true
+            G = false
+            B = false
+            A = false
+            ParameterInfo = { Name=Cloth Channel }
+            bOverride = true
+        }
+        StaticComponentMaskParameters[2] =
+        {
+            R = false
+            G = true
+            B = false
+            A = false
+            ParameterInfo = { Name=GmapSkinCustomization_Channel }
+            bOverride = true
+        }
+        StaticComponentMaskParameters[3] =
+        {
+            R = false
+            G = true
+            B = false
+            A = false
+            ParameterInfo = { Name=PanningEmissive_Channel }
+            bOverride = true
+        }
+        StaticComponentMaskParameters[4] =
+        {
+            R = false
+            G = false
+            B = true
+            A = false
+            ParameterInfo = { Name=SS Masks }
+            bOverride = true
+        }
+        StaticComponentMaskParameters[5] =
+        {
+            R = true
+            G = false
+            B = false
+            A = false
+            ParameterInfo = { Name=ThinFilm_Channel }
+            bOverride = true
+        }
+    }
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[2] =
+{
+    TextureStreamingData[0] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_Avocado_Eater_Bird_Med_Fauna_D
+    }
+    TextureStreamingData[1] =
+    {
+        SamplingScale = 0.0625
+        UVChannelIndex = 1
+        TextureName = T_ThinFilm_Avocado_Eater_Bird_Med
+    }
+}

@@ -1,0 +1,385 @@
+Parent = None
+ScalarParameterValues[24] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=emissive mult }
+        ParameterValue = 20
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=emissive mult_MobileMax }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=Emissive Tiling }
+        ParameterValue = 0.7
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=Emissive_BrightnessMax }
+        ParameterValue = 20
+        ParameterName = None
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = { Name=Emissive_BrightnessMIn }
+        ParameterValue = 3
+        ParameterName = None
+    }
+    ScalarParameterValues[5] =
+    {
+        ParameterInfo =
+        {
+            Name = Panning Emissive_ Use Base Color as Emissive Color
+        }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[6] =
+    {
+        ParameterInfo = { Name=Panning Emissive_Invert Fresnel }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[7] =
+    {
+        ParameterInfo =
+        {
+            Name = Panning Emissive_Use Diffuse Map as Base Color (Otherwise Black)
+        }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[8] =
+    {
+        ParameterInfo = { Name=PanningEmissive_Fresnel Exponent }
+        ParameterValue = 4
+        ParameterName = None
+    }
+    ScalarParameterValues[9] =
+    {
+        ParameterInfo = { Name=MobileRoughnessMax }
+        ParameterValue = 0.097345
+        ParameterName = None
+    }
+    ScalarParameterValues[10] =
+    {
+        ParameterInfo = { Name=MobileRoughnessMin }
+        ParameterValue = 0.674777
+        ParameterName = None
+    }
+    ScalarParameterValues[11] =
+    {
+        ParameterInfo = { Name=RoughnessMax }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[12] =
+    {
+        ParameterInfo = { Name=RoughnessMin }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[13] =
+    {
+        ParameterInfo = { Name=SM_Metallic }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[14] =
+    {
+        ParameterInfo = { Name=SM_Roughness }
+        ParameterValue = 0.25
+        ParameterName = None
+    }
+    ScalarParameterValues[15] =
+    {
+        ParameterInfo = { Name=Emissive_BlinkingBrightness }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[16] =
+    {
+        ParameterInfo = { Name=RandomizedBLinkCurve }
+        ParameterValue = 62
+        ParameterName = None
+    }
+    ScalarParameterValues[17] =
+    {
+        ParameterInfo = { Name=SL_StopAtLevel }
+        ParameterValue = 150
+        ParameterName = None
+    }
+    ScalarParameterValues[18] =
+    {
+        ParameterInfo = { Name=SL_EdgeGlowStrength }
+        ParameterValue = 15
+        ParameterName = None
+    }
+    ScalarParameterValues[19] =
+    {
+        ParameterInfo = { Name=SL_EdgeWidth }
+        ParameterValue = 0.075
+        ParameterName = None
+    }
+    ScalarParameterValues[20] =
+    {
+        ParameterInfo = { Name=SL_EndRadius }
+        ParameterValue = 205
+        ParameterName = None
+    }
+    ScalarParameterValues[21] =
+    {
+        ParameterInfo = { Name=SL_StartRadius }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[22] =
+    {
+        ParameterInfo = { Name=SL_Transition_Falloff_Start }
+        ParameterValue = 0.4
+        ParameterName = None
+    }
+    ScalarParameterValues[23] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[8] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=Diffuse }
+        ParameterValue = Texture2D'/Game/Characters/Player/Female/Medium/Heads/F_MED_Buff_CatFan_Head/Skins/CatFan_Club/Textures/T_F_MED_Buff_CatFan_Club_Head_D.T_F_MED_Buff_CatFan_Club_Head_D'
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=Emissive }
+        ParameterValue = Texture2D'/Game/Characters/Player/Female/Medium/Heads/F_MED_Buff_CatFan_Head/Skins/CatFan_Club/Textures/T_F_MED_Buff_CatFan_Club_Head_E.T_F_MED_Buff_CatFan_Club_Head_E'
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=M }
+        ParameterValue = Texture2D'/Game/Characters/Player/Female/Medium/Heads/F_MED_Buff_CatFan_Head/Skins/CatFan_Club/Textures/T_F_MED_Buff_CatFan_Club_Head_M.T_F_MED_Buff_CatFan_Club_Head_M'
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=Normals }
+        ParameterValue = Texture2D'/Game/Characters/Player/Female/Medium/Heads/F_MED_Buff_CatFan_Head/Skins/CatFan_Club/Textures/T_F_MED_Buff_CatFan_Club_Head_N.T_F_MED_Buff_CatFan_Club_Head_N'
+        ParameterName = None
+    }
+    TextureParameterValues[4] =
+    {
+        ParameterInfo = { Name=EmissiveGradient }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[5] =
+    {
+        ParameterInfo = { Name=SM_CustomNormal }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[6] =
+    {
+        ParameterInfo = { Name=SkinFX_Mask }
+        ParameterValue = Texture2D'/Game/Characters/Player/Female/Medium/Heads/F_MED_Buff_CatFan_Head/Skins/CatFan_Club/Textures/T_F_MED_Buff_CatFan_Club_Head_E.T_F_MED_Buff_CatFan_Club_Head_E'
+        ParameterName = None
+    }
+    TextureParameterValues[7] =
+    {
+        ParameterInfo = { Name=SpecularMasks }
+        ParameterValue = Texture2D'/Game/Characters/Player/Female/Medium/Heads/F_MED_Buff_CatFan_Head/Skins/CatFan_Club/Textures/T_F_MED_Buff_CatFan_Club_Head_S.T_F_MED_Buff_CatFan_Club_Head_S'
+        ParameterName = None
+    }
+}
+VectorParameterValues[12] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=Emissive Color }
+        ParameterValue = { R=0.322917, G=0.096297, B=0.001651, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo =
+        {
+            Name = EmissiveUVs_RG_UpperLeftCorner_BA_LowerRightCorner
+        }
+        ParameterValue = { R=0.854, G=0.363, B=1, A=0.51 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=Vertex Emissive Color A }
+        ParameterValue = { R=0.3125, G=0, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[3] =
+    {
+        ParameterInfo = { Name=Vertex Emissive Color B }
+        ParameterValue = { R=1, G=0.098958, B=0.098958, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[4] =
+    {
+        ParameterInfo = { Name=EmissiveColor }
+        ParameterValue = { R=0.244792, G=0.082797, B=0.010949, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[5] =
+    {
+        ParameterInfo = { Name=TriPlanner Speed }
+        ParameterValue = { R=0, G=0.042311, B=0.104616, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[6] =
+    {
+        ParameterInfo = { Name=SM_BaseColor }
+        ParameterValue = { R=0.730461, G=0.467784, B=0.124772, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[7] =
+    {
+        ParameterInfo = { Name=BlinkLights_OrderChannel }
+        ParameterValue = { R=0, G=1, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[8] =
+    {
+        ParameterInfo = { Name=SL_MaskPos_01 }
+        ParameterValue = { R=-8, G=3, B=166, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[9] =
+    {
+        ParameterInfo = { Name=SL_MaskPos_02 }
+        ParameterValue = { R=2, G=0, B=158, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[10] =
+    {
+        ParameterInfo = { Name=SL_MaskPos_03 }
+        ParameterValue = { R=12, G=0, B=144, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[11] =
+    {
+        ParameterInfo = { Name=SL_TransitionNoise_Tiling }
+        ParameterValue = { R=40, G=40, B=40, A=1 }
+        ParameterName = None
+    }
+}
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0.3333
+}
+StaticParameters =
+{
+    StaticSwitchParameters[6] =
+    {
+        StaticSwitchParameters[0] =
+        {
+            Value = false
+            ParameterInfo = { Name=CameraFacing }
+            bOverride = true
+        }
+        StaticSwitchParameters[1] =
+        {
+            Value = true
+            ParameterInfo = { Name=Emissive }
+            bOverride = true
+        }
+        StaticSwitchParameters[2] =
+        {
+            Value = true
+            ParameterInfo =
+            {
+                Name = Add 'Emissive' Texture to Panning Emissive Color
+            }
+            bOverride = true
+        }
+        StaticSwitchParameters[3] =
+        {
+            Value = true
+            ParameterInfo = { Name=SM_UseSuperlevellingMask }
+            bOverride = true
+        }
+        StaticSwitchParameters[4] =
+        {
+            Value = true
+            ParameterInfo = { Name=UseMippedObjectNormal }
+            bOverride = true
+        }
+        StaticSwitchParameters[5] =
+        {
+            Value = true
+            ParameterInfo = { Name=Use Panning Emissive }
+            bOverride = true
+        }
+    }
+    StaticComponentMaskParameters[3] =
+    {
+        StaticComponentMaskParameters[0] =
+        {
+            R = true
+            G = true
+            B = true
+            A = false
+            ParameterInfo = { Name=Emissive Component Mask }
+            bOverride = true
+        }
+        StaticComponentMaskParameters[1] =
+        {
+            R = true
+            G = false
+            B = false
+            A = false
+            ParameterInfo = { Name=PanningEmissive_Channel }
+            bOverride = true
+        }
+        StaticComponentMaskParameters[2] =
+        {
+            R = false
+            G = false
+            B = false
+            A = true
+            ParameterInfo = { Name=PanningEmissive_UVOffset_Channel }
+            bOverride = true
+        }
+    }
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[1] =
+{
+    TextureStreamingData[0] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_F_MED_Buff_CatFan_Club_Head_D
+    }
+}

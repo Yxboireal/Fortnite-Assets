@@ -1,0 +1,6 @@
+Diffuse=T_Vehicle_Foray_LOD0_Body_1_Mask_D
+Normal=T_Vehicle_Foray_LOD0_Body_03_N
+Other[0]=T_Vehicle_Foray_LOD0_Body_3_D
+Other[1]=T_Vehicle_Foray_LOD0_Body_1_D
+Other[2]=T_Vehicle_Foray_LOD0_Body_1_Mask
+Other[3]=T_Vehicle_Foray_LOD0_Body_01_N

@@ -1,0 +1,79 @@
+Skeleton = Skeleton'/Game/Weapons/FORT_Melee/Meshes/SK_Melee_Skeleton.SK_Melee_Skeleton'
+bHasVertexColors = false
+LODInfo[3] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[3] =
+{
+    Sockets[0] =
+    {
+        SocketName = FX_Idle_Start
+        BoneName = Melee_TwoHanded_Handle
+        RelativeLocation = { X=0.911567, Y=25.9871, Z=73.9504 }
+        RelativeRotation =
+        {
+            Yaw = 1069204548
+            Pitch = 1058342409
+            Roll = -1120240406
+        }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[1] =
+    {
+        SocketName = AnimTrail_01
+        BoneName = Melee_TwoHanded_Handle
+        RelativeLocation = { X=0.818761, Y=23.3367, Z=82.2576 }
+        RelativeRotation = { Yaw=-1028390698, Pitch=0, Roll=-2108871293 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[2] =
+    {
+        SocketName = AnimTrail_02
+        BoneName = Melee_TwoHanded_Handle
+        RelativeLocation = { X=0.752481, Y=31.4822, Z=53.1814 }
+        RelativeRotation = { Yaw=-1028390646, Pitch=0, Roll=-2108218694 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[3] = { , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

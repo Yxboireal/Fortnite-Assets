@@ -1,0 +1,4 @@
+Diffuse=T_Lightning
+Emissive=T_Hexmap_Lightning_02_E
+Other[0]=RefractionNoise
+Other[1]=TilingNoise06_N_uncompressed

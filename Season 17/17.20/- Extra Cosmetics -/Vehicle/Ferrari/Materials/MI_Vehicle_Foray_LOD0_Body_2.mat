@@ -1,0 +1,9 @@
+Diffuse=T_Vehicle_Foray_LOD0_Body_2_Mask_D
+Normal=T_Vehicle_Foray_LOD0_Body_02_N
+SpecPower=T_Vehicle_Foray_LOD0_Body_2_S
+Other[0]=T_Vehicle_Foray_LOD0_Body_2_D
+Other[1]=T_Vehicle_Foray_LOD0_Body_2_Mask
+Other[2]=T_Vehicle_Foray_LOD0_Body_1_D
+Other[3]=T_Vehicle_Foray_LOD0_Body_1_Mask_D
+Other[4]=T_Vehicle_Foray_LOD0_Body_1_Mask
+Other[5]=T_Vehicle_Foray_LOD0_Body_01_N

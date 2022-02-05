@@ -1,0 +1,26 @@
+Materials[1] =
+{
+    Materials[0] = Material3'/Game/Environments/FrontEnd/BP17/Materials/M_Avocado_Parasite.M_Avocado_Parasite'
+}
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = Material3'/Game/Environments/FrontEnd/BP17/Materials/M_Avocado_Parasite.M_Avocado_Parasite'
+        MaterialSlotName = MI_Gadget_Avocado_Eater_Bird_Flying
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 94.4881, 0, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=-3.72543, Y=-0.199609, Z=0.828093 }
+    BoxExtent = { X=16.6554, Y=13.4501, Z=15.2147 }
+    SphereRadius = 19.3493
+}

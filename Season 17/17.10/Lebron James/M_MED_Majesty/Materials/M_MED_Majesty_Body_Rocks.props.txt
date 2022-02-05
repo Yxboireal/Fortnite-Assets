@@ -1,0 +1,424 @@
+Parent = Material3'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Majesty/Materials/M_MED_Majesty_MASTER.M_MED_Majesty_MASTER'
+ScalarParameterValues[24] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo =
+        {
+            Name = Roughness Map Now affects Clearcoat roughness
+        }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=Undercoat Roughness }
+        ParameterValue = 0.1
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=Cloth Scattering Max }
+        ParameterValue = 0.5
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=Cloth Scattering Min }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = { Name=Cloth Shader Intensity }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[5] =
+    {
+        ParameterInfo = { Name=Cloth Subsurface Intensity }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[6] =
+    {
+        ParameterInfo = { Name=Fuzz Exponent }
+        ParameterValue = 3
+        ParameterName = None
+    }
+    ScalarParameterValues[7] =
+    {
+        ParameterInfo = { Name=Fuzz Fresnel Blend }
+        ParameterValue = 0.3
+        ParameterName = None
+    }
+    ScalarParameterValues[8] =
+    {
+        ParameterInfo = { Name=Fuzz Tiling }
+        ParameterValue = 5
+        ParameterName = None
+    }
+    ScalarParameterValues[9] =
+    {
+        ParameterInfo = { Name=emissive mult }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[10] =
+    {
+        ParameterInfo = { Name=EyeGlowStrength }
+        ParameterValue = 10
+        ParameterName = None
+    }
+    ScalarParameterValues[11] =
+    {
+        ParameterInfo = { Name=MaxStagger_Amt }
+        ParameterValue = 0.5
+        ParameterName = None
+    }
+    ScalarParameterValues[12] =
+    {
+        ParameterInfo = { Name=MinStagger_Amt }
+        ParameterValue = -0.65
+        ParameterName = None
+    }
+    ScalarParameterValues[13] =
+    {
+        ParameterInfo = { Name=SampleHardness }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[14] =
+    {
+        ParameterInfo = { Name=SampleRadius }
+        ParameterValue = 0.025
+        ParameterName = None
+    }
+    ScalarParameterValues[15] =
+    {
+        ParameterInfo = { Name=SphereMaskRadius }
+        ParameterValue = 192
+        ParameterName = None
+    }
+    ScalarParameterValues[16] =
+    {
+        ParameterInfo = { Name=TattooOpacity }
+        ParameterValue = 0.85
+        ParameterName = None
+    }
+    ScalarParameterValues[17] =
+    {
+        ParameterInfo = { Name=FresnelReflectance_LUT }
+        ParameterValue = 189
+        ParameterName = None
+    }
+    ScalarParameterValues[18] =
+    {
+        ParameterInfo = { Name=Rim Intensity }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[19] =
+    {
+        ParameterInfo = { Name=Silk Fresnel }
+        ParameterValue = 6
+        ParameterName = None
+    }
+    ScalarParameterValues[20] =
+    {
+        ParameterInfo = { Name=SilkEdgeAniso }
+        ParameterValue = 3
+        ParameterName = None
+    }
+    ScalarParameterValues[21] =
+    {
+        ParameterInfo = { Name=SIlkFresnelMax }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[22] =
+    {
+        ParameterInfo = { Name=SIlkFresnelMin }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[23] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[13] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=ClothFuzz Texture }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=Diffuse }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Majesty/Textures/T_M_MED_Majesty_Body_D.T_M_MED_Majesty_Body_D'
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=Diffuse_G }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Majesty/Textures/Gold/T_M_MED_Majesty_Gold_Body_D.T_M_MED_Majesty_Gold_Body_D'
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=Emissive }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Majesty/Textures/T_M_MED_Majesty_Body_E.T_M_MED_Majesty_Body_E'
+        ParameterName = None
+    }
+    TextureParameterValues[4] =
+    {
+        ParameterInfo = { Name=LionEyeEmissive }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Majesty/Textures/T_M_MED_Majesty_Body_E.T_M_MED_Majesty_Body_E'
+        ParameterName = None
+    }
+    TextureParameterValues[5] =
+    {
+        ParameterInfo = { Name=TattooMask }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Majesty/Textures/T_Majesty_TattooMAsk.T_Majesty_TattooMAsk'
+        ParameterName = None
+    }
+    TextureParameterValues[6] =
+    {
+        ParameterInfo = { Name=M }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Majesty/Textures/T_M_MED_Majesty_Body_M.T_M_MED_Majesty_Body_M'
+        ParameterName = None
+    }
+    TextureParameterValues[7] =
+    {
+        ParameterInfo = { Name=M_G }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Majesty/Textures/Gold/T_M_MED_Majesty_Gold_Body_M.T_M_MED_Majesty_Gold_Body_M'
+        ParameterName = None
+    }
+    TextureParameterValues[8] =
+    {
+        ParameterInfo = { Name=Normals }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Majesty/Textures/T_M_MED_Majesty_Body_N.T_M_MED_Majesty_Body_N'
+        ParameterName = None
+    }
+    TextureParameterValues[9] =
+    {
+        ParameterInfo = { Name=Normals_G }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Majesty/Textures/Gold/T_M_MED_Majesty_Gold_Body_N.T_M_MED_Majesty_Gold_Body_N'
+        ParameterName = None
+    }
+    TextureParameterValues[10] =
+    {
+        ParameterInfo = { Name=SkinFX_Mask }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Majesty/Textures/T_M_MED_Majesty_Body_FX.T_M_MED_Majesty_Body_FX'
+        ParameterName = None
+    }
+    TextureParameterValues[11] =
+    {
+        ParameterInfo = { Name=SpecularMasks }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Majesty/Textures/T_M_MED_Majesty_Body_S.T_M_MED_Majesty_Body_S'
+        ParameterName = None
+    }
+    TextureParameterValues[12] =
+    {
+        ParameterInfo = { Name=SpecularMasks_G }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Majesty/Textures/Gold/T_M_MED_Majesty_Gold_Body_S.T_M_MED_Majesty_Gold_Body_S'
+        ParameterName = None
+    }
+}
+VectorParameterValues[8] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=Cloth Fuzz Tint }
+        ParameterValue = { R=0.557292, G=0.521124, B=0.492388, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=Fuzz Tint }
+        ParameterValue = { R=3, G=1.64565, B=0.137937, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=Emissive Color }
+        ParameterValue = { R=0.416667, G=0.416667, B=0.416667, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[3] =
+    {
+        ParameterInfo = { Name=SphereMaskLocation_01 }
+        ParameterValue = { R=-27.4278, G=-7.62949, B=139.769, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[4] =
+    {
+        ParameterInfo = { Name=MetalMaskChannel }
+        ParameterValue = { R=0, G=0, B=1, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[5] =
+    {
+        ParameterInfo = { Name=SilkEdgeTint }
+        ParameterValue = { R=0.109375, G=0.109375, B=0.109375, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[6] =
+    {
+        ParameterInfo = { Name=Silk Channel }
+        ParameterValue = { R=0, G=1, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[7] =
+    {
+        ParameterInfo = { Name=Skin Boost Color And Exponent }
+        ParameterValue = { R=0.473958, G=0.417541, B=0.414714, A=2 }
+        ParameterName = None
+    }
+}
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0.3333
+}
+StaticParameters =
+{
+    StaticSwitchParameters[8] =
+    {
+        StaticSwitchParameters[0] =
+        {
+            Value = false
+            ParameterInfo = { Name=Color Cloth Fuzz by Channel }
+            bOverride = true
+        }
+        StaticSwitchParameters[1] =
+        {
+            Value = true
+            ParameterInfo = { Name=useNewClothShading }
+            bOverride = true
+        }
+        StaticSwitchParameters[2] =
+        {
+            Value = true
+            ParameterInfo = { Name=CameraFacing }
+            bOverride = true
+        }
+        StaticSwitchParameters[3] =
+        {
+            Value = true
+            ParameterInfo = { Name=CroppedEmissive }
+            bOverride = true
+        }
+        StaticSwitchParameters[4] =
+        {
+            Value = true
+            ParameterInfo = { Name=Emissive }
+            bOverride = true
+        }
+        StaticSwitchParameters[5] =
+        {
+            Value = true
+            ParameterInfo = { Name=Use Vertex Colors for Mask }
+            bOverride = true
+        }
+        StaticSwitchParameters[6] =
+        {
+            Value = false
+            ParameterInfo = { Name=Use Silk }
+            bOverride = true
+        }
+        StaticSwitchParameters[7] =
+        {
+            Value = true
+            ParameterInfo = { Name=UseMetalLUT }
+            bOverride = true
+        }
+    }
+    StaticComponentMaskParameters[3] =
+    {
+        StaticComponentMaskParameters[0] =
+        {
+            R = true
+            G = false
+            B = false
+            A = false
+            ParameterInfo = { Name=Emissive Component Mask }
+            bOverride = true
+        }
+        StaticComponentMaskParameters[1] =
+        {
+            R = false
+            G = false
+            B = true
+            A = false
+            ParameterInfo = { Name=Clear Coat Channel }
+            bOverride = true
+        }
+        StaticComponentMaskParameters[2] =
+        {
+            R = true
+            G = false
+            B = false
+            A = false
+            ParameterInfo = { Name=Cloth Channel }
+            bOverride = true
+        }
+    }
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[6] =
+{
+    TextureStreamingData[0] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_M_MED_Majesty_Body_E
+    }
+    TextureStreamingData[1] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_M_MED_Majesty_Body_FX
+    }
+    TextureStreamingData[2] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_M_MED_Majesty_Body_M
+    }
+    TextureStreamingData[3] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_M_MED_Majesty_Gold_Body_D
+    }
+    TextureStreamingData[4] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_M_MED_Majesty_Gold_Body_N
+    }
+    TextureStreamingData[5] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_M_MED_Majesty_Gold_Body_S
+    }
+}

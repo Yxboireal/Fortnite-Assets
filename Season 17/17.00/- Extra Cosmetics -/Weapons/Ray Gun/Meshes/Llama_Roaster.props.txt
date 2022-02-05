@@ -1,0 +1,105 @@
+Skeleton = Skeleton'/FortniteGame/Plugins/GameFeatures/MotherGameplay/Content/Items/LlamaRoaster/Assets/Meshes/Llama_Roaster_Skeleton.Llama_Roaster_Skeleton'
+bHasVertexColors = false
+LODInfo[3] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[5] =
+{
+    Sockets[0] =
+    {
+        SocketName = Muzzle
+        BoneName = Handle
+        RelativeLocation = { X=55.2395, Y=-6.12437e-05, Z=7.05494 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[1] =
+    {
+        SocketName = FX_Halo_flipUp_jntSocket
+        BoneName = Halo_flipUp_jnt
+        RelativeLocation = { X=-2.25771e-05, Y=-17.588, Z=7.28051 }
+        RelativeRotation =
+        {
+            Yaw = -1028390961
+            Pitch = 1101004847
+            Roll = -1250696122
+        }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[2] =
+    {
+        SocketName = FX_Halo_flipUp_jntSocket_L
+        BoneName = Halo_flipUp_jnt
+        RelativeLocation = { X=3.95793, Y=-14.6651, Z=5.68279 }
+        RelativeRotation =
+        {
+            Yaw = -1031166185
+            Pitch = 1100348009
+            Roll = 1088623617
+        }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[3] =
+    {
+        SocketName = FX_Halo_flipUp_jntSocket_R
+        BoneName = Halo_flipUp_jnt
+        RelativeLocation = { X=-3.64156, Y=-14.9726, Z=5.71713 }
+        RelativeRotation =
+        {
+            Yaw = -1025615755
+            Pitch = 1100348009
+            Roll = -1058860095
+        }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[4] =
+    {
+        SocketName = FX_front_floatingAttribute_jntSocket
+        BoneName = front_floatingAttribute_jnt
+        RelativeLocation = { X=0, Y=0, Z=0 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[3] = { , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

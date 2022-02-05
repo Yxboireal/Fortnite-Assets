@@ -1,0 +1,74 @@
+Skeleton = Skeleton'/Game/Characters/Player/Female/Medium/Bodies/F_MED_Faux/Meshes/Parts/F_MED_Faux_FaceAcc_Skeleton.F_MED_Faux_FaceAcc_Skeleton'
+bHasVertexColors = false
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[6] =
+        {
+            BonesToRemove[0] = { BoneName=dyn_parent_strand }
+            BonesToRemove[1] = { BoneName=dyn_strand }
+            BonesToRemove[2] = { BoneName=dyn_strand_top_01 }
+            BonesToRemove[3] = { BoneName=dyn_strand_bot_01 }
+            BonesToRemove[4] = { BoneName=dyn_strand_01_l }
+            BonesToRemove[5] = { BoneName=dyn_strand_01_r }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[6] =
+        {
+            BonesToRemove[0] = { BoneName=dyn_parent_strand }
+            BonesToRemove[1] = { BoneName=dyn_strand }
+            BonesToRemove[2] = { BoneName=dyn_strand_top_01 }
+            BonesToRemove[3] = { BoneName=dyn_strand_bot_01 }
+            BonesToRemove[4] = { BoneName=dyn_strand_01_l }
+            BonesToRemove[5] = { BoneName=dyn_strand_01_r }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

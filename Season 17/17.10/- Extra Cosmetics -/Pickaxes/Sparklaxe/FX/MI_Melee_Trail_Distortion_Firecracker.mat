@@ -1,0 +1,6 @@
+Diffuse=T_Weap_Distort_N_02
+Normal=T_Weap_Distort_N_02
+Other[0]=T_NoisePack_01
+Other[1]=T_ShieldCaustics
+Other[2]=T_Smooth_tile
+Other[3]=T_Inky_Smoke_Tile

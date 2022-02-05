@@ -1,0 +1,313 @@
+Parent = MaterialInstanceConstant'/Game/Packages/Fortress_SharedMaterials/MaterialInstances/CharacterShader_Accessories.CharacterShader_Accessories'
+ScalarParameterValues[23] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=Fuzz Exponent }
+        ParameterValue = 2.5
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=Fuzz Fresnel Blend }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=Fuzz Tiling }
+        ParameterValue = 25
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=CoreEmissive_Power }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = { Name=CrystalMetallic }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[5] =
+    {
+        ParameterInfo = { Name=CrystalSubsurfaceOpacity }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[6] =
+    {
+        ParameterInfo = { Name=EdgeMask_Intensity }
+        ParameterValue = 0.2
+        ParameterName = None
+    }
+    ScalarParameterValues[7] =
+    {
+        ParameterInfo = { Name=Emissive_Shade }
+        ParameterValue = 0.1
+        ParameterName = None
+    }
+    ScalarParameterValues[8] =
+    {
+        ParameterInfo = { Name=Emissive_Sunny }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[9] =
+    {
+        ParameterInfo = { Name=Refraction Intensity }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[10] =
+    {
+        ParameterInfo = { Name=Sheen Brightness }
+        ParameterValue = 10
+        ParameterName = None
+    }
+    ScalarParameterValues[11] =
+    {
+        ParameterInfo = { Name=Sheen_Power }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[12] =
+    {
+        ParameterInfo = { Name=SheenBrightness }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[13] =
+    {
+        ParameterInfo = { Name=SheenIntensity }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[14] =
+    {
+        ParameterInfo = { Name=Crystal_FresEX }
+        ParameterValue = 0.8
+        ParameterName = None
+    }
+    ScalarParameterValues[15] =
+    {
+        ParameterInfo = { Name=Emissive Tiling }
+        ParameterValue = 0.8
+        ParameterName = None
+    }
+    ScalarParameterValues[16] =
+    {
+        ParameterInfo = { Name=Emissive_BrightnessMax }
+        ParameterValue = 15
+        ParameterName = None
+    }
+    ScalarParameterValues[17] =
+    {
+        ParameterInfo = { Name=Emissive_BrightnessMIn }
+        ParameterValue = -3
+        ParameterName = None
+    }
+    ScalarParameterValues[18] =
+    {
+        ParameterInfo = { Name=Triplanner_ConstantScaleDivisor }
+        ParameterValue = 30
+        ParameterName = None
+    }
+    ScalarParameterValues[19] =
+    {
+        ParameterInfo = { Name=ThinFilm_Exponent }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[20] =
+    {
+        ParameterInfo = { Name=ThinFilm_Intensity }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[21] =
+    {
+        ParameterInfo = { Name=ThinFilm_Warp }
+        ParameterValue = 0.3
+        ParameterName = None
+    }
+    ScalarParameterValues[22] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[8] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=ClothFuzz Texture }
+        ParameterValue = Texture2D'/Game/Weapons/WeaponSkins/Textures/T_Fuzz_MASK.T_Fuzz_MASK'
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=Diffuse }
+        ParameterValue = Texture2D'/Game/Characters/Player/Female/Medium/Bodies/F_MED_BandageNinja/Skin/Fire/Textures/T_F_MED_Bandage_Ninja_Fire_Hair_D.T_F_MED_Bandage_Ninja_Fire_Hair_D'
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=M }
+        ParameterValue = Texture2D'/Game/Characters/Player/Female/Medium/Bodies/F_MED_BandageNinja/Skin/Fire/Textures/T_F_MED_Bandage_Ninja_Fire_Hair_M.T_F_MED_Bandage_Ninja_Fire_Hair_M'
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=Normals }
+        ParameterValue = Texture2D'/Game/Characters/Player/Female/Medium/Bodies/F_MED_BandageNinja/Skin/Fire/Textures/T_F_MED_Bandage_Ninja_Fire_Hair_N.T_F_MED_Bandage_Ninja_Fire_Hair_N'
+        ParameterName = None
+    }
+    TextureParameterValues[4] =
+    {
+        ParameterInfo = { Name=EmissiveGradient }
+        ParameterValue = Texture2D'/Game/Weapons/WeaponSkins/Wraps/Textures/DevilLace/Lavaish_D.Lavaish_D'
+        ParameterName = None
+    }
+    TextureParameterValues[5] =
+    {
+        ParameterInfo = { Name=SkinFX_Mask }
+        ParameterValue = Texture2D'/Game/Characters/Fortress_Character/Textures/AllBlack.AllBlack'
+        ParameterName = None
+    }
+    TextureParameterValues[6] =
+    {
+        ParameterInfo = { Name=SpecularMasks }
+        ParameterValue = Texture2D'/Game/Characters/Player/Female/Medium/Bodies/F_MED_BandageNinja/Skin/Fire/Textures/T_F_MED_Bandage_Ninja_Fire_Hair_S.T_F_MED_Bandage_Ninja_Fire_Hair_S'
+        ParameterName = None
+    }
+    TextureParameterValues[7] =
+    {
+        ParameterInfo = { Name=Thin Film Texture }
+        ParameterValue = Texture2D'/Game/Accessories/Hats/F_MED_Commando_Witch_Hat/Textures/T_WitchHat_Gradient.T_WitchHat_Gradient'
+        ParameterName = None
+    }
+}
+VectorParameterValues[6] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=Fuzz Tint }
+        ParameterValue = { R=3.5, G=3.5, B=3.5, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=CrackColor }
+        ParameterValue = { R=0, G=0, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=Crystal Core Emissive }
+        ParameterValue = { R=0, G=0.304354, B=3.5, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[3] =
+    {
+        ParameterInfo = { Name=Crystal EdgeEmissive }
+        ParameterValue = { R=0.037426, G=0, B=0.114583, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[4] =
+    {
+        ParameterInfo = { Name=TriPlanner Speed }
+        ParameterValue = { R=0, G=0.04375, B=0.109375, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[5] =
+    {
+        ParameterInfo = { Name=Skin Boost Color And Exponent }
+        ParameterValue = { R=0.5, G=0.5, B=0.5, A=2 }
+        ParameterName = None
+    }
+}
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0.3333
+}
+StaticParameters =
+{
+    StaticSwitchParameters[1] =
+    {
+        StaticSwitchParameters[0] =
+        {
+            Value = true
+            ParameterInfo =
+            {
+                Name = Use 'Emissive' Texture as Panning Emissive Color
+            }
+            bOverride = true
+        }
+    }
+    StaticComponentMaskParameters[4] =
+    {
+        StaticComponentMaskParameters[0] =
+        {
+            R = false
+            G = false
+            B = true
+            A = false
+            ParameterInfo = { Name=Crystal Channel }
+            bOverride = true
+        }
+        StaticComponentMaskParameters[1] =
+        {
+            R = false
+            G = true
+            B = false
+            A = false
+            ParameterInfo = { Name=Crystal Edge Map Channel }
+            bOverride = true
+        }
+        StaticComponentMaskParameters[2] =
+        {
+            R = true
+            G = false
+            B = false
+            A = false
+            ParameterInfo = { Name=PanningEmissive_Channel }
+            bOverride = true
+        }
+        StaticComponentMaskParameters[3] =
+        {
+            R = false
+            G = false
+            B = false
+            A = false
+            ParameterInfo = { Name=ThinFilm_Channel }
+            bOverride = true
+        }
+    }
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[1] =
+{
+    TextureStreamingData[0] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_F_MED_Bandage_Ninja_Fire_Hair_D
+    }
+}

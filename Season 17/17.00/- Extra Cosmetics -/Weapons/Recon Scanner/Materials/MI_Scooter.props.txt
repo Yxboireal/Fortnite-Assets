@@ -1,0 +1,120 @@
+Parent = MaterialInstanceConstant'/Game/Weapons/FORT_GrenadeLaunchers/Materials/MI_FORT_GrenadeLauncher.MI_FORT_GrenadeLauncher'
+ScalarParameterValues[1] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[5] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=CustomizationMask (_CM) }
+        ParameterValue = Texture2D'/Game/Gadgets/Assets/Scooter/Textures/T_Scooter_CM.T_Scooter_CM'
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=EmissiveTexture }
+        ParameterValue = Texture2D'/Game/Gadgets/Assets/Scooter/Textures/T_Scooter_E.T_Scooter_E'
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=SpecularMasks }
+        ParameterValue = Texture2D'/Game/Gadgets/Assets/Scooter/Textures/T_Scooter_S.T_Scooter_S'
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=Normals }
+        ParameterValue = Texture2D'/Game/Gadgets/Assets/Scooter/Textures/T_Scooter_N.T_Scooter_N'
+        ParameterName = None
+    }
+    TextureParameterValues[4] =
+    {
+        ParameterInfo = { Name=Diffuse }
+        ParameterValue = Texture2D'/Game/Gadgets/Assets/Scooter/Textures/T_Scooter_D.T_Scooter_D'
+        ParameterName = None
+    }
+}
+VectorParameterValues[7] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=EmissiveMultiplier }
+        ParameterValue = { R=1.4, G=1.4, B=1.4, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=DO NOT OVERRIDE-OBCENTER }
+        ParameterValue = { R=0.308257, G=0, B=0.208164, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=DO NOT OVERRIDE-OBMAX }
+        ParameterValue = { R=0, G=-3.41998, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[3] =
+    {
+        ParameterInfo = { Name=DO NOT OVERRIDE-OBMIN }
+        ParameterValue = { R=0, G=2.50803, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[4] =
+    {
+        ParameterInfo = { Name=DO NOT OVERRIDE-SZ-Back }
+        ParameterValue = { R=0.414286, G=-0.023571, B=0, A=0.1 }
+        ParameterName = None
+    }
+    VectorParameterValues[5] =
+    {
+        ParameterInfo = { Name=DO NOT OVERRIDE-SZ-Middle }
+        ParameterValue = { R=0.173333, G=0.012, B=0, A=0.09 }
+        ParameterName = None
+    }
+    VectorParameterValues[6] =
+    {
+        ParameterInfo = { Name=DO NOT OVERRIDE-SZ-Front }
+        ParameterValue = { R=-0.404763, G=-0.010095, B=0, A=0.095 }
+        ParameterName = None
+    }
+}
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0.3333
+}
+StaticParameters =
+{
+    StaticSwitchParameters[0] = {}
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[1] =
+{
+    TextureStreamingData[0] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_Scooter_N
+    }
+}

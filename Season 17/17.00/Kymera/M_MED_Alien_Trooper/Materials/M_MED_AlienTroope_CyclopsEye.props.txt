@@ -1,0 +1,128 @@
+Parent = Material3'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Alien_Trooper/Materials/M_FN_AlienTrooperSkin_Master.M_FN_AlienTrooperSkin_Master'
+ScalarParameterValues[1] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[5] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=AT_FXMask }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Alien_Trooper/Textures/Cyclops/T_M_MED_Alien_Trooper_Cyclops_Eyes_FX.T_M_MED_Alien_Trooper_Cyclops_Eyes_FX'
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=AT_Diffuse }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Alien_Trooper/Textures/Cyclops/T_M_MED_AlienTrooper_Cyclops_Eye_D.T_M_MED_AlienTrooper_Cyclops_Eye_D'
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=Normals }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Alien_Trooper/Textures/Cyclops/T_M_MED_Alien_Trooper_Cyclops_Eyes_N.T_M_MED_Alien_Trooper_Cyclops_Eyes_N'
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=M }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Alien_Trooper/Textures/Cyclops/T_M_MED_Alien_Trooper_Cyclops_Eyes_M.T_M_MED_Alien_Trooper_Cyclops_Eyes_M'
+        ParameterName = None
+    }
+    TextureParameterValues[4] =
+    {
+        ParameterInfo = { Name=SpecularMasks }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Alien_Trooper/Textures/Cyclops/T_M_MED_Alien_Trooper_Cyclops_Eyes_S.T_M_MED_Alien_Trooper_Cyclops_Eyes_S'
+        ParameterName = None
+    }
+}
+VectorParameterValues[2] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=AT_Primary_HSV }
+        ParameterValue = { R=0, G=1, B=1, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=AT_Secondary_HSV }
+        ParameterValue = { R=0, G=1, B=1, A=0 }
+        ParameterName = None
+    }
+}
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0.3333
+}
+StaticParameters =
+{
+    StaticSwitchParameters[2] =
+    {
+        StaticSwitchParameters[0] =
+        {
+            Value = true
+            ParameterInfo = { Name=AT_UseEyes }
+            bOverride = true
+        }
+        StaticSwitchParameters[1] =
+        {
+            Value = true
+            ParameterInfo = { Name=useRefractiveEye }
+            bOverride = true
+        }
+    }
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[5] =
+{
+    TextureStreamingData[0] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_Eye_N
+    }
+    TextureStreamingData[1] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_M_MED_Alien_Trooper_Cyclops_Eyes_M
+    }
+    TextureStreamingData[2] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_M_MED_Alien_Trooper_Cyclops_Eyes_N
+    }
+    TextureStreamingData[3] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_M_MED_Alien_Trooper_Cyclops_Eyes_N
+    }
+    TextureStreamingData[4] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_M_MED_Alien_Trooper_Cyclops_Eyes_S
+    }
+}

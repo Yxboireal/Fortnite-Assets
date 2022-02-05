@@ -1,0 +1,44 @@
+TwoSided = false
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[6] =
+{
+    ReferencedTextures[0] = Texture2D'/FortniteGame/Plugins/GameFeatures/Foray/Content/Textures/T_Vehicle_Foray_Dash_Emissive.T_Vehicle_Foray_Dash_Emissive'
+    ReferencedTextures[1] = Texture2D'/FortniteGame/Plugins/GameFeatures/Foray/Content/Textures/T_Vehicle_Foray_Dash_Emissive_M.T_Vehicle_Foray_Dash_Emissive_M'
+    ReferencedTextures[2] = Texture2D'/FortniteGame/Plugins/GameFeatures/Foray/Content/Textures/T_Vehicle_Foray_LOD0_Interior_Dash_Mask.T_Vehicle_Foray_LOD0_Interior_Dash_Mask'
+    ReferencedTextures[3] = Texture2D'/FortniteGame/Plugins/GameFeatures/Foray/Content/Textures/T_Vehicle_Foray_LOD0_Lights_D.T_Vehicle_Foray_LOD0_Lights_D'
+    ReferencedTextures[4] = Texture2D'/FortniteGame/Plugins/GameFeatures/Foray/Content/Textures/T_Vehicle_Foray_LOD0_Lights_N.T_Vehicle_Foray_LOD0_Lights_N'
+    ReferencedTextures[5] = Texture2D'/FortniteGame/Plugins/GameFeatures/Foray/Content/Textures/T_Vehicle_Foray_LOD0_Lights_S.T_Vehicle_Foray_LOD0_Lights_S'
+}
+Expressions[0] = {}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Opaque (0)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[0] = {}
+CollectedScalarParameters[0] = {}
+CollectedVectorParameters[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

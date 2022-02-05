@@ -1,0 +1,48 @@
+TwoSided = false
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[10] =
+{
+    ReferencedTextures[0] = Texture2D'/Engine/ArtTools/RenderToTexture/Textures/127grey.127grey'
+    ReferencedTextures[1] = Texture2D'/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.flipbook'
+    ReferencedTextures[2] = Texture2D'/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/SphereRenderNormalsMap.SphereRenderNormalsMap'
+    ReferencedTextures[3] = Texture2D'/Game/Effects/Niagara/MasterMaterials/Smoke/Textures/NEW/RT4x4_1_Tex.RT4x4_1_Tex'
+    ReferencedTextures[4] = Texture2D'/Game/Effects/Niagara/MasterMaterials/Smoke/Textures/NEW/RT4x4_3_Tex.RT4x4_3_Tex'
+    ReferencedTextures[5] = Texture2D'/Game/Effects/Niagara/MasterMaterials/Smoke/Textures/NEW/RT4x4_4_Tex.RT4x4_4_Tex'
+    ReferencedTextures[6] = Texture2D'/Game/Effects/Niagara/MasterMaterials/Smoke/Textures/NEW/RT4x4_5_Tex.RT4x4_5_Tex'
+    ReferencedTextures[7] = Texture2D'/Game/Effects/Niagara/MasterMaterials/Smoke/Textures/Vector_OF.Vector_OF'
+    ReferencedTextures[8] = Texture2D'/Game/Packages/Fortress_SharedMaterials/Textures/T_Blowing_Smoke_Pattern2_Tile_DISP.T_Blowing_Smoke_Pattern2_Tile_DISP'
+    ReferencedTextures[9] = Texture2D'/Game/Packages/Fortress_SharedMaterials/Textures/T_Noise02.T_Noise02'
+}
+Expressions[0] = {}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Opaque (0)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[0] = {}
+CollectedScalarParameters[0] = {}
+CollectedVectorParameters[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

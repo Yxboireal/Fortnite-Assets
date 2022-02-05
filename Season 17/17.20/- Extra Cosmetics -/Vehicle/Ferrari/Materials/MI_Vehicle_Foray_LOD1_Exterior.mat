@@ -1,0 +1,8 @@
+Diffuse=T_Vehicle_Foray_LOD1_Exterior_D
+Normal=T_HexMesh_N
+SpecPower=T_Vehicle_Foray_LOD1_Exterior_S
+Other[0]=T_HexMesh_M
+Other[1]=T_Vehicle_Foray_LOD1_Exterior_AO
+Other[2]=T_Vehicle_Foray_LOD1_Exterior_PMask
+Other[3]=T_Vehicle_Foray_LOD1_Exterior_M
+Other[4]=T_Vehicle_Foray_LOD1_Exterior_N

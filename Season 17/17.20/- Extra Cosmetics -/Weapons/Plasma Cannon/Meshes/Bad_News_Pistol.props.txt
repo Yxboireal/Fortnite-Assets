@@ -1,0 +1,106 @@
+Skeleton = Skeleton'/FortniteGame/Plugins/GameFeatures/MotherGameplay/Content/Items/BadNews/Assets/Meshes/Bad_News_Pistol_Skeleton.Bad_News_Pistol_Skeleton'
+bHasVertexColors = false
+LODInfo[3] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = "D:/Build/depot/FortressArtSource/assets/Weapon/Pistols/Bad_News/Rig/Bad_News_Pistol.FBX"
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[7] =
+{
+    Sockets[0] =
+    {
+        SocketName = FX_Socket01
+        BoneName = R_tusk
+        RelativeLocation = { X=-6.80014, Y=-0.0827479, Z=-1.95701 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[1] =
+    {
+        SocketName = FX_Socket04
+        BoneName = R_panel_M
+        RelativeLocation = { X=-2.04567, Y=-0.386421, Z=0.551046 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[2] =
+    {
+        SocketName = FX_Socket03
+        BoneName = R_panel_A
+        RelativeLocation = { X=-1.4923, Y=-0.735255, Z=0.0131347 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[3] =
+    {
+        SocketName = FX_Socket02
+        BoneName = L_tusk
+        RelativeLocation = { X=6.81245, Y=-0.187866, Z=1.94748 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[4] =
+    {
+        SocketName = FX_Socket06
+        BoneName = L_panel_M
+        RelativeLocation = { X=1.99221, Y=0.216743, Z=0.661435 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[5] =
+    {
+        SocketName = FX_Socket05
+        BoneName = L_panel_A
+        RelativeLocation = { X=1.497, Y=0.486515, Z=-0.137887 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[6] =
+    {
+        SocketName = FX_Muzzle
+        BoneName = Handle
+        RelativeLocation = { X=20.3445, Y=-8.70728e-07, Z=10.0249 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[3] = { , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

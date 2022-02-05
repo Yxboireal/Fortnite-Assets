@@ -1,0 +1,6 @@
+Diffuse=T_Tilling_Distortion_Map_01
+Normal=T_waterSplash_N
+SpecPower=T_Power_Source_Sphere_Mask
+Cube=T_EyeballReflection2
+Other[0]=T_Tilling_Distortion_Map_01_n
+Other[1]=T_AthenaSkylight

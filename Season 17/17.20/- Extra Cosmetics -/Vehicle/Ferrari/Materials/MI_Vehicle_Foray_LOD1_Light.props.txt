@@ -1,0 +1,152 @@
+Parent = MaterialInstanceConstant'/FortniteGame/Plugins/GameFeatures/Foray/Content/Materials/MI_Vehicle_Foray_LOD0_Lights.MI_Vehicle_Foray_LOD0_Lights'
+ScalarParameterValues[13] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=BraikingEmissive }
+        ParameterValue = 50
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=BreakLlightContrast }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=LightBaseColor }
+        ParameterValue = 9.6
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=Lightcover_Metallic }
+        ParameterValue = 19.1339
+        ParameterName = None
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = { Name=UVOffset1_x }
+        ParameterValue = 0.099048
+        ParameterName = None
+    }
+    ScalarParameterValues[5] =
+    {
+        ParameterInfo = { Name=UVOffset1_y }
+        ParameterValue = 0.380952
+        ParameterName = None
+    }
+    ScalarParameterValues[6] =
+    {
+        ParameterInfo = { Name=UVOffset2_x }
+        ParameterValue = 0.175238
+        ParameterName = None
+    }
+    ScalarParameterValues[7] =
+    {
+        ParameterInfo = { Name=UVOffset2_y }
+        ParameterValue = -0.365714
+        ParameterName = None
+    }
+    ScalarParameterValues[8] =
+    {
+        ParameterInfo = { Name=UVScale1_x }
+        ParameterValue = 0.131428
+        ParameterName = None
+    }
+    ScalarParameterValues[9] =
+    {
+        ParameterInfo = { Name=UVScale1_y }
+        ParameterValue = 0.055238
+        ParameterName = None
+    }
+    ScalarParameterValues[10] =
+    {
+        ParameterInfo = { Name=UVScale2_x }
+        ParameterValue = 0.146666
+        ParameterName = None
+    }
+    ScalarParameterValues[11] =
+    {
+        ParameterInfo = { Name=UVScale2_y }
+        ParameterValue = 0.047619
+        ParameterName = None
+    }
+    ScalarParameterValues[12] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[3] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=Diffuse }
+        ParameterValue = Texture2D'/FortniteGame/Plugins/GameFeatures/Foray/Content/Textures/T_Vehicle_Foray_LOD0_Lights_D.T_Vehicle_Foray_LOD0_Lights_D'
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=Normal }
+        ParameterValue = Texture2D'/FortniteGame/Plugins/GameFeatures/Foray/Content/Textures/T_Vehicle_Foray_LOD0_Lights_N.T_Vehicle_Foray_LOD0_Lights_N'
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=Specular Mask }
+        ParameterValue = Texture2D'/FortniteGame/Plugins/GameFeatures/Foray/Content/Textures/T_Vehicle_Foray_LOD0_Lights_S.T_Vehicle_Foray_LOD0_Lights_S'
+        ParameterName = None
+    }
+}
+VectorParameterValues[1] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=HeadlightColor }
+        ParameterValue = { R=0.520833, G=0.760787, B=1, A=1 }
+        ParameterName = None
+    }
+}
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = true
+    BlendMode = BLEND_Additive (3)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0.3333
+}
+StaticParameters =
+{
+    StaticSwitchParameters[1] =
+    {
+        StaticSwitchParameters[0] =
+        {
+            Value = true
+            ParameterInfo = { Name=IsAdditive }
+            bOverride = true
+        }
+    }
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[1] =
+{
+    TextureStreamingData[0] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_Vehicle_Foray_LOD0_Lights_E
+    }
+}

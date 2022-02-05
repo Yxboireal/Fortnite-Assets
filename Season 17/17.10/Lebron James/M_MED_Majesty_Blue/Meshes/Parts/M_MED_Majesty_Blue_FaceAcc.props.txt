@@ -1,0 +1,96 @@
+Skeleton = Skeleton'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Majesty_Blue/Meshes/Parts/M_MED_Majesty_Blue_FaceAcc_Skeleton.M_MED_Majesty_Blue_FaceAcc_Skeleton'
+bHasVertexColors = true
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[2] =
+        {
+            BonesToPrioritize[0] = { BoneName=R_eye_lid_lower_mid }
+            BonesToPrioritize[1] = { BoneName=C_lip_lower_mid }
+        }
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[15] =
+        {
+            BonesToRemove[0] = { BoneName=faceAttach }
+            BonesToRemove[1] = { BoneName=L_brow_outer }
+            BonesToRemove[2] = { BoneName=L_cheek_inner }
+            BonesToRemove[3] = { BoneName=L_lip_upper_outer }
+            BonesToRemove[4] = { BoneName=L_lip_corner }
+            BonesToRemove[5] = { BoneName=R_brow_outer }
+            BonesToRemove[6] = { BoneName=R_cheek_inner }
+            BonesToRemove[7] = { BoneName=R_lip_corner }
+            BonesToRemove[8] = { BoneName=C_jaw }
+            BonesToRemove[9] = { BoneName=L_lip_lower_outer }
+            BonesToRemove[10] = { BoneName=C_lip_lower_mid }
+            BonesToRemove[11] = { BoneName=R_lip_lower_outer }
+            BonesToRemove[12] = { BoneName=R_eye }
+            BonesToRemove[13] = { BoneName=R_eye_lid_lower_mid }
+            BonesToRemove[14] = { BoneName=R_lip_upper_outer }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[15] =
+        {
+            BonesToRemove[0] = { BoneName=faceAttach }
+            BonesToRemove[1] = { BoneName=L_brow_outer }
+            BonesToRemove[2] = { BoneName=L_cheek_inner }
+            BonesToRemove[3] = { BoneName=L_lip_upper_outer }
+            BonesToRemove[4] = { BoneName=L_lip_corner }
+            BonesToRemove[5] = { BoneName=R_brow_outer }
+            BonesToRemove[6] = { BoneName=R_cheek_inner }
+            BonesToRemove[7] = { BoneName=R_lip_corner }
+            BonesToRemove[8] = { BoneName=C_jaw }
+            BonesToRemove[9] = { BoneName=L_lip_lower_outer }
+            BonesToRemove[10] = { BoneName=C_lip_lower_mid }
+            BonesToRemove[11] = { BoneName=R_lip_lower_outer }
+            BonesToRemove[12] = { BoneName=R_eye }
+            BonesToRemove[13] = { BoneName=R_eye_lid_lower_mid }
+            BonesToRemove[14] = { BoneName=R_lip_upper_outer }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

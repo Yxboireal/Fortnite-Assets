@@ -1,0 +1,217 @@
+Skeleton = Skeleton'/Game/Characters/Player/Male/Medium/Heads/M_MED_AlienTrooper_Head/Meshes/Human/Male_Medium_Alien_Trooper_Head_Skeleton.Male_Medium_Alien_Trooper_Head_Skeleton'
+bHasVertexColors = true
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[4] =
+        {
+            BonesToRemove[0] = { BoneName=C_nose_bridge }
+            BonesToRemove[1] = { BoneName=teeth_lower }
+            BonesToRemove[2] = { BoneName=tongue }
+            BonesToRemove[3] = { BoneName=teeth_upper }
+        }
+        BonesToPrioritize[5] =
+        {
+            BonesToPrioritize[0] = { BoneName=R_eye_lid_lower_mid }
+            BonesToPrioritize[1] = { BoneName=L_eye_lid_lower_mid }
+            BonesToPrioritize[2] = { BoneName=R_eye_lid_upper_mid }
+            BonesToPrioritize[3] = { BoneName=L_eye_lid_upper_mid }
+            BonesToPrioritize[4] = { BoneName=C_lip_lower_mid }
+        }
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[71] =
+        {
+            BonesToRemove[0] = { BoneName=faceAttach }
+            BonesToRemove[1] = { BoneName=C_brow_mid }
+            BonesToRemove[2] = { BoneName=L_brow_mid }
+            BonesToRemove[3] = { BoneName=L_brow_outer }
+            BonesToRemove[4] = { BoneName=dyn_brow_l_master }
+            BonesToRemove[5] = { BoneName=dyn_brow_l_01 }
+            BonesToRemove[6] = { BoneName=dyn_brow_l_02 }
+            BonesToRemove[7] = { BoneName=L_cheek_inner }
+            BonesToRemove[8] = { BoneName=C_lip_upper_mid }
+            BonesToRemove[9] = { BoneName=L_lip_upper_outer }
+            BonesToRemove[10] = { BoneName=dyn_moustache_l_master }
+            BonesToRemove[11] = { BoneName=dyn_moustache_l_01 }
+            BonesToRemove[12] = { BoneName=dyn_moustache_l_02 }
+            BonesToRemove[13] = { BoneName=L_lip_corner }
+            BonesToRemove[14] = { BoneName=C_nose_bridge }
+            BonesToRemove[15] = { BoneName=R_brow_mid }
+            BonesToRemove[16] = { BoneName=R_brow_outer }
+            BonesToRemove[17] = { BoneName=dyn_brow_r_master }
+            BonesToRemove[18] = { BoneName=dyn_brow_r_01 }
+            BonesToRemove[19] = { BoneName=dyn_brow_r_02 }
+            BonesToRemove[20] = { BoneName=R_cheek_inner }
+            BonesToRemove[21] = { BoneName=R_lip_corner }
+            BonesToRemove[22] = { BoneName=C_jaw }
+            BonesToRemove[23] = { BoneName=L_lip_lower_outer }
+            BonesToRemove[24] = { BoneName=C_lip_lower_mid }
+            BonesToRemove[25] = { BoneName=R_lip_lower_outer }
+            BonesToRemove[26] = { BoneName=teeth_lower }
+            BonesToRemove[27] = { BoneName=tongue }
+            BonesToRemove[28] = { BoneName=dyn_beard_l_master }
+            BonesToRemove[29] = { BoneName=dyn_beard_l_01 }
+            BonesToRemove[30] = { BoneName=dyn_beard_l_02 }
+            BonesToRemove[31] = { BoneName=dyn_beard_r_master }
+            BonesToRemove[32] = { BoneName=dyn_beard_r_01 }
+            BonesToRemove[33] = { BoneName=dyn_beard_r_02 }
+            BonesToRemove[34] = { BoneName=R_eye }
+            BonesToRemove[35] = { BoneName=R_eye_lid_upper_mid }
+            BonesToRemove[36] = { BoneName=R_eye_lid_lower_mid }
+            BonesToRemove[37] = { BoneName=dyn_r_eye_owl }
+            BonesToRemove[38] = { BoneName=L_eye }
+            BonesToRemove[39] = { BoneName=L_eye_lid_upper_mid }
+            BonesToRemove[40] = { BoneName=L_eye_lid_lower_mid }
+            BonesToRemove[41] = { BoneName=dyn_l_eye_owl }
+            BonesToRemove[42] = { BoneName=teeth_upper }
+            BonesToRemove[43] = { BoneName=R_lip_upper_outer }
+            BonesToRemove[44] = { BoneName=dyn_moustache_r_master }
+            BonesToRemove[45] = { BoneName=dyn_moustache_r_01 }
+            BonesToRemove[46] = { BoneName=dyn_moustache_r_02 }
+            BonesToRemove[47] = { BoneName=dyn_ponytail_master }
+            BonesToRemove[48] = { BoneName=dyn_ponytail_01 }
+            BonesToRemove[49] = { BoneName=dyn_ponytail_02 }
+            BonesToRemove[50] = { BoneName=dyn_ponytail_03 }
+            BonesToRemove[51] = { BoneName=dyn_ponytail_04 }
+            BonesToRemove[52] = { BoneName=dyn_mohawk_mid_master }
+            BonesToRemove[53] = { BoneName=dyn_mohawk_mid_01 }
+            BonesToRemove[54] = { BoneName=dyn_mohawk_front_master }
+            BonesToRemove[55] = { BoneName=dyn_mohawk_front_01 }
+            BonesToRemove[56] = { BoneName=dyn_mohawk_front_02 }
+            BonesToRemove[57] = { BoneName=dyn_ear_l_master }
+            BonesToRemove[58] = { BoneName=dyn_ear_l_01 }
+            BonesToRemove[59] = { BoneName=dyn_ear_l_02 }
+            BonesToRemove[60] = { BoneName=dyn_ear_l_03 }
+            BonesToRemove[61] = { BoneName=dyn_ear_l_04 }
+            BonesToRemove[62] = { BoneName=dyn_ear_r_master }
+            BonesToRemove[63] = { BoneName=dyn_ear_r_01 }
+            BonesToRemove[64] = { BoneName=dyn_ear_r_02 }
+            BonesToRemove[65] = { BoneName=dyn_ear_r_03 }
+            BonesToRemove[66] = { BoneName=dyn_ear_r_04 }
+            BonesToRemove[67] = { BoneName=dyn_owl_head }
+            BonesToRemove[68] = { BoneName=dyn_neck_02_owl }
+            BonesToRemove[69] = { BoneName=dyn_neck_01_owl }
+            BonesToRemove[70] = { BoneName=dyn_spine_05_owl }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[71] =
+        {
+            BonesToRemove[0] = { BoneName=faceAttach }
+            BonesToRemove[1] = { BoneName=C_brow_mid }
+            BonesToRemove[2] = { BoneName=L_brow_mid }
+            BonesToRemove[3] = { BoneName=L_brow_outer }
+            BonesToRemove[4] = { BoneName=dyn_brow_l_master }
+            BonesToRemove[5] = { BoneName=dyn_brow_l_01 }
+            BonesToRemove[6] = { BoneName=dyn_brow_l_02 }
+            BonesToRemove[7] = { BoneName=L_cheek_inner }
+            BonesToRemove[8] = { BoneName=C_lip_upper_mid }
+            BonesToRemove[9] = { BoneName=L_lip_upper_outer }
+            BonesToRemove[10] = { BoneName=dyn_moustache_l_master }
+            BonesToRemove[11] = { BoneName=dyn_moustache_l_01 }
+            BonesToRemove[12] = { BoneName=dyn_moustache_l_02 }
+            BonesToRemove[13] = { BoneName=L_lip_corner }
+            BonesToRemove[14] = { BoneName=C_nose_bridge }
+            BonesToRemove[15] = { BoneName=R_brow_mid }
+            BonesToRemove[16] = { BoneName=R_brow_outer }
+            BonesToRemove[17] = { BoneName=dyn_brow_r_master }
+            BonesToRemove[18] = { BoneName=dyn_brow_r_01 }
+            BonesToRemove[19] = { BoneName=dyn_brow_r_02 }
+            BonesToRemove[20] = { BoneName=R_cheek_inner }
+            BonesToRemove[21] = { BoneName=R_lip_corner }
+            BonesToRemove[22] = { BoneName=C_jaw }
+            BonesToRemove[23] = { BoneName=L_lip_lower_outer }
+            BonesToRemove[24] = { BoneName=C_lip_lower_mid }
+            BonesToRemove[25] = { BoneName=R_lip_lower_outer }
+            BonesToRemove[26] = { BoneName=teeth_lower }
+            BonesToRemove[27] = { BoneName=tongue }
+            BonesToRemove[28] = { BoneName=dyn_beard_l_master }
+            BonesToRemove[29] = { BoneName=dyn_beard_l_01 }
+            BonesToRemove[30] = { BoneName=dyn_beard_l_02 }
+            BonesToRemove[31] = { BoneName=dyn_beard_r_master }
+            BonesToRemove[32] = { BoneName=dyn_beard_r_01 }
+            BonesToRemove[33] = { BoneName=dyn_beard_r_02 }
+            BonesToRemove[34] = { BoneName=R_eye }
+            BonesToRemove[35] = { BoneName=R_eye_lid_upper_mid }
+            BonesToRemove[36] = { BoneName=R_eye_lid_lower_mid }
+            BonesToRemove[37] = { BoneName=dyn_r_eye_owl }
+            BonesToRemove[38] = { BoneName=L_eye }
+            BonesToRemove[39] = { BoneName=L_eye_lid_upper_mid }
+            BonesToRemove[40] = { BoneName=L_eye_lid_lower_mid }
+            BonesToRemove[41] = { BoneName=dyn_l_eye_owl }
+            BonesToRemove[42] = { BoneName=teeth_upper }
+            BonesToRemove[43] = { BoneName=R_lip_upper_outer }
+            BonesToRemove[44] = { BoneName=dyn_moustache_r_master }
+            BonesToRemove[45] = { BoneName=dyn_moustache_r_01 }
+            BonesToRemove[46] = { BoneName=dyn_moustache_r_02 }
+            BonesToRemove[47] = { BoneName=dyn_ponytail_master }
+            BonesToRemove[48] = { BoneName=dyn_ponytail_01 }
+            BonesToRemove[49] = { BoneName=dyn_ponytail_02 }
+            BonesToRemove[50] = { BoneName=dyn_ponytail_03 }
+            BonesToRemove[51] = { BoneName=dyn_ponytail_04 }
+            BonesToRemove[52] = { BoneName=dyn_mohawk_mid_master }
+            BonesToRemove[53] = { BoneName=dyn_mohawk_mid_01 }
+            BonesToRemove[54] = { BoneName=dyn_mohawk_front_master }
+            BonesToRemove[55] = { BoneName=dyn_mohawk_front_01 }
+            BonesToRemove[56] = { BoneName=dyn_mohawk_front_02 }
+            BonesToRemove[57] = { BoneName=dyn_ear_l_master }
+            BonesToRemove[58] = { BoneName=dyn_ear_l_01 }
+            BonesToRemove[59] = { BoneName=dyn_ear_l_02 }
+            BonesToRemove[60] = { BoneName=dyn_ear_l_03 }
+            BonesToRemove[61] = { BoneName=dyn_ear_l_04 }
+            BonesToRemove[62] = { BoneName=dyn_ear_r_master }
+            BonesToRemove[63] = { BoneName=dyn_ear_r_01 }
+            BonesToRemove[64] = { BoneName=dyn_ear_r_02 }
+            BonesToRemove[65] = { BoneName=dyn_ear_r_03 }
+            BonesToRemove[66] = { BoneName=dyn_ear_r_04 }
+            BonesToRemove[67] = { BoneName=dyn_owl_head }
+            BonesToRemove[68] = { BoneName=dyn_neck_02_owl }
+            BonesToRemove[69] = { BoneName=dyn_neck_01_owl }
+            BonesToRemove[70] = { BoneName=dyn_spine_05_owl }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

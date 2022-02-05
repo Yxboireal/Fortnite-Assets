@@ -1,0 +1,72 @@
+Skeleton = Skeleton'/FortniteGame/Plugins/GameFeatures/MotherGameplay/Content/Items/AvacadoEaterBird/Meshes/Avocado_Eater_Bird_MED/Avocado_Eater_Bird_Mammal_Skeleton.Avocado_Eater_Bird_Mammal_Skeleton'
+bHasVertexColors = false
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[12] =
+{
+    MorphTargets[0] = MorphTarget'/FortniteGame/Plugins/GameFeatures/MotherGameplay/Content/Items/AvacadoEaterBird/Meshes/Avocado_Eater_Bird_MED/Avocado_Eater_Bird_Mammal.Comet_Shape'
+    MorphTargets[1] = MorphTarget'/FortniteGame/Plugins/GameFeatures/MotherGameplay/Content/Items/AvacadoEaterBird/Meshes/Avocado_Eater_Bird_MED/Avocado_Eater_Bird_Mammal.Chuggus_Shape'
+    MorphTargets[2] = MorphTarget'/FortniteGame/Plugins/GameFeatures/MotherGameplay/Content/Items/AvacadoEaterBird/Meshes/Avocado_Eater_Bird_MED/Avocado_Eater_Bird_Mammal.Meteor_Man_Shape'
+    MorphTargets[3] = MorphTarget'/FortniteGame/Plugins/GameFeatures/MotherGameplay/Content/Items/AvacadoEaterBird/Meshes/Avocado_Eater_Bird_MED/Avocado_Eater_Bird_Mammal.Nana_Split_Shape'
+    MorphTargets[4] = MorphTarget'/FortniteGame/Plugins/GameFeatures/MotherGameplay/Content/Items/AvacadoEaterBird/Meshes/Avocado_Eater_Bird_MED/Avocado_Eater_Bird_Mammal.Banana_Shape'
+    MorphTargets[5] = MorphTarget'/FortniteGame/Plugins/GameFeatures/MotherGameplay/Content/Items/AvacadoEaterBird/Meshes/Avocado_Eater_Bird_MED/Avocado_Eater_Bird_Mammal.Nosh_Shape'
+    MorphTargets[6] = MorphTarget'/FortniteGame/Plugins/GameFeatures/MotherGameplay/Content/Items/AvacadoEaterBird/Meshes/Avocado_Eater_Bird_MED/Avocado_Eater_Bird_Mammal.Henchman_Tough_Shape'
+    MorphTargets[7] = MorphTarget'/FortniteGame/Plugins/GameFeatures/MotherGameplay/Content/Items/AvacadoEaterBird/Meshes/Avocado_Eater_Bird_MED/Avocado_Eater_Bird_Mammal.Corny_Shape'
+    MorphTargets[8] = MorphTarget'/FortniteGame/Plugins/GameFeatures/MotherGameplay/Content/Items/AvacadoEaterBird/Meshes/Avocado_Eater_Bird_MED/Avocado_Eater_Bird_Mammal.Chicken_Warrior_ShapeShape'
+    MorphTargets[9] = MorphTarget'/FortniteGame/Plugins/GameFeatures/MotherGameplay/Content/Items/AvacadoEaterBird/Meshes/Avocado_Eater_Bird_MED/Avocado_Eater_Bird_Mammal.Cattus_Shape'
+    MorphTargets[10] = MorphTarget'/FortniteGame/Plugins/GameFeatures/MotherGameplay/Content/Items/AvacadoEaterBird/Meshes/Avocado_Eater_Bird_MED/Avocado_Eater_Bird_Mammal.Invader_Shape'
+    MorphTargets[11] = MorphTarget'/FortniteGame/Plugins/GameFeatures/MotherGameplay/Content/Items/AvacadoEaterBird/Meshes/Avocado_Eater_Bird_MED/Avocado_Eater_Bird_Mammal.Ruckus_Mini_Shape'
+}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

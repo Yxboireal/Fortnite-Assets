@@ -1,0 +1,26 @@
+Materials[1] =
+{
+    Materials[0] = Material3'/Game/Accessories/FORT_Backpacks/Backpack_M_MED_Firecracker/FX/Materials/M_Backpack_Firecracker_SpriteTrail.M_Backpack_Firecracker_SpriteTrail'
+}
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = Material3'/Game/Accessories/FORT_Backpacks/Backpack_M_MED_Firecracker/FX/Materials/M_Backpack_Firecracker_SpriteTrail.M_Backpack_Firecracker_SpriteTrail'
+        MaterialSlotName = Fbx Default Material
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 100.009, 0, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=0, Y=0, Z=50 }
+    BoxExtent = { X=50, Y=50, Z=50 }
+    SphereRadius = 70.7107
+}

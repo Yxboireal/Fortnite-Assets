@@ -1,0 +1,68 @@
+Skeleton = Skeleton'/FortniteGame/Plugins/GameFeatures/Foray/Content/Mesh/Foray_Veh_Skeleton.Foray_Veh_Skeleton'
+bHasVertexColors = true
+LODInfo[5] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = "D:/Build/FortressArtSource/assets/Vehicle/Foray/Rig/Foray_Veh.fbx"
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[7] = { 15, 17, 18, 19, 20, 21, 22 }
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = "FortressArtSource/assets/Vehicle/Foray/Rig/Foray_Veh_LOD1.fbx"
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[7] = { 15, 17, 18, 19, 20, 21, 22 }
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = "FortressArtSource/assets/Vehicle/Foray/Rig/Foray_Veh_LOD2.fbx"
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[7] = { 15, 17, 18, 19, 20, 21, 22 }
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = "FortressArtSource/assets/Vehicle/Foray/Rig/Foray_Veh_LOD3.fbx"
+    }
+    LODInfo[4] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0
+        LODMaterialMap[6] = { 15, 17, 18, 19, 20, 22 }
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[5] = { , , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

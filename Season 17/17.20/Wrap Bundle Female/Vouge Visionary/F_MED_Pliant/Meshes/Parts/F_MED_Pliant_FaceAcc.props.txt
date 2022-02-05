@@ -1,0 +1,108 @@
+Skeleton = Skeleton'/Game/Characters/Player/Female/Medium/Bodies/F_MED_Pliant/Meshes/Parts/F_MED_Pliant_FaceAcc_Skeleton.F_MED_Pliant_FaceAcc_Skeleton'
+bHasVertexColors = true
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[23] =
+        {
+            BonesToRemove[0] = { BoneName=dyn_head_r_lookat }
+            BonesToRemove[1] = { BoneName=dyn_braid_r_MSTR }
+            BonesToRemove[2] = { BoneName=dyn_braid_r_01 }
+            BonesToRemove[3] = { BoneName=dyn_braid_r_02 }
+            BonesToRemove[4] = { BoneName=dyn_braid_r_03 }
+            BonesToRemove[5] = { BoneName=dyn_braid_r_04 }
+            BonesToRemove[6] = { BoneName=dyn_braid_r_05 }
+            BonesToRemove[7] = { BoneName=dyn_braid_r_constraint }
+            BonesToRemove[8] = { BoneName=dyn_head_l_lookat }
+            BonesToRemove[9] = { BoneName=dyn_braid_l_MSTR }
+            BonesToRemove[10] = { BoneName=dyn_braid_l_01 }
+            BonesToRemove[11] = { BoneName=dyn_braid_l_02 }
+            BonesToRemove[12] = { BoneName=dyn_braid_l_03 }
+            BonesToRemove[13] = { BoneName=dyn_braid_l_04 }
+            BonesToRemove[14] = { BoneName=dyn_braid_l_05 }
+            BonesToRemove[15] = { BoneName=dyn_braid_l_constraint }
+            BonesToRemove[16] = { BoneName=faceAttach }
+            BonesToRemove[17] = { BoneName=C_jaw }
+            BonesToRemove[18] = { BoneName=dyn_collar }
+            BonesToRemove[19] = { BoneName=dyn_clavicle_l }
+            BonesToRemove[20] = { BoneName=dyn_clavicle_r }
+            BonesToRemove[21] = { BoneName=dyn_spine_04_r_lookat }
+            BonesToRemove[22] = { BoneName=dyn_spine_04_l_lookat }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[23] =
+        {
+            BonesToRemove[0] = { BoneName=dyn_head_r_lookat }
+            BonesToRemove[1] = { BoneName=dyn_braid_r_MSTR }
+            BonesToRemove[2] = { BoneName=dyn_braid_r_01 }
+            BonesToRemove[3] = { BoneName=dyn_braid_r_02 }
+            BonesToRemove[4] = { BoneName=dyn_braid_r_03 }
+            BonesToRemove[5] = { BoneName=dyn_braid_r_04 }
+            BonesToRemove[6] = { BoneName=dyn_braid_r_05 }
+            BonesToRemove[7] = { BoneName=dyn_braid_r_constraint }
+            BonesToRemove[8] = { BoneName=dyn_head_l_lookat }
+            BonesToRemove[9] = { BoneName=dyn_braid_l_MSTR }
+            BonesToRemove[10] = { BoneName=dyn_braid_l_01 }
+            BonesToRemove[11] = { BoneName=dyn_braid_l_02 }
+            BonesToRemove[12] = { BoneName=dyn_braid_l_03 }
+            BonesToRemove[13] = { BoneName=dyn_braid_l_04 }
+            BonesToRemove[14] = { BoneName=dyn_braid_l_05 }
+            BonesToRemove[15] = { BoneName=dyn_braid_l_constraint }
+            BonesToRemove[16] = { BoneName=faceAttach }
+            BonesToRemove[17] = { BoneName=C_jaw }
+            BonesToRemove[18] = { BoneName=dyn_collar }
+            BonesToRemove[19] = { BoneName=dyn_clavicle_l }
+            BonesToRemove[20] = { BoneName=dyn_clavicle_r }
+            BonesToRemove[21] = { BoneName=dyn_spine_04_r_lookat }
+            BonesToRemove[22] = { BoneName=dyn_spine_04_l_lookat }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

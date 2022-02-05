@@ -1,0 +1,140 @@
+Parent = Material3'/Game/Packages/Fortress_SharedMaterials/Base_Material/M_FN_Weapon_MASTER.M_FN_Weapon_MASTER'
+ScalarParameterValues[3] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=SpecRoughnessMax }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=SpecRoughnessMin }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[5] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=CustomizationMask (_CM) }
+        ParameterValue = Texture2D'/Game/Weapons/FORT_Melee/Pickaxe_Pliant_Female/Textures/Pliant_FeMale_Axe_CM_3.Pliant_FeMale_Axe_CM_3'
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=EmissiveTexture }
+        ParameterValue = Texture2D'/Game/Weapons/FORT_Melee/Pickaxe_Pliant_Female/Textures/T_Pickaxe_Pliant_Female_E.T_Pickaxe_Pliant_Female_E'
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=SpecularMasks }
+        ParameterValue = Texture2D'/Game/Weapons/FORT_Melee/Pickaxe_Pliant_Female/Textures/T_Pickaxe_Pliant_Female_S.T_Pickaxe_Pliant_Female_S'
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=Normals }
+        ParameterValue = Texture2D'/Game/Weapons/FORT_Melee/Pickaxe_Pliant_Female/Textures/T_Pickaxe_Pliant_Female_N.T_Pickaxe_Pliant_Female_N'
+        ParameterName = None
+    }
+    TextureParameterValues[4] =
+    {
+        ParameterInfo = { Name=Diffuse }
+        ParameterValue = Texture2D'/Game/Weapons/FORT_Melee/Pickaxe_Pliant_Female/Textures/T_Pickaxe_Pliant_Female_D.T_Pickaxe_Pliant_Female_D'
+        ParameterName = None
+    }
+}
+VectorParameterValues[7] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=EmissiveMultiplier }
+        ParameterValue = { R=0.927083, G=0.092203, B=0.507237, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=DO NOT OVERRIDE-OBCENTER }
+        ParameterValue = { R=0.4, G=-0.142857, B=-0.574932, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=DO NOT OVERRIDE-OBMAX }
+        ParameterValue = { R=0, G=0, B=-34.9488, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[3] =
+    {
+        ParameterInfo = { Name=DO NOT OVERRIDE-OBMIN }
+        ParameterValue = { R=0, G=0, B=62.7765, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[4] =
+    {
+        ParameterInfo = { Name=DO NOT OVERRIDE-SZ-Back }
+        ParameterValue = { R=0.364952, G=0.13619, B=0, A=0.1 }
+        ParameterName = None
+    }
+    VectorParameterValues[5] =
+    {
+        ParameterInfo = { Name=DO NOT OVERRIDE-SZ-Middle }
+        ParameterValue = { R=0.123809, G=0.082714, B=0, A=0.11 }
+        ParameterName = None
+    }
+    VectorParameterValues[6] =
+    {
+        ParameterInfo = { Name=DO NOT OVERRIDE-SZ-Front }
+        ParameterValue = { R=-0.12381, G=0.082714, B=0, A=0.11 }
+        ParameterName = None
+    }
+}
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0.3333
+}
+StaticParameters =
+{
+    StaticSwitchParameters[1] =
+    {
+        StaticSwitchParameters[0] =
+        {
+            Value = false
+            ParameterInfo = { Name=Allow Customization Effects }
+            bOverride = true
+        }
+    }
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[1] =
+{
+    TextureStreamingData[0] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_Pickaxe_Pliant_Female_N
+    }
+}

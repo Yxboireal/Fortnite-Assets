@@ -1,0 +1,320 @@
+Parent = None
+ScalarParameterValues[21] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=CarbonFiber_Roughness0 }
+        ParameterValue = 0.2
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=CarbonFiber_Roughness1 }
+        ParameterValue = 6
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=CarbonFiber_Tiling_X }
+        ParameterValue = 400
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=CC_defaultlayer }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = { Name=CCR_defaultlayer }
+        ParameterValue = 0.4
+        ParameterName = None
+    }
+    ScalarParameterValues[5] =
+    {
+        ParameterInfo = { Name=Opacity_Hexgrid }
+        ParameterValue = 0.914465
+        ParameterName = None
+    }
+    ScalarParameterValues[6] =
+    {
+        ParameterInfo = { Name=Roughness_Hexgrid }
+        ParameterValue = 0.21
+        ParameterName = None
+    }
+    ScalarParameterValues[7] =
+    {
+        ParameterInfo = { Name=Scale }
+        ParameterValue = 170
+        ParameterName = None
+    }
+    ScalarParameterValues[8] =
+    {
+        ParameterInfo = { Name=AO_intensity }
+        ParameterValue = 0.08
+        ParameterName = None
+    }
+    ScalarParameterValues[9] =
+    {
+        ParameterInfo = { Name=EnergyConservation_High }
+        ParameterValue = 0.85
+        ParameterName = None
+    }
+    ScalarParameterValues[10] =
+    {
+        ParameterInfo = { Name=EnergyConservation_low }
+        ParameterValue = 0.454
+        ParameterName = None
+    }
+    ScalarParameterValues[11] =
+    {
+        ParameterInfo = { Name=ExpPaintFresnel }
+        ParameterValue = 0.6
+        ParameterName = None
+    }
+    ScalarParameterValues[12] =
+    {
+        ParameterInfo = { Name=Metallic_high }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[13] =
+    {
+        ParameterInfo = { Name=Metallic_low }
+        ParameterValue = 0.7
+        ParameterName = None
+    }
+    ScalarParameterValues[14] =
+    {
+        ParameterInfo = { Name=OrangePeelNormal }
+        ParameterValue = 0.85
+        ParameterName = None
+    }
+    ScalarParameterValues[15] =
+    {
+        ParameterInfo = { Name=OrangePeelSize }
+        ParameterValue = 16
+        ParameterName = None
+    }
+    ScalarParameterValues[16] =
+    {
+        ParameterInfo = { Name=Roughness }
+        ParameterValue = 0.689529
+        ParameterName = None
+    }
+    ScalarParameterValues[17] =
+    {
+        ParameterInfo = { Name=Roughness2 }
+        ParameterValue = 0.64
+        ParameterName = None
+    }
+    ScalarParameterValues[18] =
+    {
+        ParameterInfo = { Name=EnergyConservation2_low }
+        ParameterValue = 0.85
+        ParameterName = None
+    }
+    ScalarParameterValues[19] =
+    {
+        ParameterInfo = { Name=Metallic2_low }
+        ParameterValue = 0.5
+        ParameterName = None
+    }
+    ScalarParameterValues[20] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[8] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=HexGridMask }
+        ParameterValue = Texture2D'/FortniteGame/Plugins/GameFeatures/Foray/Content/Textures/T_HexMesh_M.T_HexMesh_M'
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=HexGridNormal }
+        ParameterValue = Texture2D'/FortniteGame/Plugins/GameFeatures/Foray/Content/Textures/T_HexMesh_N.T_HexMesh_N'
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=AO }
+        ParameterValue = Texture2D'/FortniteGame/Plugins/GameFeatures/Foray/Content/Textures/T_Vehicle_Foray_LOD1_Exterior_AO.T_Vehicle_Foray_LOD1_Exterior_AO'
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=Diffuse }
+        ParameterValue = Texture2D'/FortniteGame/Plugins/GameFeatures/Foray/Content/Textures/T_Vehicle_Foray_LOD1_Exterior_D.T_Vehicle_Foray_LOD1_Exterior_D'
+        ParameterName = None
+    }
+    TextureParameterValues[4] =
+    {
+        ParameterInfo = { Name=MaskRealisticPaint }
+        ParameterValue = Texture2D'/FortniteGame/Plugins/GameFeatures/Foray/Content/Textures/T_Vehicle_Foray_LOD1_Exterior_PMask.T_Vehicle_Foray_LOD1_Exterior_PMask'
+        ParameterName = None
+    }
+    TextureParameterValues[5] =
+    {
+        ParameterInfo = { Name=MaterialLayerMask }
+        ParameterValue = Texture2D'/FortniteGame/Plugins/GameFeatures/Foray/Content/Textures/T_Vehicle_Foray_LOD1_Exterior_M.T_Vehicle_Foray_LOD1_Exterior_M'
+        ParameterName = None
+    }
+    TextureParameterValues[6] =
+    {
+        ParameterInfo = { Name=Normal }
+        ParameterValue = Texture2D'/FortniteGame/Plugins/GameFeatures/Foray/Content/Textures/T_Vehicle_Foray_LOD1_Exterior_N.T_Vehicle_Foray_LOD1_Exterior_N'
+        ParameterName = None
+    }
+    TextureParameterValues[7] =
+    {
+        ParameterInfo = { Name=Specular Mask }
+        ParameterValue = Texture2D'/FortniteGame/Plugins/GameFeatures/Foray/Content/Textures/T_Vehicle_Foray_LOD1_Exterior_S.T_Vehicle_Foray_LOD1_Exterior_S'
+        ParameterName = None
+    }
+}
+VectorParameterValues[5] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=CarbonFiber1 }
+        ParameterValue = { R=0, G=0, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=HexGridColor }
+        ParameterValue = { R=0.02, G=0.02, B=0.02, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=TintPaint_a }
+        ParameterValue = { R=0.701102, G=0.000607, B=0.035601, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[3] =
+    {
+        ParameterInfo = { Name=TintPaint_b }
+        ParameterValue = { R=0.806952, G=0.015996, B=0.028426, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[4] =
+    {
+        ParameterInfo = { Name=TintPaint2_a }
+        ParameterValue = { R=0.46875, G=0.46875, B=0.46875, A=1 }
+        ParameterName = None
+    }
+}
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0.5
+}
+StaticParameters =
+{
+    StaticSwitchParameters[6] =
+    {
+        StaticSwitchParameters[0] =
+        {
+            Value = true
+            ParameterInfo = { Name=IsRealisticCarPaint }
+            bOverride = true
+        }
+        StaticSwitchParameters[1] =
+        {
+            Value = true
+            ParameterInfo = { Name=UseNormalBlur }
+            bOverride = true
+        }
+        StaticSwitchParameters[2] =
+        {
+            Value = true
+            ParameterInfo = { Name=UseAmbienOcclusionBake }
+            bOverride = true
+        }
+        StaticSwitchParameters[3] =
+        {
+            Value = true
+            ParameterInfo = { Name=UseCarbonFiber }
+            bOverride = true
+        }
+        StaticSwitchParameters[4] =
+        {
+            Value = true
+            ParameterInfo = { Name=UseDetailOverlay }
+            bOverride = true
+        }
+        StaticSwitchParameters[5] =
+        {
+            Value = true
+            ParameterInfo = { Name=UseRealisticPaintMask }
+            bOverride = true
+        }
+    }
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[7] =
+{
+    TextureStreamingData[0] =
+    {
+        SamplingScale = 140
+        UVChannelIndex = 0
+        TextureName = T_CarbonFiberWeave_01_M
+    }
+    TextureStreamingData[1] =
+    {
+        SamplingScale = 140
+        UVChannelIndex = 0
+        TextureName = T_CarbonFiberWeave_03_N
+    }
+    TextureStreamingData[2] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_HexMesh_N
+    }
+    TextureStreamingData[3] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_Vehicle_Foray_LOD1_Exterior_AO
+    }
+    TextureStreamingData[4] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_Vehicle_Foray_LOD1_Exterior_S
+    }
+    TextureStreamingData[5] =
+    {
+        SamplingScale = 1.59375
+        UVChannelIndex = 0
+        TextureName = ValetDamage_AO
+    }
+    TextureStreamingData[6] =
+    {
+        SamplingScale = 1.59375
+        UVChannelIndex = 0
+        TextureName = ValetDamage_N
+    }
+}

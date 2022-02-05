@@ -1,0 +1,7 @@
+Diffuse=T_F_MED_Musician_Face_Acc_D
+Normal=T_F_MED_Musician_Face_Acc_N
+Other[0]=FlatNormal
+Other[1]=AllBlack
+Other[2]=T_Noise_Normal_01
+Other[3]=SolidBlack
+Other[4]=T_AthenaSkylight

@@ -1,0 +1,13 @@
+Diffuse=T_LaserTrail_Dots
+Normal=2ndInfectedMapNormal
+SpecPower=T_Ravens_SpecularReflection
+Opacity=gradient_stasis
+Other[0]=HeatmapGradient
+Other[1]=T_ElectricNoise
+Other[2]=T_Sphere_N
+Other[3]=T_Soft_Ramp_Vert_03
+Other[4]=T_Smoke_Trail_Soft_Chromatic
+Other[5]=LowResBlurredNoise
+Other[6]=T_Fractal_01
+Other[7]=T_Plasma_BallCore
+Other[8]=T_Plasma_BallEdge

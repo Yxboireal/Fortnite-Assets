@@ -1,0 +1,149 @@
+Skeleton = Skeleton'/Game/Characters/Player/Male/Medium/Heads/M_MED_AlienTrooper_Head/Meshes/Human/Male_Medium_Alien_Trooper_Head_Skeleton.Male_Medium_Alien_Trooper_Head_Skeleton'
+bHasVertexColors = true
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[4] =
+        {
+            BonesToRemove[0] = { BoneName=C_nose_bridge }
+            BonesToRemove[1] = { BoneName=teeth_lower }
+            BonesToRemove[2] = { BoneName=tongue }
+            BonesToRemove[3] = { BoneName=teeth_upper }
+        }
+        BonesToPrioritize[5] =
+        {
+            BonesToPrioritize[0] = { BoneName=R_eye_lid_lower_mid }
+            BonesToPrioritize[1] = { BoneName=L_eye_lid_lower_mid }
+            BonesToPrioritize[2] = { BoneName=R_eye_lid_upper_mid }
+            BonesToPrioritize[3] = { BoneName=L_eye_lid_upper_mid }
+            BonesToPrioritize[4] = { BoneName=C_lip_lower_mid }
+        }
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[37] =
+        {
+            BonesToRemove[0] = { BoneName=faceAttach }
+            BonesToRemove[1] = { BoneName=C_brow_mid }
+            BonesToRemove[2] = { BoneName=L_brow_mid }
+            BonesToRemove[3] = { BoneName=L_brow_outer }
+            BonesToRemove[4] = { BoneName=L_cheek_inner }
+            BonesToRemove[5] = { BoneName=C_lip_upper_mid }
+            BonesToRemove[6] = { BoneName=L_lip_upper_outer }
+            BonesToRemove[7] = { BoneName=dyn_L_whiskers_MSTR }
+            BonesToRemove[8] = { BoneName=dyn_whiskers_L_01 }
+            BonesToRemove[9] = { BoneName=dyn_whiskers_L_02 }
+            BonesToRemove[10] = { BoneName=dyn_whiskers_L_03 }
+            BonesToRemove[11] = { BoneName=L_lip_corner }
+            BonesToRemove[12] = { BoneName=C_nose_bridge }
+            BonesToRemove[13] = { BoneName=R_brow_mid }
+            BonesToRemove[14] = { BoneName=R_brow_outer }
+            BonesToRemove[15] = { BoneName=R_cheek_inner }
+            BonesToRemove[16] = { BoneName=R_lip_corner }
+            BonesToRemove[17] = { BoneName=C_jaw }
+            BonesToRemove[18] = { BoneName=L_lip_lower_outer }
+            BonesToRemove[19] = { BoneName=C_lip_lower_mid }
+            BonesToRemove[20] = { BoneName=R_lip_lower_outer }
+            BonesToRemove[21] = { BoneName=teeth_lower }
+            BonesToRemove[22] = { BoneName=tongue }
+            BonesToRemove[23] = { BoneName=R_eye }
+            BonesToRemove[24] = { BoneName=R_eye_lid_upper_mid }
+            BonesToRemove[25] = { BoneName=R_eye_lid_lower_mid }
+            BonesToRemove[26] = { BoneName=L_eye }
+            BonesToRemove[27] = { BoneName=L_eye_lid_upper_mid }
+            BonesToRemove[28] = { BoneName=L_eye_lid_lower_mid }
+            BonesToRemove[29] = { BoneName=teeth_upper }
+            BonesToRemove[30] = { BoneName=R_lip_upper_outer }
+            BonesToRemove[31] = { BoneName=dyn_R_whiskers_MSTR }
+            BonesToRemove[32] = { BoneName=dyn_whiskers_R_01 }
+            BonesToRemove[33] = { BoneName=dyn_whiskers_R_02 }
+            BonesToRemove[34] = { BoneName=dyn_whiskers_R_03 }
+            BonesToRemove[35] = { BoneName=dyn_brains_MSTR }
+            BonesToRemove[36] = { BoneName=dyn_brains }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[37] =
+        {
+            BonesToRemove[0] = { BoneName=faceAttach }
+            BonesToRemove[1] = { BoneName=C_brow_mid }
+            BonesToRemove[2] = { BoneName=L_brow_mid }
+            BonesToRemove[3] = { BoneName=L_brow_outer }
+            BonesToRemove[4] = { BoneName=L_cheek_inner }
+            BonesToRemove[5] = { BoneName=C_lip_upper_mid }
+            BonesToRemove[6] = { BoneName=L_lip_upper_outer }
+            BonesToRemove[7] = { BoneName=dyn_L_whiskers_MSTR }
+            BonesToRemove[8] = { BoneName=dyn_whiskers_L_01 }
+            BonesToRemove[9] = { BoneName=dyn_whiskers_L_02 }
+            BonesToRemove[10] = { BoneName=dyn_whiskers_L_03 }
+            BonesToRemove[11] = { BoneName=L_lip_corner }
+            BonesToRemove[12] = { BoneName=C_nose_bridge }
+            BonesToRemove[13] = { BoneName=R_brow_mid }
+            BonesToRemove[14] = { BoneName=R_brow_outer }
+            BonesToRemove[15] = { BoneName=R_cheek_inner }
+            BonesToRemove[16] = { BoneName=R_lip_corner }
+            BonesToRemove[17] = { BoneName=C_jaw }
+            BonesToRemove[18] = { BoneName=L_lip_lower_outer }
+            BonesToRemove[19] = { BoneName=C_lip_lower_mid }
+            BonesToRemove[20] = { BoneName=R_lip_lower_outer }
+            BonesToRemove[21] = { BoneName=teeth_lower }
+            BonesToRemove[22] = { BoneName=tongue }
+            BonesToRemove[23] = { BoneName=R_eye }
+            BonesToRemove[24] = { BoneName=R_eye_lid_upper_mid }
+            BonesToRemove[25] = { BoneName=R_eye_lid_lower_mid }
+            BonesToRemove[26] = { BoneName=L_eye }
+            BonesToRemove[27] = { BoneName=L_eye_lid_upper_mid }
+            BonesToRemove[28] = { BoneName=L_eye_lid_lower_mid }
+            BonesToRemove[29] = { BoneName=teeth_upper }
+            BonesToRemove[30] = { BoneName=R_lip_upper_outer }
+            BonesToRemove[31] = { BoneName=dyn_R_whiskers_MSTR }
+            BonesToRemove[32] = { BoneName=dyn_whiskers_R_01 }
+            BonesToRemove[33] = { BoneName=dyn_whiskers_R_02 }
+            BonesToRemove[34] = { BoneName=dyn_whiskers_R_03 }
+            BonesToRemove[35] = { BoneName=dyn_brains_MSTR }
+            BonesToRemove[36] = { BoneName=dyn_brains }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

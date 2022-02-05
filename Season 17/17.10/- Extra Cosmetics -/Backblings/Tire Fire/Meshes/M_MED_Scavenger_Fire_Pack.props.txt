@@ -1,0 +1,112 @@
+Skeleton = Skeleton'/Game/Accessories/FORT_Backpacks/M_MED_Scavenger_Fire/Meshes/M_MED_Scavenger_Fire_Pack_Skeleton.M_MED_Scavenger_Fire_Pack_Skeleton'
+bHasVertexColors = true
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[4] =
+{
+    Sockets[0] =
+    {
+        SocketName = FirePointL2
+        BoneName = root
+        RelativeLocation = { X=-7.43748, Y=-17.9435, Z=11.05 }
+        RelativeRotation =
+        {
+            Yaw = -1029051501
+            Pitch = -1056283889
+            Roll = -1041036051
+        }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[1] =
+    {
+        SocketName = FirePointR2
+        BoneName = root
+        RelativeLocation = { X=-8.0975, Y=-17.9587, Z=6.31661 }
+        RelativeRotation =
+        {
+            Yaw = -1030176191
+            Pitch = -1066528305
+            Roll = -1041462731
+        }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[2] =
+    {
+        SocketName = FirePointL1
+        BoneName = root
+        RelativeLocation = { X=9.3298, Y=-14.742, Z=1.17144 }
+        RelativeRotation =
+        {
+            Yaw = -1028390972
+            Pitch = -1190183604
+            Roll = -1179699868
+        }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[3] =
+    {
+        SocketName = FirePointR1
+        BoneName = root
+        RelativeLocation = { X=-9.64457, Y=-14.3998, Z=-7.16068 }
+        RelativeRotation =
+        {
+            Yaw = -1028390612
+            Pitch = 940522828
+            Roll = -1167243518
+        }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

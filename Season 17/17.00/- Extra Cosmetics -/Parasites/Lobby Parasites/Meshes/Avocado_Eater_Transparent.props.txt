@@ -1,0 +1,38 @@
+Materials[2] =
+{
+    Materials[0] = Material3'/Game/Environments/FrontEnd/BP17/Materials/M_Avocado_Eater.M_Avocado_Eater'
+    Materials[1] = Material3'/Game/Environments/FrontEnd/BP17/Materials/M_Avocado_Eater_Transparent.M_Avocado_Eater_Transparent'
+}
+SourceModels[0] = {}
+StaticMaterials[2] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = Material3'/Game/Environments/FrontEnd/BP17/Materials/M_Avocado_Eater.M_Avocado_Eater'
+        MaterialSlotName = M_Avocado_Eater
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 148.86, 0, 0, 0 }
+        }
+    }
+    StaticMaterials[1] =
+    {
+        MaterialInterface = Material3'/Game/Environments/FrontEnd/BP17/Materials/M_Avocado_Eater_Transparent.M_Avocado_Eater_Transparent'
+        MaterialSlotName = M_Avocado_Eater_Shell
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 146.684, 0, 0, 0 }
+        }
+    }
+}
+Sockets[5] = {  }
+ExtendedBounds =
+{
+    Origin = { X=-4.47996, Y=-3.5688, Z=31.9859 }
+    BoxExtent = { X=36.4685, Y=48.9534, Z=32.1411 }
+    SphereRadius = 60.148
+}

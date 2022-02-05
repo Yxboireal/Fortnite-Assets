@@ -1,0 +1,12 @@
+Diffuse=T_M_MED_Majesty_Body_D
+Normal=T_M_MED_Majesty_Body_N
+SpecPower=T_M_MED_Majesty_Body_S
+Emissive=T_M_MED_Majesty_Body_E
+Other[0]=T_M_MED_Majesty_Gold_Body_D
+Other[1]=T_Majesty_TattooMAsk
+Other[2]=T_M_MED_Majesty_Body_M
+Other[3]=T_M_MED_Majesty_Gold_Body_M
+Other[4]=T_M_MED_Majesty_Gold_Body_N
+Other[5]=T_M_MED_Majesty_Body_FX
+Other[6]=T_M_MED_Majesty_Gold_Body_S
+Other[7]=T_Tile_Dots

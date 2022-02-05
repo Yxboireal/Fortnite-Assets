@@ -1,0 +1,118 @@
+Skeleton = Skeleton'/Game/Weapons/FORT_Melee/Pickaxe_Linguini_Male/Meshes/Linguini_Male_Axe_Skeleton.Linguini_Male_Axe_Skeleton'
+bHasVertexColors = false
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = "D:/Build/FortressArtSource/assets/Pickaxe/Linguini_Male/Rig/Linguini_Male_Axe.fbx"
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[6] =
+{
+    Sockets[0] =
+    {
+        SocketName = FX_Point_01
+        BoneName = b_AR_Root
+        RelativeLocation = { X=27.2921, Y=-1.19971, Z=56.7775 }
+        RelativeRotation = { Yaw=0, Pitch=-1033633792, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[1] =
+    {
+        SocketName = Swing_FX
+        BoneName = b_AR_Root
+        RelativeLocation = { X=14.4611, Y=-1.19997, Z=55.216 }
+        RelativeRotation = { Yaw=0, Pitch=-1039400960, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[2] =
+    {
+        SocketName = Hit
+        BoneName = b_AR_Root
+        RelativeLocation = { X=17.502, Y=-1.19965, Z=62.5968 }
+        RelativeRotation = { Yaw=0, Pitch=-1046478848, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[3] =
+    {
+        SocketName = Muzzle
+        BoneName = b_AR_Root
+        RelativeLocation = { X=27.3227, Y=-1.19971, Z=56.8396 }
+        RelativeRotation = { Yaw=0, Pitch=-1033633792, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[4] =
+    {
+        SocketName = Trail_FX_02
+        BoneName = b_AR_Root
+        RelativeLocation = { X=23.2374, Y=-1.19997, Z=65.8985 }
+        RelativeRotation =
+        {
+            Yaw = 903411166
+            Pitch = -1036779531
+            Roll = -1238479905
+        }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[5] =
+    {
+        SocketName = Trail_FX_01
+        BoneName = b_AR_Root
+        RelativeLocation = { X=6.6935, Y=-1.20021, Z=21.5884 }
+        RelativeRotation =
+        {
+            Yaw = -1256069064
+            Pitch = -1049624702
+            Roll = 899675666
+        }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

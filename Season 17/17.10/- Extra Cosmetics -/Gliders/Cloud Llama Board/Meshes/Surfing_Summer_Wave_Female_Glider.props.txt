@@ -1,0 +1,84 @@
+Skeleton = Skeleton'/Game/Gadgets/Assets/VinderTech_GliderChute/Glider_Surfing_Summer_Wave_Female/Meshes/Surfing_Summer_Wave_Female_Glider_Skeleton.Surfing_Summer_Wave_Female_Glider_Skeleton'
+bHasVertexColors = false
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[1] = { 0 }
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[1] = { 0 }
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[1] = { 0 }
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[1] = { 0 }
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[3] =
+{
+    Sockets[0] =
+    {
+        SocketName = FX_Frame_L
+        BoneName = Body_Offset
+        RelativeLocation = { X=-38, Y=25, Z=-9.75 }
+        RelativeRotation = { Yaw=-1028390912, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[1] =
+    {
+        SocketName = FX_Frame_R
+        BoneName = Body_Offset
+        RelativeLocation = { X=38, Y=25, Z=-9.75 }
+        RelativeRotation = { Yaw=-1028390912, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[2] =
+    {
+        SocketName = FX_Frame
+        BoneName = Body_Offset
+        RelativeLocation = { X=0, Y=0, Z=-9.75 }
+        RelativeRotation = { Yaw=-1028390912, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

@@ -1,0 +1,12 @@
+Diffuse=T_Reactor_Grade_D
+Normal=T_Reactor_Grade_N
+SpecPower=T_Reactor_Grade_S
+Emissive=T_Reactor_Grade_E
+Other[0]=DefaultDiffuse
+Other[1]=FlatNormal
+Other[2]=AllBlack
+Other[3]=T_ElectricNoise
+Other[4]=T_Fortnite_Default_S
+Other[5]=WhiteTexture
+Other[6]=Cracks_02
+Other[7]=CarColors_Interiors

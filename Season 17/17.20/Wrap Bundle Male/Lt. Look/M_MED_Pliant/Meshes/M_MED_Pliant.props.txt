@@ -1,0 +1,340 @@
+Skeleton = Skeleton'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pliant/Meshes/M_MED_Pliant_Skeleton.M_MED_Pliant_Skeleton'
+bHasVertexColors = false
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = "D:/Build/FortressArtSource/assets/Hero Skin/Male/Medium/Pliant/Rig/M_MED_Pliant.fbx"
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[139] =
+        {
+            BonesToRemove[0] = { BoneName=index_metacarpal_l }
+            BonesToRemove[1] = { BoneName=index_01_l }
+            BonesToRemove[2] = { BoneName=index_02_l }
+            BonesToRemove[3] = { BoneName=index_03_l }
+            BonesToRemove[4] = { BoneName=middle_metacarpal_l }
+            BonesToRemove[5] = { BoneName=middle_01_l }
+            BonesToRemove[6] = { BoneName=middle_02_l }
+            BonesToRemove[7] = { BoneName=middle_03_l }
+            BonesToRemove[8] = { BoneName=pinky_metacarpal_l }
+            BonesToRemove[9] = { BoneName=pinky_01_l }
+            BonesToRemove[10] = { BoneName=pinky_02_l }
+            BonesToRemove[11] = { BoneName=pinky_03_l }
+            BonesToRemove[12] = { BoneName=ring_metacarpal_l }
+            BonesToRemove[13] = { BoneName=ring_01_l }
+            BonesToRemove[14] = { BoneName=ring_02_l }
+            BonesToRemove[15] = { BoneName=ring_03_l }
+            BonesToRemove[16] = { BoneName=thumb_01_l }
+            BonesToRemove[17] = { BoneName=thumb_02_l }
+            BonesToRemove[18] = { BoneName=thumb_03_l }
+            BonesToRemove[19] = { BoneName=lowerarm_twist_01_l }
+            BonesToRemove[20] = { BoneName=lowerarm_twist_02_l }
+            BonesToRemove[21] = { BoneName=deform_elbow_bk_l }
+            BonesToRemove[22] = { BoneName=upperarm_twist_01_l }
+            BonesToRemove[23] = { BoneName=deform_deltoid_fr_l }
+            BonesToRemove[24] = { BoneName=dyn_l_unwantedInnerGeo }
+            BonesToRemove[25] = { BoneName=upperarm_twist_02_l }
+            BonesToRemove[26] = { BoneName=deform_elbow_fr_l }
+            BonesToRemove[27] = { BoneName=deform_pectoral_fr_l }
+            BonesToRemove[28] = { BoneName=index_metacarpal_r }
+            BonesToRemove[29] = { BoneName=index_01_r }
+            BonesToRemove[30] = { BoneName=index_02_r }
+            BonesToRemove[31] = { BoneName=index_03_r }
+            BonesToRemove[32] = { BoneName=middle_metacarpal_r }
+            BonesToRemove[33] = { BoneName=middle_01_r }
+            BonesToRemove[34] = { BoneName=middle_02_r }
+            BonesToRemove[35] = { BoneName=middle_03_r }
+            BonesToRemove[36] = { BoneName=pinky_metacarpal_r }
+            BonesToRemove[37] = { BoneName=pinky_01_r }
+            BonesToRemove[38] = { BoneName=pinky_02_r }
+            BonesToRemove[39] = { BoneName=pinky_03_r }
+            BonesToRemove[40] = { BoneName=ring_metacarpal_r }
+            BonesToRemove[41] = { BoneName=ring_01_r }
+            BonesToRemove[42] = { BoneName=ring_02_r }
+            BonesToRemove[43] = { BoneName=ring_03_r }
+            BonesToRemove[44] = { BoneName=thumb_01_r }
+            BonesToRemove[45] = { BoneName=thumb_02_r }
+            BonesToRemove[46] = { BoneName=thumb_03_r }
+            BonesToRemove[47] = { BoneName=lowerarm_twist_01_r }
+            BonesToRemove[48] = { BoneName=lowerarm_twist_02_r }
+            BonesToRemove[49] = { BoneName=deform_elbow_bk_r }
+            BonesToRemove[50] = { BoneName=upperarm_twist_01_r }
+            BonesToRemove[51] = { BoneName=deform_deltoid_fr_r }
+            BonesToRemove[52] = { BoneName=dyn_r_unwantedInnerGeo }
+            BonesToRemove[53] = { BoneName=upperarm_twist_02_r }
+            BonesToRemove[54] = { BoneName=deform_elbow_fr_r }
+            BonesToRemove[55] = { BoneName=deform_pectoral_fr_r }
+            BonesToRemove[56] = { BoneName=dyn_neckFix }
+            BonesToRemove[57] = { BoneName=dyn_jacket_c_MSTR }
+            BonesToRemove[58] = { BoneName=dyn_jacket_c_01 }
+            BonesToRemove[59] = { BoneName=dyn_jacket_c_02 }
+            BonesToRemove[60] = { BoneName=dyn_jacket_d_MSTR }
+            BonesToRemove[61] = { BoneName=dyn_jacket_d_01 }
+            BonesToRemove[62] = { BoneName=dyn_jacket_d_02 }
+            BonesToRemove[63] = { BoneName=dyn_jacket_b_MSTR }
+            BonesToRemove[64] = { BoneName=dyn_jacket_b_01 }
+            BonesToRemove[65] = { BoneName=dyn_jacket_b_02 }
+            BonesToRemove[66] = { BoneName=dyn_jacket_a_MSTR }
+            BonesToRemove[67] = { BoneName=dyn_jacket_a_01 }
+            BonesToRemove[68] = { BoneName=dyn_jacket_a_02 }
+            BonesToRemove[69] = { BoneName=dyn_jacket_a_03 }
+            BonesToRemove[70] = { BoneName=dyn_jacket_e_MSTR }
+            BonesToRemove[71] = { BoneName=dyn_jacket_e_01 }
+            BonesToRemove[72] = { BoneName=dyn_jacket_e_02 }
+            BonesToRemove[73] = { BoneName=dyn_jacket_f_MSTR }
+            BonesToRemove[74] = { BoneName=dyn_jacket_f_01 }
+            BonesToRemove[75] = { BoneName=dyn_jacket_f_02 }
+            BonesToRemove[76] = { BoneName=dyn_jacket_g_MSTR }
+            BonesToRemove[77] = { BoneName=dyn_jacket_g_01 }
+            BonesToRemove[78] = { BoneName=dyn_jacket_g_02 }
+            BonesToRemove[79] = { BoneName=dyn_jacket_g_03 }
+            BonesToRemove[80] = { BoneName=dyn_l_collar_MSTR }
+            BonesToRemove[81] = { BoneName=dyn_l_collar }
+            BonesToRemove[82] = { BoneName=dyn_r_collar_MSTR }
+            BonesToRemove[83] = { BoneName=dyn_r_collar }
+            BonesToRemove[84] = { BoneName=dyn_r_01_collar_MSTR }
+            BonesToRemove[85] = { BoneName=dyn_r_01_collar }
+            BonesToRemove[86] = { BoneName=dyn_r_02_collar_MSTR }
+            BonesToRemove[87] = { BoneName=dyn_r_02_collar }
+            BonesToRemove[88] = { BoneName=dyn_back_collar_MSTR }
+            BonesToRemove[89] = { BoneName=dyn_back_collar }
+            BonesToRemove[90] = { BoneName=dyn_l_02_collar_MSTR }
+            BonesToRemove[91] = { BoneName=dyn_l_02_collar }
+            BonesToRemove[92] = { BoneName=dyn_l_01_collar_MSTR }
+            BonesToRemove[93] = { BoneName=dyn_l_01_collar }
+            BonesToRemove[94] = { BoneName=dyn_neckFix_01 }
+            BonesToRemove[95] = { BoneName=dyn_shrinkBack }
+            BonesToRemove[96] = { BoneName=calf_twist_01_l }
+            BonesToRemove[97] = { BoneName=calf_twist_02_l }
+            BonesToRemove[98] = { BoneName=deform_knee_fr_01_l }
+            BonesToRemove[99] = { BoneName=deform_knee_bk_01_l }
+            BonesToRemove[100] = { BoneName=thigh_twist_01_l }
+            BonesToRemove[101] = { BoneName=deform_thigh_fr_l }
+            BonesToRemove[102] = { BoneName=deform_thigh_bk_l }
+            BonesToRemove[103] = { BoneName=dyn_l_strapHelper }
+            BonesToRemove[104] = { BoneName=dyn_l_legStrap_MSTR }
+            BonesToRemove[105] = { BoneName=dyn_l_legStrap_01 }
+            BonesToRemove[106] = { BoneName=dyn_l_legStrap_02 }
+            BonesToRemove[107] = { BoneName=dyn_l_legStrap_03 }
+            BonesToRemove[108] = { BoneName=dyn_l_legStrap_04 }
+            BonesToRemove[109] = { BoneName=dyn_shirt_a_MSTR }
+            BonesToRemove[110] = { BoneName=dyn_shirt_a_01 }
+            BonesToRemove[111] = { BoneName=dyn_shirt_a_02 }
+            BonesToRemove[112] = { BoneName=calf_twist_01_r }
+            BonesToRemove[113] = { BoneName=calf_twist_02_r }
+            BonesToRemove[114] = { BoneName=deform_knee_fr_01_r }
+            BonesToRemove[115] = { BoneName=deform_knee_bk_01_r }
+            BonesToRemove[116] = { BoneName=thigh_twist_01_r }
+            BonesToRemove[117] = { BoneName=deform_thigh_fr_r }
+            BonesToRemove[118] = { BoneName=deform_thigh_bk_r }
+            BonesToRemove[119] = { BoneName=dyn_r_legStrap_MSTR }
+            BonesToRemove[120] = { BoneName=dyn_r_legStrap_01 }
+            BonesToRemove[121] = { BoneName=dyn_r_legStrap_02 }
+            BonesToRemove[122] = { BoneName=dyn_r_legStrap_03 }
+            BonesToRemove[123] = { BoneName=dyn_r_legStrap_04 }
+            BonesToRemove[124] = { BoneName=dyn_shirt_b_MSTR }
+            BonesToRemove[125] = { BoneName=dyn_shirt_b_01 }
+            BonesToRemove[126] = { BoneName=dyn_shirt_b_02 }
+            BonesToRemove[127] = { BoneName=dyn_shirt_c_MSTR }
+            BonesToRemove[128] = { BoneName=dyn_shirt_c_01 }
+            BonesToRemove[129] = { BoneName=dyn_shirt_c_02 }
+            BonesToRemove[130] = { BoneName=dyn_shirt_c_03 }
+            BonesToRemove[131] = { BoneName=dyn_shirt_c_04 }
+            BonesToRemove[132] = { BoneName=dyn_shirt_d_MSTR }
+            BonesToRemove[133] = { BoneName=dyn_shirt_d_01 }
+            BonesToRemove[134] = { BoneName=dyn_shirt_d_02 }
+            BonesToRemove[135] = { BoneName=dyn_shirt_d_03 }
+            BonesToRemove[136] = { BoneName=dyn_shirt_d_04 }
+            BonesToRemove[137] = { BoneName=dyn_root_simspace }
+            BonesToRemove[138] = { BoneName=dyn_root_slope }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[139] =
+        {
+            BonesToRemove[0] = { BoneName=index_metacarpal_l }
+            BonesToRemove[1] = { BoneName=index_01_l }
+            BonesToRemove[2] = { BoneName=index_02_l }
+            BonesToRemove[3] = { BoneName=index_03_l }
+            BonesToRemove[4] = { BoneName=middle_metacarpal_l }
+            BonesToRemove[5] = { BoneName=middle_01_l }
+            BonesToRemove[6] = { BoneName=middle_02_l }
+            BonesToRemove[7] = { BoneName=middle_03_l }
+            BonesToRemove[8] = { BoneName=pinky_metacarpal_l }
+            BonesToRemove[9] = { BoneName=pinky_01_l }
+            BonesToRemove[10] = { BoneName=pinky_02_l }
+            BonesToRemove[11] = { BoneName=pinky_03_l }
+            BonesToRemove[12] = { BoneName=ring_metacarpal_l }
+            BonesToRemove[13] = { BoneName=ring_01_l }
+            BonesToRemove[14] = { BoneName=ring_02_l }
+            BonesToRemove[15] = { BoneName=ring_03_l }
+            BonesToRemove[16] = { BoneName=thumb_01_l }
+            BonesToRemove[17] = { BoneName=thumb_02_l }
+            BonesToRemove[18] = { BoneName=thumb_03_l }
+            BonesToRemove[19] = { BoneName=lowerarm_twist_01_l }
+            BonesToRemove[20] = { BoneName=lowerarm_twist_02_l }
+            BonesToRemove[21] = { BoneName=deform_elbow_bk_l }
+            BonesToRemove[22] = { BoneName=upperarm_twist_01_l }
+            BonesToRemove[23] = { BoneName=deform_deltoid_fr_l }
+            BonesToRemove[24] = { BoneName=dyn_l_unwantedInnerGeo }
+            BonesToRemove[25] = { BoneName=upperarm_twist_02_l }
+            BonesToRemove[26] = { BoneName=deform_elbow_fr_l }
+            BonesToRemove[27] = { BoneName=deform_pectoral_fr_l }
+            BonesToRemove[28] = { BoneName=index_metacarpal_r }
+            BonesToRemove[29] = { BoneName=index_01_r }
+            BonesToRemove[30] = { BoneName=index_02_r }
+            BonesToRemove[31] = { BoneName=index_03_r }
+            BonesToRemove[32] = { BoneName=middle_metacarpal_r }
+            BonesToRemove[33] = { BoneName=middle_01_r }
+            BonesToRemove[34] = { BoneName=middle_02_r }
+            BonesToRemove[35] = { BoneName=middle_03_r }
+            BonesToRemove[36] = { BoneName=pinky_metacarpal_r }
+            BonesToRemove[37] = { BoneName=pinky_01_r }
+            BonesToRemove[38] = { BoneName=pinky_02_r }
+            BonesToRemove[39] = { BoneName=pinky_03_r }
+            BonesToRemove[40] = { BoneName=ring_metacarpal_r }
+            BonesToRemove[41] = { BoneName=ring_01_r }
+            BonesToRemove[42] = { BoneName=ring_02_r }
+            BonesToRemove[43] = { BoneName=ring_03_r }
+            BonesToRemove[44] = { BoneName=thumb_01_r }
+            BonesToRemove[45] = { BoneName=thumb_02_r }
+            BonesToRemove[46] = { BoneName=thumb_03_r }
+            BonesToRemove[47] = { BoneName=lowerarm_twist_01_r }
+            BonesToRemove[48] = { BoneName=lowerarm_twist_02_r }
+            BonesToRemove[49] = { BoneName=deform_elbow_bk_r }
+            BonesToRemove[50] = { BoneName=upperarm_twist_01_r }
+            BonesToRemove[51] = { BoneName=deform_deltoid_fr_r }
+            BonesToRemove[52] = { BoneName=dyn_r_unwantedInnerGeo }
+            BonesToRemove[53] = { BoneName=upperarm_twist_02_r }
+            BonesToRemove[54] = { BoneName=deform_elbow_fr_r }
+            BonesToRemove[55] = { BoneName=deform_pectoral_fr_r }
+            BonesToRemove[56] = { BoneName=dyn_neckFix }
+            BonesToRemove[57] = { BoneName=dyn_jacket_c_MSTR }
+            BonesToRemove[58] = { BoneName=dyn_jacket_c_01 }
+            BonesToRemove[59] = { BoneName=dyn_jacket_c_02 }
+            BonesToRemove[60] = { BoneName=dyn_jacket_d_MSTR }
+            BonesToRemove[61] = { BoneName=dyn_jacket_d_01 }
+            BonesToRemove[62] = { BoneName=dyn_jacket_d_02 }
+            BonesToRemove[63] = { BoneName=dyn_jacket_b_MSTR }
+            BonesToRemove[64] = { BoneName=dyn_jacket_b_01 }
+            BonesToRemove[65] = { BoneName=dyn_jacket_b_02 }
+            BonesToRemove[66] = { BoneName=dyn_jacket_a_MSTR }
+            BonesToRemove[67] = { BoneName=dyn_jacket_a_01 }
+            BonesToRemove[68] = { BoneName=dyn_jacket_a_02 }
+            BonesToRemove[69] = { BoneName=dyn_jacket_a_03 }
+            BonesToRemove[70] = { BoneName=dyn_jacket_e_MSTR }
+            BonesToRemove[71] = { BoneName=dyn_jacket_e_01 }
+            BonesToRemove[72] = { BoneName=dyn_jacket_e_02 }
+            BonesToRemove[73] = { BoneName=dyn_jacket_f_MSTR }
+            BonesToRemove[74] = { BoneName=dyn_jacket_f_01 }
+            BonesToRemove[75] = { BoneName=dyn_jacket_f_02 }
+            BonesToRemove[76] = { BoneName=dyn_jacket_g_MSTR }
+            BonesToRemove[77] = { BoneName=dyn_jacket_g_01 }
+            BonesToRemove[78] = { BoneName=dyn_jacket_g_02 }
+            BonesToRemove[79] = { BoneName=dyn_jacket_g_03 }
+            BonesToRemove[80] = { BoneName=dyn_l_collar_MSTR }
+            BonesToRemove[81] = { BoneName=dyn_l_collar }
+            BonesToRemove[82] = { BoneName=dyn_r_collar_MSTR }
+            BonesToRemove[83] = { BoneName=dyn_r_collar }
+            BonesToRemove[84] = { BoneName=dyn_r_01_collar_MSTR }
+            BonesToRemove[85] = { BoneName=dyn_r_01_collar }
+            BonesToRemove[86] = { BoneName=dyn_r_02_collar_MSTR }
+            BonesToRemove[87] = { BoneName=dyn_r_02_collar }
+            BonesToRemove[88] = { BoneName=dyn_back_collar_MSTR }
+            BonesToRemove[89] = { BoneName=dyn_back_collar }
+            BonesToRemove[90] = { BoneName=dyn_l_02_collar_MSTR }
+            BonesToRemove[91] = { BoneName=dyn_l_02_collar }
+            BonesToRemove[92] = { BoneName=dyn_l_01_collar_MSTR }
+            BonesToRemove[93] = { BoneName=dyn_l_01_collar }
+            BonesToRemove[94] = { BoneName=dyn_neckFix_01 }
+            BonesToRemove[95] = { BoneName=dyn_shrinkBack }
+            BonesToRemove[96] = { BoneName=calf_twist_01_l }
+            BonesToRemove[97] = { BoneName=calf_twist_02_l }
+            BonesToRemove[98] = { BoneName=deform_knee_fr_01_l }
+            BonesToRemove[99] = { BoneName=deform_knee_bk_01_l }
+            BonesToRemove[100] = { BoneName=thigh_twist_01_l }
+            BonesToRemove[101] = { BoneName=deform_thigh_fr_l }
+            BonesToRemove[102] = { BoneName=deform_thigh_bk_l }
+            BonesToRemove[103] = { BoneName=dyn_l_strapHelper }
+            BonesToRemove[104] = { BoneName=dyn_l_legStrap_MSTR }
+            BonesToRemove[105] = { BoneName=dyn_l_legStrap_01 }
+            BonesToRemove[106] = { BoneName=dyn_l_legStrap_02 }
+            BonesToRemove[107] = { BoneName=dyn_l_legStrap_03 }
+            BonesToRemove[108] = { BoneName=dyn_l_legStrap_04 }
+            BonesToRemove[109] = { BoneName=dyn_shirt_a_MSTR }
+            BonesToRemove[110] = { BoneName=dyn_shirt_a_01 }
+            BonesToRemove[111] = { BoneName=dyn_shirt_a_02 }
+            BonesToRemove[112] = { BoneName=calf_twist_01_r }
+            BonesToRemove[113] = { BoneName=calf_twist_02_r }
+            BonesToRemove[114] = { BoneName=deform_knee_fr_01_r }
+            BonesToRemove[115] = { BoneName=deform_knee_bk_01_r }
+            BonesToRemove[116] = { BoneName=thigh_twist_01_r }
+            BonesToRemove[117] = { BoneName=deform_thigh_fr_r }
+            BonesToRemove[118] = { BoneName=deform_thigh_bk_r }
+            BonesToRemove[119] = { BoneName=dyn_r_legStrap_MSTR }
+            BonesToRemove[120] = { BoneName=dyn_r_legStrap_01 }
+            BonesToRemove[121] = { BoneName=dyn_r_legStrap_02 }
+            BonesToRemove[122] = { BoneName=dyn_r_legStrap_03 }
+            BonesToRemove[123] = { BoneName=dyn_r_legStrap_04 }
+            BonesToRemove[124] = { BoneName=dyn_shirt_b_MSTR }
+            BonesToRemove[125] = { BoneName=dyn_shirt_b_01 }
+            BonesToRemove[126] = { BoneName=dyn_shirt_b_02 }
+            BonesToRemove[127] = { BoneName=dyn_shirt_c_MSTR }
+            BonesToRemove[128] = { BoneName=dyn_shirt_c_01 }
+            BonesToRemove[129] = { BoneName=dyn_shirt_c_02 }
+            BonesToRemove[130] = { BoneName=dyn_shirt_c_03 }
+            BonesToRemove[131] = { BoneName=dyn_shirt_c_04 }
+            BonesToRemove[132] = { BoneName=dyn_shirt_d_MSTR }
+            BonesToRemove[133] = { BoneName=dyn_shirt_d_01 }
+            BonesToRemove[134] = { BoneName=dyn_shirt_d_02 }
+            BonesToRemove[135] = { BoneName=dyn_shirt_d_03 }
+            BonesToRemove[136] = { BoneName=dyn_shirt_d_04 }
+            BonesToRemove[137] = { BoneName=dyn_root_simspace }
+            BonesToRemove[138] = { BoneName=dyn_root_slope }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

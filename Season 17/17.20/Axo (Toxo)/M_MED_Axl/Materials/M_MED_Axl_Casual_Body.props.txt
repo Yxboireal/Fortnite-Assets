@@ -1,0 +1,862 @@
+Parent = MaterialInstanceConstant'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Axl/Materials/M_MED_Axl_Body.M_MED_Axl_Body'
+ScalarParameterValues[73] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=Cloth Base Color Intensity }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=Cloth Roughness }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=Cloth Scattering Min }
+        ParameterValue = 0.25
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=Cloth Shader Intensity }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = { Name=Cloth Subsurface Intensity }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[5] =
+    {
+        ParameterInfo = { Name=Fuzz Exponent }
+        ParameterValue = 1.8
+        ParameterName = None
+    }
+    ScalarParameterValues[6] =
+    {
+        ParameterInfo = { Name=Fuzz Fresnel Blend }
+        ParameterValue = 0.6
+        ParameterName = None
+    }
+    ScalarParameterValues[7] =
+    {
+        ParameterInfo = { Name=Fuzz Tiling }
+        ParameterValue = 12
+        ParameterName = None
+    }
+    ScalarParameterValues[8] =
+    {
+        ParameterInfo = { Name=emissive mult }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[9] =
+    {
+        ParameterInfo = { Name=BaseNormalIntensity }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[10] =
+    {
+        ParameterInfo = { Name=Hide Element 01 }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[11] =
+    {
+        ParameterInfo = { Name=Hide Element 02 }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[12] =
+    {
+        ParameterInfo = { Name=Hide Element 03 }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[13] =
+    {
+        ParameterInfo = { Name=Hide Element 04 }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[14] =
+    {
+        ParameterInfo = { Name=Hide Element 05 }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[15] =
+    {
+        ParameterInfo = { Name=Hide Element 06 }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[16] =
+    {
+        ParameterInfo = { Name=Hide Element 07 }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[17] =
+    {
+        ParameterInfo = { Name=HideElementsOnlyConsidersRedChannel }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[18] =
+    {
+        ParameterInfo = { Name=RoughnessMax }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[19] =
+    {
+        ParameterInfo = { Name=RoughnessMin }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[20] =
+    {
+        ParameterInfo = { Name=HumanSkin }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[21] =
+    {
+        ParameterInfo = { Name=Skin Pore Flatness }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[22] =
+    {
+        ParameterInfo = { Name=Bubble Speed Y_1 }
+        ParameterValue = -0.0225
+        ParameterName = None
+    }
+    ScalarParameterValues[23] =
+    {
+        ParameterInfo = { Name=Bubble Speed Y_2 }
+        ParameterValue = -0.015
+        ParameterName = None
+    }
+    ScalarParameterValues[24] =
+    {
+        ParameterInfo = { Name=Bubble Speed Y_3 }
+        ParameterValue = -0.01
+        ParameterName = None
+    }
+    ScalarParameterValues[25] =
+    {
+        ParameterInfo = { Name=Bubble_BackSpecular_Power }
+        ParameterValue = 1.5
+        ParameterName = None
+    }
+    ScalarParameterValues[26] =
+    {
+        ParameterInfo = { Name=Bubble_BackSpecular_Scale }
+        ParameterValue = 0.15
+        ParameterName = None
+    }
+    ScalarParameterValues[27] =
+    {
+        ParameterInfo = { Name=Bubble_Blend_FrontPlanarSharpness }
+        ParameterValue = 3
+        ParameterName = None
+    }
+    ScalarParameterValues[28] =
+    {
+        ParameterInfo = { Name=Bubble_Blend_NormalSharpness }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[29] =
+    {
+        ParameterInfo = { Name=Bubble_DistortSpeed }
+        ParameterValue = 0.1
+        ParameterName = None
+    }
+    ScalarParameterValues[30] =
+    {
+        ParameterInfo = { Name=Bubble_DistortTiling }
+        ParameterValue = 0.05
+        ParameterName = None
+    }
+    ScalarParameterValues[31] =
+    {
+        ParameterInfo = { Name=Bubble_HighlightSpecular_Power }
+        ParameterValue = 3
+        ParameterName = None
+    }
+    ScalarParameterValues[32] =
+    {
+        ParameterInfo = { Name=Bubble_HighlightSpecular_Scale }
+        ParameterValue = 0.275
+        ParameterName = None
+    }
+    ScalarParameterValues[33] =
+    {
+        ParameterInfo = { Name=Bubble_ParallaxDepth_Layer1 }
+        ParameterValue = 9
+        ParameterName = None
+    }
+    ScalarParameterValues[34] =
+    {
+        ParameterInfo = { Name=Bubble_ParallaxDepth_Layer2 }
+        ParameterValue = 11
+        ParameterName = None
+    }
+    ScalarParameterValues[35] =
+    {
+        ParameterInfo = { Name=Bubble_ParallaxDepth_Layer3 }
+        ParameterValue = 14
+        ParameterName = None
+    }
+    ScalarParameterValues[36] =
+    {
+        ParameterInfo = { Name=Bubble_SHScale }
+        ParameterValue = 0.15
+        ParameterName = None
+    }
+    ScalarParameterValues[37] =
+    {
+        ParameterInfo = { Name=Bubble_SHScaleNoiseSpeed }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[38] =
+    {
+        ParameterInfo = { Name=Bubble_ViewDependantDistortion }
+        ParameterValue = 0.5
+        ParameterName = None
+    }
+    ScalarParameterValues[39] =
+    {
+        ParameterInfo = { Name=Bubble_ViewDistortion_SpeedX }
+        ParameterValue = 0.025
+        ParameterName = None
+    }
+    ScalarParameterValues[40] =
+    {
+        ParameterInfo = { Name=Bubble_ViewDistortion_SpeedY }
+        ParameterValue = -0.075
+        ParameterName = None
+    }
+    ScalarParameterValues[41] =
+    {
+        ParameterInfo = { Name=BubbleIntensity_A }
+        ParameterValue = 1.1
+        ParameterName = None
+    }
+    ScalarParameterValues[42] =
+    {
+        ParameterInfo = { Name=BubbleIntensity_A_1 }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[43] =
+    {
+        ParameterInfo = { Name=BubbleIntensity_A_2 }
+        ParameterValue = 1.1
+        ParameterName = None
+    }
+    ScalarParameterValues[44] =
+    {
+        ParameterInfo = { Name=BubbleSize_A }
+        ParameterValue = 55
+        ParameterName = None
+    }
+    ScalarParameterValues[45] =
+    {
+        ParameterInfo = { Name=BubbleSize_A_1 }
+        ParameterValue = 58
+        ParameterName = None
+    }
+    ScalarParameterValues[46] =
+    {
+        ParameterInfo = { Name=BubbleSize_A_2 }
+        ParameterValue = 35
+        ParameterName = None
+    }
+    ScalarParameterValues[47] =
+    {
+        ParameterInfo = { Name=Decal_ParallaxDepth }
+        ParameterValue = 8
+        ParameterName = None
+    }
+    ScalarParameterValues[48] =
+    {
+        ParameterInfo = { Name=DecalIntensity }
+        ParameterValue = 0.95
+        ParameterName = None
+    }
+    ScalarParameterValues[49] =
+    {
+        ParameterInfo = { Name=DecalSize }
+        ParameterValue = 32.5
+        ParameterName = None
+    }
+    ScalarParameterValues[50] =
+    {
+        ParameterInfo = { Name=SHContrast_HighValue }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[51] =
+    {
+        ParameterInfo = { Name=SHContrast_LowValue }
+        ParameterValue = 0.2
+        ParameterName = None
+    }
+    ScalarParameterValues[52] =
+    {
+        ParameterInfo = { Name=SHPow }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[53] =
+    {
+        ParameterInfo = { Name=Slurp_AO_Intensity }
+        ParameterValue = 0.25
+        ParameterName = None
+    }
+    ScalarParameterValues[54] =
+    {
+        ParameterInfo = { Name=Slurp_AO_pow }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[55] =
+    {
+        ParameterInfo = { Name=Slurp_BaseColor_Emissive_Distribution }
+        ParameterValue = 0.775
+        ParameterName = None
+    }
+    ScalarParameterValues[56] =
+    {
+        ParameterInfo = { Name=Slurp_DirectionVectorFlip }
+        ParameterValue = -1
+        ParameterName = None
+    }
+    ScalarParameterValues[57] =
+    {
+        ParameterInfo = { Name=Slurp_InnerBackScatteringBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[58] =
+    {
+        ParameterInfo = { Name=Slurp_InnerBackScatteringPower }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[59] =
+    {
+        ParameterInfo = { Name=Slurp_InnerBackScatteringScale }
+        ParameterValue = 0.1
+        ParameterName = None
+    }
+    ScalarParameterValues[60] =
+    {
+        ParameterInfo = { Name=Slurp_InnerScatteringPower }
+        ParameterValue = 8
+        ParameterName = None
+    }
+    ScalarParameterValues[61] =
+    {
+        ParameterInfo = { Name=Slurp_InnerScatteringScale }
+        ParameterValue = 0.07
+        ParameterName = None
+    }
+    ScalarParameterValues[62] =
+    {
+        ParameterInfo = { Name=Slurp_OuterColor_TransitionScale }
+        ParameterValue = 0.02
+        ParameterName = None
+    }
+    ScalarParameterValues[63] =
+    {
+        ParameterInfo = { Name=Slurp_OuterColor_TransitionStart }
+        ParameterValue = 15
+        ParameterName = None
+    }
+    ScalarParameterValues[64] =
+    {
+        ParameterInfo = { Name=Slurp_Roughness }
+        ParameterValue = 0.2
+        ParameterName = None
+    }
+    ScalarParameterValues[65] =
+    {
+        ParameterInfo = { Name=Slurp_RoughnessMap_Intensity }
+        ParameterValue = 0.2
+        ParameterName = None
+    }
+    ScalarParameterValues[66] =
+    {
+        ParameterInfo = { Name=Slurp_SHBias_ScaleFactor }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[67] =
+    {
+        ParameterInfo = { Name=Slurp_Specular }
+        ParameterValue = 0.35
+        ParameterName = None
+    }
+    ScalarParameterValues[68] =
+    {
+        ParameterInfo = { Name=Slurp_SpecularMap_Intensity }
+        ParameterValue = 0.2
+        ParameterName = None
+    }
+    ScalarParameterValues[69] =
+    {
+        ParameterInfo = { Name=Slurp_WPO_FinalScale }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[70] =
+    {
+        ParameterInfo = { Name=Slurp_WPO_LocalNoise_Speed }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[71] =
+    {
+        ParameterInfo = { Name=SlurpEmissiveOuterColorMultiplier }
+        ParameterValue = 0.3
+        ParameterName = None
+    }
+    ScalarParameterValues[72] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[13] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=ClothFuzz Texture }
+        ParameterValue = Texture2D'/Game/Weapons/WeaponSkins/Textures/T_Fuzz_MASK.T_Fuzz_MASK'
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=Diffuse }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Axl/Skins/Axl_Casual/Textures/T_M_Axl_Casual_Body_D.T_M_Axl_Casual_Body_D'
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=Emissive }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Axl/Skins/Axl_Casual/Textures/T_M_Axl_Casual_Body_E.T_M_Axl_Casual_Body_E'
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=M }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Axl/Skins/Axl_Casual/Textures/T_M_Axl_Casual_Body_M.T_M_Axl_Casual_Body_M'
+        ParameterName = None
+    }
+    TextureParameterValues[4] =
+    {
+        ParameterInfo = { Name=Normals }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Axl/Skins/Axl_Casual/Textures/T_M_Axl_Casual_Body_N.T_M_Axl_Casual_Body_N'
+        ParameterName = None
+    }
+    TextureParameterValues[5] =
+    {
+        ParameterInfo = { Name=SkinFX_Mask }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Axl/Skins/Axl_Casual/Textures/T_M_Axl_Casual_Body_FX.T_M_Axl_Casual_Body_FX'
+        ParameterName = None
+    }
+    TextureParameterValues[6] =
+    {
+        ParameterInfo = { Name=Bubble_SHScaleNoise }
+        ParameterValue = Texture2D'/Game/Characters/Fortress_Character/Textures/flatGrey.flatGrey'
+        ParameterName = None
+    }
+    TextureParameterValues[7] =
+    {
+        ParameterInfo = { Name=BubbleMask }
+        ParameterValue = Texture2D'/Game/Characters/Player/Female/Medium/Bodies/F_MED_Dark_Heart/Textures/T_SlurpHearts.T_SlurpHearts'
+        ParameterName = None
+    }
+    TextureParameterValues[8] =
+    {
+        ParameterInfo = { Name=BubbleNormal }
+        ParameterValue = Texture2D'/Game/Characters/Player/Female/Medium/Bodies/F_MED_Dark_Heart/Textures/T_SlurpHearts_N.T_SlurpHearts_N'
+        ParameterName = None
+    }
+    TextureParameterValues[9] =
+    {
+        ParameterInfo = { Name=DecalMask }
+        ParameterValue = Texture2D'/Game/Characters/Player/Female/Medium/Bodies/F_MED_Dark_Heart/Textures/T_SlurpHearts.T_SlurpHearts'
+        ParameterName = None
+    }
+    TextureParameterValues[10] =
+    {
+        ParameterInfo = { Name=Slurp_CustomEmissiveColor }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Axl/Skins/Axl_Casual/Textures/T_M_Axl_Casual_Body_D.T_M_Axl_Casual_Body_D'
+        ParameterName = None
+    }
+    TextureParameterValues[11] =
+    {
+        ParameterInfo = { Name=SlurpNormal }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Axl/Textures/T_M_MED_Axl_Body_N.T_M_MED_Axl_Body_N'
+        ParameterName = None
+    }
+    TextureParameterValues[12] =
+    {
+        ParameterInfo = { Name=SpecularMasks }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Axl/Skins/Axl_Casual/Textures/T_M_Axl_Casual_Body_S.T_M_Axl_Casual_Body_S'
+        ParameterName = None
+    }
+}
+VectorParameterValues[23] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=Skin Boost Color And Exponent }
+        ParameterValue = { R=0.805664, G=0.909971, B=0.9375, A=2 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=Bubble Position_1_Offset }
+        ParameterValue = { R=-1, G=-1, B=5, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=Bubble Position_2_Offset }
+        ParameterValue = { R=-1.5, G=-1.5, B=27, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[3] =
+    {
+        ParameterInfo = { Name=Bubble Position_3_Offset }
+        ParameterValue = { R=4, G=4, B=8, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[4] =
+    {
+        ParameterInfo = { Name=Bubble_BackSpecular_Color }
+        ParameterValue = { R=1, G=0, B=0.116666, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[5] =
+    {
+        ParameterInfo = { Name=Bubble_DistortAmplitude_1 }
+        ParameterValue = { R=0.8, G=-0.125, B=-0.125, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[6] =
+    {
+        ParameterInfo = { Name=Bubble_DistortAmplitude_2 }
+        ParameterValue = { R=-0.2, G=0.1, B=0.1, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[7] =
+    {
+        ParameterInfo = { Name=Bubble_HighlightSpecular_Color }
+        ParameterValue = { R=1, G=0.025, B=0.155, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[8] =
+    {
+        ParameterInfo = { Name=Bubble_InnerColor }
+        ParameterValue = { R=0.65, G=0.091, B=0.156216, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[9] =
+    {
+        ParameterInfo = { Name=Bubble_OuterColor }
+        ParameterValue = { R=0.125, G=0, B=0.045833, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[10] =
+    {
+        ParameterInfo = { Name=Decal Position_Offset }
+        ParameterValue = { R=-19.5, G=-19.5, B=-141, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[11] =
+    {
+        ParameterInfo = { Name=Decal_InnerColor }
+        ParameterValue = { R=0.036458, G=0, B=0.023388, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[12] =
+    {
+        ParameterInfo = { Name=Decal_OuterColor }
+        ParameterValue = { R=0.05, G=0, B=0.028077, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[13] =
+    {
+        ParameterInfo = { Name=SHMax }
+        ParameterValue = { R=1.23788, G=0.102202, B=0.128929, A=0.132275 }
+        ParameterName = None
+    }
+    VectorParameterValues[14] =
+    {
+        ParameterInfo = { Name=SHMin }
+        ParameterValue = { R=1.06236, G=-0.15966, B=-0.158648, A=-0.142235 }
+        ParameterName = None
+    }
+    VectorParameterValues[15] =
+    {
+        ParameterInfo = { Name=Slurp_InnerBackScatteringMultiplier }
+        ParameterValue = { R=0.681026, G=1, B=0.542377, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[16] =
+    {
+        ParameterInfo = { Name=Slurp_InnerColor }
+        ParameterValue = { R=1, G=1, B=1, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[17] =
+    {
+        ParameterInfo = { Name=Slurp_InnerScatteringColor }
+        ParameterValue = { R=0.456733, G=0.705991, B=1, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[18] =
+    {
+        ParameterInfo = { Name=Slurp_OuterColorA }
+        ParameterValue = { R=0, G=0, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[19] =
+    {
+        ParameterInfo = { Name=Slurp_OuterColorB }
+        ParameterValue = { R=0, G=0, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[20] =
+    {
+        ParameterInfo = { Name=SlurpEmissiveInnerColorMultiplier }
+        ParameterValue = { R=0.986185, G=1.00363, B=1.1191, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[21] =
+    {
+        ParameterInfo = { Name=SlurpNormalScrollingSpeed }
+        ParameterValue = { R=0, G=0, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[22] =
+    {
+        ParameterInfo = { Name=SlurpNormalSHVectorDistortion }
+        ParameterValue = { R=0, G=1, B=1, A=0 }
+        ParameterName = None
+    }
+}
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0.3333
+}
+StaticParameters =
+{
+    StaticSwitchParameters[16] =
+    {
+        StaticSwitchParameters[0] =
+        {
+            Value = true
+            ParameterInfo = { Name=Emissive }
+            bOverride = true
+        }
+        StaticSwitchParameters[1] =
+        {
+            Value = true
+            ParameterInfo = { Name=Use Vertex Colors for Mask }
+            bOverride = true
+        }
+        StaticSwitchParameters[2] =
+        {
+            Value = true
+            ParameterInfo = { Name=Use Cloth fuzz }
+            bOverride = true
+        }
+        StaticSwitchParameters[3] =
+        {
+            Value = true
+            ParameterInfo = { Name=Bubble_FrontPlanarProjectionOnly }
+            bOverride = true
+        }
+        StaticSwitchParameters[4] =
+        {
+            Value = false
+            ParameterInfo = { Name=EnableBubbles }
+            bOverride = true
+        }
+        StaticSwitchParameters[5] =
+        {
+            Value = true
+            ParameterInfo = { Name=SlurpUseCustomEmissiveAsInnerColor }
+            bOverride = true
+        }
+        StaticSwitchParameters[6] =
+        {
+            Value = true
+            ParameterInfo = { Name=SlurpUseCustomEmissiveAsOuterColor }
+            bOverride = true
+        }
+        StaticSwitchParameters[7] =
+        {
+            Value = true
+            ParameterInfo = { Name=SlurpUseEmissiveAsInnerColor }
+            bOverride = true
+        }
+        StaticSwitchParameters[8] =
+        {
+            Value = false
+            ParameterInfo = { Name=SlurpUseEmissiveAsInnerScatteringColor }
+            bOverride = true
+        }
+        StaticSwitchParameters[9] =
+        {
+            Value = true
+            ParameterInfo = { Name=SlurpUseEmissiveAsOuterColor }
+            bOverride = true
+        }
+        StaticSwitchParameters[10] =
+        {
+            Value = true
+            ParameterInfo = { Name=Use FXmask for Slurp }
+            bOverride = true
+        }
+        StaticSwitchParameters[11] =
+        {
+            Value = true
+            ParameterInfo = { Name=UseBPRotationMatrix }
+            bOverride = true
+        }
+        StaticSwitchParameters[12] =
+        {
+            Value = true
+            ParameterInfo = { Name=UseCustomSH Fit }
+            bOverride = true
+        }
+        StaticSwitchParameters[13] =
+        {
+            Value = true
+            ParameterInfo = { Name=UseRotateVector_FromSkinning_SH_Dir }
+            bOverride = true
+        }
+        StaticSwitchParameters[14] =
+        {
+            Value = false
+            ParameterInfo = { Name=UseSlurpNormalDistortion }
+            bOverride = true
+        }
+        StaticSwitchParameters[15] =
+        {
+            Value = true
+            ParameterInfo = { Name=UseSunDirection }
+            bOverride = true
+        }
+    }
+    StaticComponentMaskParameters[2] =
+    {
+        StaticComponentMaskParameters[0] =
+        {
+            R = true
+            G = false
+            B = false
+            A = false
+            ParameterInfo = { Name=Cloth Channel }
+            bOverride = true
+        }
+        StaticComponentMaskParameters[1] =
+        {
+            R = false
+            G = true
+            B = false
+            A = false
+            ParameterInfo = { Name=Slurp Channel }
+            bOverride = true
+        }
+    }
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[9] =
+{
+    TextureStreamingData[0] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = MidGrayLINEARTexture
+    }
+    TextureStreamingData[1] =
+    {
+        SamplingScale = 12
+        UVChannelIndex = 0
+        TextureName = T_Fuzz_MASK
+    }
+    TextureStreamingData[2] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_M_Axl_Casual_Body_D
+    }
+    TextureStreamingData[3] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_M_Axl_Casual_Body_D
+    }
+    TextureStreamingData[4] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_M_Axl_Casual_Body_E
+    }
+    TextureStreamingData[5] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_M_Axl_Casual_Body_FX
+    }
+    TextureStreamingData[6] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_M_Axl_Casual_Body_M
+    }
+    TextureStreamingData[7] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_M_Axl_Casual_Body_N
+    }
+    TextureStreamingData[8] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_M_Axl_Casual_Body_S
+    }
+}

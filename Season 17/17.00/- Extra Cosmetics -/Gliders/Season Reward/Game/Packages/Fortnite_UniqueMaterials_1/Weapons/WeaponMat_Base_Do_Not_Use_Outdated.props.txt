@@ -1,0 +1,126 @@
+TwoSided = false
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[88] =
+{
+    ReferencedTextures[0] = Texture2D'/Engine/EngineMaterials/BaseFlattenNormalMap.BaseFlattenNormalMap'
+    ReferencedTextures[1] = Texture2D'/Engine/EngineMaterials/DefaultDiffuse.DefaultDiffuse'
+    ReferencedTextures[2] = Texture2D'/Engine/EngineMaterials/DefaultDiffuse_TC_Masks.DefaultDiffuse_TC_Masks'
+    ReferencedTextures[3] = Texture2D'/Engine/EngineMaterials/DefaultNormal_Uncompressed.DefaultNormal_Uncompressed'
+    ReferencedTextures[4] = Texture2D'/Engine/EngineMaterials/Good64x64TilingNoiseHighFreq.Good64x64TilingNoiseHighFreq'
+    ReferencedTextures[5] = Texture2D'/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/SphereRenderNormalsMap.SphereRenderNormalsMap'
+    ReferencedTextures[6] = Texture2D'/Engine/MapTemplates/TilingNoise05.TilingNoise05'
+    ReferencedTextures[7] = Texture2D'/Game/Accessories/FORT_Backpacks/M_MED_Heist/Textures/CrystalGradient.CrystalGradient'
+    ReferencedTextures[8] = Texture2D'/Game/Accessories/FORT_Backpacks/M_MED_Heist/Textures/T_FN_Character_Heist_FX.T_FN_Character_Heist_FX'
+    ReferencedTextures[9] = Texture2D'/Game/Accessories/FORT_Backpacks/M_MED_Heist/Textures/T_IceGradient.T_IceGradient'
+    ReferencedTextures[10] = Texture2D'/Game/Accessories/Hats/M_MED_Marshmellow_DJ_Hat/Textures/Mello_Dots.Mello_Dots'
+    ReferencedTextures[11] = Texture2D'/Game/Accessories/Hats/M_MED_Marshmellow_DJ_Hat/Textures/Mello_M.Mello_M'
+    ReferencedTextures[12] = Texture2D'/Game/Accessories/Hats/M_MED_Marshmellow_DJ_Hat/Textures/T_Marshmello_FX_Marshmellow_DJ1_FX.T_Marshmello_FX_Marshmellow_DJ1_FX'
+    ReferencedTextures[13] = Texture2D'/Game/Athena/Aircraft/PartyBus_RT/Textures/AllBlackMasks.AllBlackMasks'
+    ReferencedTextures[14] = Texture2D'/Game/Athena/Prototype/Blueprints/Cube/Materials/DFHeightMask.DFHeightMask'
+    ReferencedTextures[15] = Texture2D'/Game/Athena/Prototype/Blueprints/Cube/Materials/T_CubeNoise.T_CubeNoise'
+    ReferencedTextures[16] = Texture2D'/Game/Characters/Fortress_Character/Textures/AllBlack.AllBlack'
+    ReferencedTextures[17] = Texture2D'/Game/Characters/Player/Female/Medium/Bodies/F_MED_Dark_Viking_01/Textures/3xPerlin_M.3xPerlin_M'
+    ReferencedTextures[18] = Texture2D'/Game/Characters/Player/Female/Medium/Bodies/F_MED_SparkleRemix/Textures/Burst/Burst_M.Burst_M'
+    ReferencedTextures[19] = Texture2D'/Game/Characters/Player/Male/Large/Bodies/M_LRG_Slurp_Monster/Textures/T_SlurpBubble.T_SlurpBubble'
+    ReferencedTextures[20] = Texture2D'/Game/Characters/Player/Male/Large/Bodies/M_LRG_Slurp_Monster/Textures/T_SlurpBubble_N.T_SlurpBubble_N'
+    ReferencedTextures[21] = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Skeleton_Hunter/Textures/T_M_MED_SkeletonHunter_body_E.T_M_MED_SkeletonHunter_body_E'
+    ReferencedTextures[22] = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_MED_SleepyTime/Textures/T_MED_SleepTime_Body_Mask01.T_MED_SleepTime_Body_Mask01'
+    ReferencedTextures[23] = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_MED_SleepyTime/Textures/T_MED_SleepTime_Body_Mask02.T_MED_SleepTime_Body_Mask02'
+    ReferencedTextures[24] = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/Galaxy/Textures/Celestial_T_Stars.Celestial_T_Stars'
+    ReferencedTextures[25] = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/Galaxy/Textures/T_FN_Nebula.T_FN_Nebula'
+    ReferencedTextures[26] = Texture2D'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Viper/Textures/Glitch/T_SoftNoise.T_SoftNoise'
+    ReferencedTextures[27] = Texture2D'/Game/Effects/Fort_Effects/BluGlow/HighContrastNoise.HighContrastNoise'
+    ReferencedTextures[28] = Texture2D'/Game/Effects/Fort_Effects/Creatures/Elemental/Electrical/TestLightningGradient.TestLightningGradient'
+    ReferencedTextures[29] = Texture2D'/Game/Effects/Fort_Effects/Gameplay/SmokeDustExplosions/Textures/T_NoisePack_01.T_NoisePack_01'
+    ReferencedTextures[30] = Texture2D'/Game/Effects/Fort_Effects/Textures/T_Cracks.T_Cracks'
+    ReferencedTextures[31] = Texture2D'/Game/Effects/Fort_Effects/Textures/Tile/LowResBlurredNoise.LowResBlurredNoise'
+    ReferencedTextures[32] = Texture2D'/Game/Effects/Fort_Effects/Textures/Tile/T_Inky_Smoke_Tile_Chromatic.T_Inky_Smoke_Tile_Chromatic'
+    ReferencedTextures[33] = Texture2D'/Game/Environments/Foliage/Textures/T_SwirlNoise_N.T_SwirlNoise_N'
+    ReferencedTextures[34] = Texture2D'/Game/Environments/Homebase/Textures/NoiseDigital_large.NoiseDigital_large'
+    ReferencedTextures[35] = Texture2D'/Game/Environments/Props/Rocks/Textures/T_Props_CrystalEnv_Purple.T_Props_CrystalEnv_Purple'
+    ReferencedTextures[36] = Texture2D'/Game/Gadgets/Assets/Slow_Field/Textures/T_Slowfield_GridSquares_01.T_Slowfield_GridSquares_01'
+    ReferencedTextures[37] = Texture2D'/Game/Gadgets/Assets/Slow_Field/Textures/T_Slowfield_SparkleNoise_01.T_Slowfield_SparkleNoise_01'
+    ReferencedTextures[38] = Texture2D'/Game/Gadgets/Assets/VinderTech_GliderChute/Glider_BlackMondayCape/Textures/T_Folds_N.T_Folds_N'
+    ReferencedTextures[39] = Texture2D'/Game/Gadgets/Assets/VinderTech_GliderChute/Glider_BlackMondayCape/Textures/T_Glider_BlackMonday_Cape_FX.T_Glider_BlackMonday_Cape_FX'
+    ReferencedTextures[40] = Texture2D'/Game/Gadgets/Assets/VinderTech_GliderChute/Glider_Galileo_Rocket/Textures/T_Galileo_Rocket_Glider_Back_FX.T_Galileo_Rocket_Glider_Back_FX'
+    ReferencedTextures[41] = Texture2D'/Game/Gadgets/Assets/VinderTech_GliderChute/Glider_GraffitiRemix/Textures/T_Glider_Graffiti_Remix_paint_only_D.T_Glider_Graffiti_Remix_paint_only_D'
+    ReferencedTextures[42] = Texture2D'/Game/Gadgets/Assets/VinderTech_GliderChute/Glider_Holiday_01/Textures/T_Glider_Holiday_01_fx.T_Glider_Holiday_01_fx'
+    ReferencedTextures[43] = Texture2D'/Game/Gadgets/Assets/VinderTech_GliderChute/Glider_Holiday_01/Textures/T_Glider_Holiday_01_M.T_Glider_Holiday_01_M'
+    ReferencedTextures[44] = Texture2D'/Game/Packages/Fortnite_UniqueMaterials_1/DS_Fortnight/T_SwirlFlow_01.T_SwirlFlow_01'
+    ReferencedTextures[45] = Texture2D'/Game/Packages/Fortnite_UniqueMaterials_1/Effects/ShieldPowerAnim.ShieldPowerAnim'
+    ReferencedTextures[46] = Texture2D'/Game/Packages/Fortress_SharedMaterials/Textures/16x.16x'
+    ReferencedTextures[47] = Texture2D'/Game/Packages/Fortress_SharedMaterials/Textures/Black_MASK.Black_MASK'
+    ReferencedTextures[48] = Texture2D'/Game/Packages/Fortress_SharedMaterials/Textures/FlatNormalBlue.FlatNormalBlue'
+    ReferencedTextures[49] = Texture2D'/Game/Packages/Fortress_SharedMaterials/Textures/MidGrayLINEARTexture.MidGrayLINEARTexture'
+    ReferencedTextures[50] = Texture2D'/Game/Packages/Fortress_SharedMaterials/Textures/WhiteTextureMask.WhiteTextureMask'
+    ReferencedTextures[51] = Texture2D'/Game/UI/Foundation/Textures/Banner/Shapes/banner_shape_standard_Mipmaps.banner_shape_standard_Mipmaps'
+    ReferencedTextures[52] = Texture2D'/Game/UI/UI_Faces/Noise.Noise'
+    ReferencedTextures[53] = Texture2D'/Game/VisualThreatManager/StormVisuals/Test/SpawnParticles/Streamers/LowResBlurredNoise.LowResBlurredNoise'
+    ReferencedTextures[54] = Texture2D'/Game/VisualThreatManager/StormVisuals/Textures/TilingNoise06_N_uncompressed.TilingNoise06_N_uncompressed'
+    ReferencedTextures[55] = Texture2D'/Game/Weapons/FORT_Melee/Pickaxe_NeonGraffiti/Textures/T_Pickaxe_NeonGraffiti_FX.T_Pickaxe_NeonGraffiti_FX'
+    ReferencedTextures[56] = Texture2D'/Game/Weapons/FORT_Melee/Pickaxe_Sleepy_Time/Textures/T_Pickaxe_Sleepy_Time_FX.T_Pickaxe_Sleepy_Time_FX'
+    ReferencedTextures[57] = Texture2D'/Game/Weapons/FORT_Melee/Pickaxe_Viper/Textures/T_Pickaxe_Viper_FX.T_Pickaxe_Viper_FX'
+    ReferencedTextures[58] = Texture2D'/Game/Weapons/FORT_Melee/Textures/FortniteRainbow.FortniteRainbow'
+    ReferencedTextures[59] = Texture2D'/Game/Weapons/FORT_Shotguns/Textures/T_HammerShotGun_D.T_HammerShotGun_D'
+    ReferencedTextures[60] = Texture2D'/Game/Weapons/FORT_Shotguns/Textures/T_HammerShotGun_N.T_HammerShotGun_N'
+    ReferencedTextures[61] = Texture2D'/Game/Weapons/FORT_Shotguns/Textures/T_HammerShotGun_S.T_HammerShotGun_S'
+    ReferencedTextures[62] = Texture2D'/Game/Weapons/Fort_Traps/BouncePad/Textures/T_BouncePad_M_BouncePad_FX.T_BouncePad_M_BouncePad_FX'
+    ReferencedTextures[63] = Texture2D'/Game/Weapons/Fort_Traps/General/T_Black.T_Black'
+    ReferencedTextures[64] = Texture2D'/Game/Weapons/Fort_Traps/Trap_Jump_FullTile/Textures/T_BouncePad_MI_Floor_Jump_FullTile_FX.T_BouncePad_MI_Floor_Jump_FullTile_FX'
+    ReferencedTextures[65] = Texture2D'/Game/Weapons/WeaponSkins/Textures/DiscoFloors_M.DiscoFloors_M'
+    ReferencedTextures[66] = Texture2D'/Game/Weapons/WeaponSkins/Textures/DiscoFloors_N.DiscoFloors_N'
+    ReferencedTextures[67] = Texture2D'/Game/Weapons/WeaponSkins/Textures/DiscoTiles_M.DiscoTiles_M'
+    ReferencedTextures[68] = Texture2D'/Game/Weapons/WeaponSkins/Textures/DiscoTiles_N.DiscoTiles_N'
+    ReferencedTextures[69] = Texture2D'/Game/Weapons/WeaponSkins/Textures/Scanlines_Offset.Scanlines_Offset'
+    ReferencedTextures[70] = Texture2D'/Game/Weapons/WeaponSkins/Textures/Snow_N.Snow_N'
+    ReferencedTextures[71] = Texture2D'/Game/Weapons/WeaponSkins/Textures/SnowFlakeTest.SnowFlakeTest'
+    ReferencedTextures[72] = Texture2D'/Game/Weapons/WeaponSkins/Textures/SnowFlakeTest_normal.SnowFlakeTest_normal'
+    ReferencedTextures[73] = Texture2D'/Game/Weapons/WeaponSkins/Textures/SpiritGradient.SpiritGradient'
+    ReferencedTextures[74] = Texture2D'/Game/Weapons/WeaponSkins/Textures/StoneNormal.StoneNormal'
+    ReferencedTextures[75] = Texture2D'/Game/Weapons/WeaponSkins/Textures/T_BlackBodyGradient.T_BlackBodyGradient'
+    ReferencedTextures[76] = Texture2D'/Game/Weapons/WeaponSkins/Textures/T_DiamondPattern_N.T_DiamondPattern_N'
+    ReferencedTextures[77] = Texture2D'/Game/Weapons/WeaponSkins/Textures/T_DiamondPattern_RandomVector.T_DiamondPattern_RandomVector'
+    ReferencedTextures[78] = Texture2D'/Game/Weapons/WeaponSkins/Textures/T_ElementalWeapon_Ice_Gradient.T_ElementalWeapon_Ice_Gradient'
+    ReferencedTextures[79] = Texture2D'/Game/Weapons/WeaponSkins/Textures/T_FN_FluffyCloth.T_FN_FluffyCloth'
+    ReferencedTextures[80] = Texture2D'/Game/Weapons/WeaponSkins/Textures/T_Fuzz_MASK.T_Fuzz_MASK'
+    ReferencedTextures[81] = Texture2D'/Game/Weapons/WeaponSkins/Textures/T_Swirly_Noise_highContrast.T_Swirly_Noise_highContrast'
+    ReferencedTextures[82] = Texture2D'/Game/Weapons/WeaponSkins/Textures/T_Swirly_Noise_highContrast1.T_Swirly_Noise_highContrast1'
+    ReferencedTextures[83] = Texture2D'/Game/Weapons/WeaponSkins/Textures/T_ThinFilm_Spectrum_COLOR.T_ThinFilm_Spectrum_COLOR'
+    ReferencedTextures[84] = Texture2D'/Game/Weapons/WeaponSkins/Textures/T_VertGradient.T_VertGradient'
+    ReferencedTextures[85] = Texture2D'/Game/Weapons/WeaponSkins/Textures/T_VertGradient_MASK.T_VertGradient_MASK'
+    ReferencedTextures[86] = Texture2D'/Game/Weapons/WeaponSkins/Wraps/Textures/LineSwirl/T_Wrap_LineSwirl_M2.T_Wrap_LineSwirl_M2'
+    ReferencedTextures[87] = TextureCube4'/Game/Packages/Fortress_Sky/TexturesHDR/T_AthenaSkylight_LowRes1.T_AthenaSkylight_LowRes1'
+}
+Expressions[0] = {}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Opaque (0)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[0] = {}
+CollectedScalarParameters[0] = {}
+CollectedVectorParameters[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

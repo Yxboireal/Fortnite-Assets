@@ -1,0 +1,26 @@
+Materials[1] =
+{
+    Materials[0] = MaterialInstanceConstant'/Game/Gadgets/Assets/Goop/Materials/MI_Goop_Particle_Idle_01.MI_Goop_Particle_Idle_01'
+}
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = MaterialInstanceConstant'/Game/Gadgets/Assets/Goop/Materials/MI_Goop_Particle_Idle_01.MI_Goop_Particle_Idle_01'
+        MaterialSlotName = Low
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 53.192, 0, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=0, Y=0, Z=0 }
+    BoxExtent = { X=2.88497, Y=2.16996, Z=2.15997 }
+    SphereRadius = 4.20681
+}

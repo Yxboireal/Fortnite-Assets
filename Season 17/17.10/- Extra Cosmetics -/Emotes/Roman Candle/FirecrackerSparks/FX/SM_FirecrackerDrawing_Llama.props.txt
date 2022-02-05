@@ -1,0 +1,26 @@
+Materials[1] =
+{
+    Materials[0] = Material3'/Game/Animation/Game/MainPlayer/Emotes/FirecrackerSparks/FX/M_FirecrackerEmoteShape.M_FirecrackerEmoteShape'
+}
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = Material3'/Game/Animation/Game/MainPlayer/Emotes/FirecrackerSparks/FX/M_FirecrackerEmoteShape.M_FirecrackerEmoteShape'
+        MaterialSlotName = Material_001
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 154.008, 0, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=1.27831, Y=-9.86102, Z=16.0782 }
+    BoxExtent = { X=11.9007, Y=137.487, Z=150.161 }
+    SphereRadius = 202.795
+}

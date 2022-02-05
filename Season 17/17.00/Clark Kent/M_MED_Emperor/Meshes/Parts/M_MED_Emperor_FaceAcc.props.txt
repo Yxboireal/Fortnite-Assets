@@ -1,0 +1,94 @@
+Skeleton = Skeleton'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Emperor/Meshes/Parts/M_MED_Emperor_FaceAcc_Skeleton.M_MED_Emperor_FaceAcc_Skeleton'
+bHasVertexColors = false
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[16] =
+        {
+            BonesToRemove[0] = { BoneName=faceAttach }
+            BonesToRemove[1] = { BoneName=C_brow_mid }
+            BonesToRemove[2] = { BoneName=L_brow_mid }
+            BonesToRemove[3] = { BoneName=L_brow_outer }
+            BonesToRemove[4] = { BoneName=L_cheek_inner }
+            BonesToRemove[5] = { BoneName=R_brow_mid }
+            BonesToRemove[6] = { BoneName=R_brow_outer }
+            BonesToRemove[7] = { BoneName=R_cheek_inner }
+            BonesToRemove[8] = { BoneName=C_jaw }
+            BonesToRemove[9] = { BoneName=dyn_hair_curl_01 }
+            BonesToRemove[10] = { BoneName=dyn_hair_curl_02 }
+            BonesToRemove[11] = { BoneName=dyn_hair_curl_03 }
+            BonesToRemove[12] = { BoneName=dyn_hair_curl_04 }
+            BonesToRemove[13] = { BoneName=dyn_hair_bang_01 }
+            BonesToRemove[14] = { BoneName=dyn_hair_cowlick_01 }
+            BonesToRemove[15] = { BoneName=dyn_hair_cowlick_02 }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[16] =
+        {
+            BonesToRemove[0] = { BoneName=faceAttach }
+            BonesToRemove[1] = { BoneName=C_brow_mid }
+            BonesToRemove[2] = { BoneName=L_brow_mid }
+            BonesToRemove[3] = { BoneName=L_brow_outer }
+            BonesToRemove[4] = { BoneName=L_cheek_inner }
+            BonesToRemove[5] = { BoneName=R_brow_mid }
+            BonesToRemove[6] = { BoneName=R_brow_outer }
+            BonesToRemove[7] = { BoneName=R_cheek_inner }
+            BonesToRemove[8] = { BoneName=C_jaw }
+            BonesToRemove[9] = { BoneName=dyn_hair_curl_01 }
+            BonesToRemove[10] = { BoneName=dyn_hair_curl_02 }
+            BonesToRemove[11] = { BoneName=dyn_hair_curl_03 }
+            BonesToRemove[12] = { BoneName=dyn_hair_curl_04 }
+            BonesToRemove[13] = { BoneName=dyn_hair_bang_01 }
+            BonesToRemove[14] = { BoneName=dyn_hair_cowlick_01 }
+            BonesToRemove[15] = { BoneName=dyn_hair_cowlick_02 }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

@@ -1,0 +1,90 @@
+Skeleton = Skeleton'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dark_Viking_Fire/Meshes/Parts/M_MED_Dark_Viking_Fire_FaceAcc_Skeleton.M_MED_Dark_Viking_Fire_FaceAcc_Skeleton'
+bHasVertexColors = false
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[14] =
+        {
+            BonesToRemove[0] = { BoneName=head_offset }
+            BonesToRemove[1] = { BoneName=dyn_parent_hair_bck_01 }
+            BonesToRemove[2] = { BoneName=dyn_driver_hair_bck_01 }
+            BonesToRemove[3] = { BoneName=dyn_hair_bck_01 }
+            BonesToRemove[4] = { BoneName=dyn_hair_bck_02 }
+            BonesToRemove[5] = { BoneName=dyn_beardBraid_01_c }
+            BonesToRemove[6] = { BoneName=dyn_beardBraid_02_c }
+            BonesToRemove[7] = { BoneName=dyn_beardBraid_03_c }
+            BonesToRemove[8] = { BoneName=dyn_beardBraid_01_l }
+            BonesToRemove[9] = { BoneName=dyn_beardBraid_02_l }
+            BonesToRemove[10] = { BoneName=dyn_beardBraid_01_r }
+            BonesToRemove[11] = { BoneName=dyn_beardBraid_02_r }
+            BonesToRemove[12] = { BoneName=dyn_beard_01 }
+            BonesToRemove[13] = { BoneName=dyn_neck_hair }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[14] =
+        {
+            BonesToRemove[0] = { BoneName=head_offset }
+            BonesToRemove[1] = { BoneName=dyn_parent_hair_bck_01 }
+            BonesToRemove[2] = { BoneName=dyn_driver_hair_bck_01 }
+            BonesToRemove[3] = { BoneName=dyn_hair_bck_01 }
+            BonesToRemove[4] = { BoneName=dyn_hair_bck_02 }
+            BonesToRemove[5] = { BoneName=dyn_beardBraid_01_c }
+            BonesToRemove[6] = { BoneName=dyn_beardBraid_02_c }
+            BonesToRemove[7] = { BoneName=dyn_beardBraid_03_c }
+            BonesToRemove[8] = { BoneName=dyn_beardBraid_01_l }
+            BonesToRemove[9] = { BoneName=dyn_beardBraid_02_l }
+            BonesToRemove[10] = { BoneName=dyn_beardBraid_01_r }
+            BonesToRemove[11] = { BoneName=dyn_beardBraid_02_r }
+            BonesToRemove[12] = { BoneName=dyn_beard_01 }
+            BonesToRemove[13] = { BoneName=dyn_neck_hair }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

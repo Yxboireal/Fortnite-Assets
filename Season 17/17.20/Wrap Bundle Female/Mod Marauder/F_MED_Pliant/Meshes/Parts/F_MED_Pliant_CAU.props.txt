@@ -1,0 +1,86 @@
+Skeleton = Skeleton'/Game/Characters/Player/Female/Medium/Bodies/F_MED_Pliant_CAU/Meshes/Parts/F_MED_Pliant_CAU_Skeleton.F_MED_Pliant_CAU_Skeleton'
+bHasVertexColors = false
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[12] =
+        {
+            BonesToRemove[0] = { BoneName=cau1_hair }
+            BonesToRemove[1] = { BoneName=cau1_hair_c }
+            BonesToRemove[2] = { BoneName=cau1_hair_b }
+            BonesToRemove[3] = { BoneName=cau1_hair_d }
+            BonesToRemove[4] = { BoneName=cau1_hair_f }
+            BonesToRemove[5] = { BoneName=cau1_hair_h }
+            BonesToRemove[6] = { BoneName=cau1_hair_i }
+            BonesToRemove[7] = { BoneName=cau1_hair_g }
+            BonesToRemove[8] = { BoneName=cau1_hair_e }
+            BonesToRemove[9] = { BoneName=cau1_hairMain_a }
+            BonesToRemove[10] = { BoneName=cau1_hair_a }
+            BonesToRemove[11] = { BoneName=dyn_collar }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[12] =
+        {
+            BonesToRemove[0] = { BoneName=cau1_hair }
+            BonesToRemove[1] = { BoneName=cau1_hair_c }
+            BonesToRemove[2] = { BoneName=cau1_hair_b }
+            BonesToRemove[3] = { BoneName=cau1_hair_d }
+            BonesToRemove[4] = { BoneName=cau1_hair_f }
+            BonesToRemove[5] = { BoneName=cau1_hair_h }
+            BonesToRemove[6] = { BoneName=cau1_hair_i }
+            BonesToRemove[7] = { BoneName=cau1_hair_g }
+            BonesToRemove[8] = { BoneName=cau1_hair_e }
+            BonesToRemove[9] = { BoneName=cau1_hairMain_a }
+            BonesToRemove[10] = { BoneName=cau1_hair_a }
+            BonesToRemove[11] = { BoneName=dyn_collar }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

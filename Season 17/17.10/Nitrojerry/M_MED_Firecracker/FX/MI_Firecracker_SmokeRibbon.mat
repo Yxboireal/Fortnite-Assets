@@ -1,0 +1,8 @@
+Diffuse=T_Hightower_Ribbon_Color
+Opacity=T_Smoke_Trail_Soft
+Other[0]=LowResBlurredNoise
+Other[1]=MotionBlur
+Other[2]=T_Hightower_Ribbon_Macro
+Other[3]=T_Dudebro_Noise_01
+Other[4]=T_CellularNoise
+Other[5]=AtmosphericCloudNoise01

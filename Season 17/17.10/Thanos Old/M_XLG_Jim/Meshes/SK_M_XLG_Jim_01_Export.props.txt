@@ -1,0 +1,240 @@
+Skeleton = Skeleton'/Game/Characters/Player/Male/XLarge/Bodies/M_XLG_Jim_01/Meshes/SK_M_XLG_Jim_01_Export_Skeleton.SK_M_XLG_Jim_01_Export_Skeleton'
+bHasVertexColors = true
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[64] =
+        {
+            BonesToRemove[0] = { BoneName=Flap_Back_Parent_Space }
+            BonesToRemove[1] = { BoneName=Flap_Back_Driven_Bone }
+            BonesToRemove[2] = { BoneName=dyn_Flap_Back }
+            BonesToRemove[3] = { BoneName=Flap_Front_Parent_Space }
+            BonesToRemove[4] = { BoneName=Flap_Front_Driven_Bone }
+            BonesToRemove[5] = { BoneName=dyn_Flap_Front }
+            BonesToRemove[6] = { BoneName=Flap_Left_Parent_Space }
+            BonesToRemove[7] = { BoneName=Flap_Left_Driven_Bone }
+            BonesToRemove[8] = { BoneName=dyn_Flap_Left }
+            BonesToRemove[9] = { BoneName=Flap_Right_Parent_Space }
+            BonesToRemove[10] = { BoneName=Flap_Right_Driven_Bone }
+            BonesToRemove[11] = { BoneName=dyn_Flap_Right }
+            BonesToRemove[12] = { BoneName=index_metacarpal_l }
+            BonesToRemove[13] = { BoneName=index_01_l }
+            BonesToRemove[14] = { BoneName=index_02_l }
+            BonesToRemove[15] = { BoneName=index_03_l }
+            BonesToRemove[16] = { BoneName=middle_metacarpal_l }
+            BonesToRemove[17] = { BoneName=middle_01_l }
+            BonesToRemove[18] = { BoneName=middle_02_l }
+            BonesToRemove[19] = { BoneName=middle_03_l }
+            BonesToRemove[20] = { BoneName=pinky_metacarpal_l }
+            BonesToRemove[21] = { BoneName=pinky_01_l }
+            BonesToRemove[22] = { BoneName=pinky_02_l }
+            BonesToRemove[23] = { BoneName=pinky_03_l }
+            BonesToRemove[24] = { BoneName=ring_metacarpal_l }
+            BonesToRemove[25] = { BoneName=ring_01_l }
+            BonesToRemove[26] = { BoneName=ring_02_l }
+            BonesToRemove[27] = { BoneName=ring_03_l }
+            BonesToRemove[28] = { BoneName=thumb_01_l }
+            BonesToRemove[29] = { BoneName=thumb_02_l }
+            BonesToRemove[30] = { BoneName=thumb_03_l }
+            BonesToRemove[31] = { BoneName=lowerarm_twist_01_l }
+            BonesToRemove[32] = { BoneName=lowerarm_twist_02_l }
+            BonesToRemove[33] = { BoneName=upperarm_twist_01_l }
+            BonesToRemove[34] = { BoneName=upperarm_twist_02_l }
+            BonesToRemove[35] = { BoneName=index_metacarpal_r }
+            BonesToRemove[36] = { BoneName=index_01_r }
+            BonesToRemove[37] = { BoneName=index_02_r }
+            BonesToRemove[38] = { BoneName=index_03_r }
+            BonesToRemove[39] = { BoneName=middle_metacarpal_r }
+            BonesToRemove[40] = { BoneName=middle_01_r }
+            BonesToRemove[41] = { BoneName=middle_02_r }
+            BonesToRemove[42] = { BoneName=middle_03_r }
+            BonesToRemove[43] = { BoneName=pinky_metacarpal_r }
+            BonesToRemove[44] = { BoneName=pinky_01_r }
+            BonesToRemove[45] = { BoneName=pinky_02_r }
+            BonesToRemove[46] = { BoneName=pinky_03_r }
+            BonesToRemove[47] = { BoneName=ring_metacarpal_r }
+            BonesToRemove[48] = { BoneName=ring_01_r }
+            BonesToRemove[49] = { BoneName=ring_02_r }
+            BonesToRemove[50] = { BoneName=ring_03_r }
+            BonesToRemove[51] = { BoneName=thumb_01_r }
+            BonesToRemove[52] = { BoneName=thumb_02_r }
+            BonesToRemove[53] = { BoneName=thumb_03_r }
+            BonesToRemove[54] = { BoneName=lowerarm_twist_01_r }
+            BonesToRemove[55] = { BoneName=lowerarm_twist_02_r }
+            BonesToRemove[56] = { BoneName=upperarm_twist_01_r }
+            BonesToRemove[57] = { BoneName=upperarm_twist_02_r }
+            BonesToRemove[58] = { BoneName=calf_twist_01_l }
+            BonesToRemove[59] = { BoneName=calf_twist_02_l }
+            BonesToRemove[60] = { BoneName=thigh_twist_01_l }
+            BonesToRemove[61] = { BoneName=calf_twist_01_r }
+            BonesToRemove[62] = { BoneName=calf_twist_02_r }
+            BonesToRemove[63] = { BoneName=thigh_twist_01_r }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[64] =
+        {
+            BonesToRemove[0] = { BoneName=Flap_Back_Parent_Space }
+            BonesToRemove[1] = { BoneName=Flap_Back_Driven_Bone }
+            BonesToRemove[2] = { BoneName=dyn_Flap_Back }
+            BonesToRemove[3] = { BoneName=Flap_Front_Parent_Space }
+            BonesToRemove[4] = { BoneName=Flap_Front_Driven_Bone }
+            BonesToRemove[5] = { BoneName=dyn_Flap_Front }
+            BonesToRemove[6] = { BoneName=Flap_Left_Parent_Space }
+            BonesToRemove[7] = { BoneName=Flap_Left_Driven_Bone }
+            BonesToRemove[8] = { BoneName=dyn_Flap_Left }
+            BonesToRemove[9] = { BoneName=Flap_Right_Parent_Space }
+            BonesToRemove[10] = { BoneName=Flap_Right_Driven_Bone }
+            BonesToRemove[11] = { BoneName=dyn_Flap_Right }
+            BonesToRemove[12] = { BoneName=index_metacarpal_l }
+            BonesToRemove[13] = { BoneName=index_01_l }
+            BonesToRemove[14] = { BoneName=index_02_l }
+            BonesToRemove[15] = { BoneName=index_03_l }
+            BonesToRemove[16] = { BoneName=middle_metacarpal_l }
+            BonesToRemove[17] = { BoneName=middle_01_l }
+            BonesToRemove[18] = { BoneName=middle_02_l }
+            BonesToRemove[19] = { BoneName=middle_03_l }
+            BonesToRemove[20] = { BoneName=pinky_metacarpal_l }
+            BonesToRemove[21] = { BoneName=pinky_01_l }
+            BonesToRemove[22] = { BoneName=pinky_02_l }
+            BonesToRemove[23] = { BoneName=pinky_03_l }
+            BonesToRemove[24] = { BoneName=ring_metacarpal_l }
+            BonesToRemove[25] = { BoneName=ring_01_l }
+            BonesToRemove[26] = { BoneName=ring_02_l }
+            BonesToRemove[27] = { BoneName=ring_03_l }
+            BonesToRemove[28] = { BoneName=thumb_01_l }
+            BonesToRemove[29] = { BoneName=thumb_02_l }
+            BonesToRemove[30] = { BoneName=thumb_03_l }
+            BonesToRemove[31] = { BoneName=lowerarm_twist_01_l }
+            BonesToRemove[32] = { BoneName=lowerarm_twist_02_l }
+            BonesToRemove[33] = { BoneName=upperarm_twist_01_l }
+            BonesToRemove[34] = { BoneName=upperarm_twist_02_l }
+            BonesToRemove[35] = { BoneName=index_metacarpal_r }
+            BonesToRemove[36] = { BoneName=index_01_r }
+            BonesToRemove[37] = { BoneName=index_02_r }
+            BonesToRemove[38] = { BoneName=index_03_r }
+            BonesToRemove[39] = { BoneName=middle_metacarpal_r }
+            BonesToRemove[40] = { BoneName=middle_01_r }
+            BonesToRemove[41] = { BoneName=middle_02_r }
+            BonesToRemove[42] = { BoneName=middle_03_r }
+            BonesToRemove[43] = { BoneName=pinky_metacarpal_r }
+            BonesToRemove[44] = { BoneName=pinky_01_r }
+            BonesToRemove[45] = { BoneName=pinky_02_r }
+            BonesToRemove[46] = { BoneName=pinky_03_r }
+            BonesToRemove[47] = { BoneName=ring_metacarpal_r }
+            BonesToRemove[48] = { BoneName=ring_01_r }
+            BonesToRemove[49] = { BoneName=ring_02_r }
+            BonesToRemove[50] = { BoneName=ring_03_r }
+            BonesToRemove[51] = { BoneName=thumb_01_r }
+            BonesToRemove[52] = { BoneName=thumb_02_r }
+            BonesToRemove[53] = { BoneName=thumb_03_r }
+            BonesToRemove[54] = { BoneName=lowerarm_twist_01_r }
+            BonesToRemove[55] = { BoneName=lowerarm_twist_02_r }
+            BonesToRemove[56] = { BoneName=upperarm_twist_01_r }
+            BonesToRemove[57] = { BoneName=upperarm_twist_02_r }
+            BonesToRemove[58] = { BoneName=calf_twist_01_l }
+            BonesToRemove[59] = { BoneName=calf_twist_02_l }
+            BonesToRemove[60] = { BoneName=thigh_twist_01_l }
+            BonesToRemove[61] = { BoneName=calf_twist_01_r }
+            BonesToRemove[62] = { BoneName=calf_twist_02_r }
+            BonesToRemove[63] = { BoneName=thigh_twist_01_r }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[6] =
+{
+    Sockets[0] =
+    {
+        SocketName = gem_yellow
+        BoneName = thumb_01_l
+        RelativeLocation = { X=7.74261, Y=5.60592, Z=-0.857504 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[1] =
+    {
+        SocketName = gem_orange
+        BoneName = hand_l
+        RelativeLocation = { X=10.7404, Y=1.46902, Z=8.95551 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[2] =
+    {
+        SocketName = gem_red
+        BoneName = hand_l
+        RelativeLocation = { X=12.1091, Y=3.34404, Z=4.13673 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[3] =
+    {
+        SocketName = gem_purple
+        BoneName = hand_l
+        RelativeLocation = { X=11.5644, Y=4.71991, Z=-6.26892 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[4] =
+    {
+        SocketName = gem_green
+        BoneName = hand_l
+        RelativeLocation = { X=4.48377, Y=3.69337, Z=1.15207 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[5] =
+    {
+        SocketName = gem_blue
+        BoneName = hand_l
+        RelativeLocation = { X=11.698, Y=5.43823, Z=-0.748476 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

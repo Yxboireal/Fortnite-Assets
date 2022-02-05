@@ -1,0 +1,10 @@
+Diffuse=RT4x4_1_Tex
+Normal=SphereRenderNormalsMap
+Other[0]=127grey
+Other[1]=flipbook
+Other[2]=RT4x4_3_Tex
+Other[3]=RT4x4_4_Tex
+Other[4]=RT4x4_5_Tex
+Other[5]=Vector_OF
+Other[6]=T_Blowing_Smoke_Pattern2_Tile_DISP
+Other[7]=T_Noise02

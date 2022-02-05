@@ -1,0 +1,5 @@
+Diffuse=DefaultDiffuse
+Normal=BaseFlattenNormalMap
+Other[0]=DefaultNormal_Uncompressed
+Other[1]=T_SlurpBubble
+Other[2]=T_SlurpBubble_N

@@ -1,0 +1,62 @@
+Skeleton = Skeleton'/Game/Characters/Player/Female/Medium/Bodies/F_MED_BandageNinja/Meshes/Parts/F_MED_Bandage_Ninja_FaceAcc_Skeleton.F_MED_Bandage_Ninja_FaceAcc_Skeleton'
+bHasVertexColors = false
+LODInfo[3] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[12] =
+        {
+            BonesToRemove[0] = { BoneName=ponytail_base }
+            BonesToRemove[1] = { BoneName=ponytail_A }
+            BonesToRemove[2] = { BoneName=ponytail_B }
+            BonesToRemove[3] = { BoneName=ponytail_C }
+            BonesToRemove[4] = { BoneName=ponytail_D }
+            BonesToRemove[5] = { BoneName=ponytail_E }
+            BonesToRemove[6] = { BoneName=ponytail_F }
+            BonesToRemove[7] = { BoneName=ponytail_G }
+            BonesToRemove[8] = { BoneName=dyn_bangs_01_r }
+            BonesToRemove[9] = { BoneName=dyn_bangs_02_r }
+            BonesToRemove[10] = { BoneName=dyn_bangs_01_l }
+            BonesToRemove[11] = { BoneName=dyn_bangs_02_l }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[3] = { , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

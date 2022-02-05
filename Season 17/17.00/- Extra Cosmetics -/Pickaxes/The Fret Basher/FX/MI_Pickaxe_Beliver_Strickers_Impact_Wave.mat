@@ -1,0 +1,5 @@
+Diffuse=DefaultTexture
+Emissive=T_Vert_Gradient_Soft
+Other[0]=T_Inky_Smoke_Tile
+Other[1]=T_Husk_Tornado_Ramp
+Other[2]=RefractionNoise

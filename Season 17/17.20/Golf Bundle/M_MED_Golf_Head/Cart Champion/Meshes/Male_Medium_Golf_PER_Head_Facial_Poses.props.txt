@@ -1,0 +1,3984 @@
+NumFrames = 59
+KeyEncodingFormat = AKF_VariableKeyLerp (1)
+TranslationCompressionFormat = ACF_None (0)
+RotationCompressionFormat = ACF_Float96NoW (1)
+ScaleCompressionFormat = ACF_None (0)
+CompressedTrackOffsets[0] = {}
+CompressedScaleOffsets =
+{
+    OffsetData[230] =
+    {
+        OffsetData[0] = 24
+        OffsetData[1] = 1
+        OffsetData[2] = 60
+        OffsetData[3] = 1
+        OffsetData[4] = 96
+        OffsetData[5] = 1
+        OffsetData[6] = 132
+        OffsetData[7] = 1
+        OffsetData[8] = 168
+        OffsetData[9] = 1
+        OffsetData[10] = 204
+        OffsetData[11] = 1
+        OffsetData[12] = 240
+        OffsetData[13] = 1
+        OffsetData[14] = 276
+        OffsetData[15] = 1
+        OffsetData[16] = 312
+        OffsetData[17] = 1
+        OffsetData[18] = 348
+        OffsetData[19] = 1
+        OffsetData[20] = 384
+        OffsetData[21] = 1
+        OffsetData[22] = 420
+        OffsetData[23] = 1
+        OffsetData[24] = 456
+        OffsetData[25] = 1
+        OffsetData[26] = 492
+        OffsetData[27] = 1
+        OffsetData[28] = 528
+        OffsetData[29] = 1
+        OffsetData[30] = 564
+        OffsetData[31] = 1
+        OffsetData[32] = 600
+        OffsetData[33] = 1
+        OffsetData[34] = 636
+        OffsetData[35] = 1
+        OffsetData[36] = 672
+        OffsetData[37] = 1
+        OffsetData[38] = 708
+        OffsetData[39] = 1
+        OffsetData[40] = 744
+        OffsetData[41] = 1
+        OffsetData[42] = 780
+        OffsetData[43] = 1
+        OffsetData[44] = 816
+        OffsetData[45] = 1
+        OffsetData[46] = 852
+        OffsetData[47] = 1
+        OffsetData[48] = 888
+        OffsetData[49] = 1
+        OffsetData[50] = 924
+        OffsetData[51] = 1
+        OffsetData[52] = 960
+        OffsetData[53] = 1
+        OffsetData[54] = 996
+        OffsetData[55] = 1
+        OffsetData[56] = 1032
+        OffsetData[57] = 1
+        OffsetData[58] = 1068
+        OffsetData[59] = 1
+        OffsetData[60] = 1104
+        OffsetData[61] = 1
+        OffsetData[62] = 1140
+        OffsetData[63] = 1
+        OffsetData[64] = 1176
+        OffsetData[65] = 1
+        OffsetData[66] = 1212
+        OffsetData[67] = 1
+        OffsetData[68] = 1248
+        OffsetData[69] = 1
+        OffsetData[70] = 1284
+        OffsetData[71] = 1
+        OffsetData[72] = 1320
+        OffsetData[73] = 1
+        OffsetData[74] = 1356
+        OffsetData[75] = 1
+        OffsetData[76] = 1392
+        OffsetData[77] = 1
+        OffsetData[78] = 1428
+        OffsetData[79] = 1
+        OffsetData[80] = 1464
+        OffsetData[81] = 1
+        OffsetData[82] = 1500
+        OffsetData[83] = 1
+        OffsetData[84] = 1536
+        OffsetData[85] = 1
+        OffsetData[86] = 1572
+        OffsetData[87] = 1
+        OffsetData[88] = 1608
+        OffsetData[89] = 1
+        OffsetData[90] = 1644
+        OffsetData[91] = 1
+        OffsetData[92] = 1680
+        OffsetData[93] = 1
+        OffsetData[94] = 1716
+        OffsetData[95] = 1
+        OffsetData[96] = 1752
+        OffsetData[97] = 1
+        OffsetData[98] = 1788
+        OffsetData[99] = 1
+        OffsetData[100] = 1824
+        OffsetData[101] = 1
+        OffsetData[102] = 1860
+        OffsetData[103] = 1
+        OffsetData[104] = 1896
+        OffsetData[105] = 1
+        OffsetData[106] = 1932
+        OffsetData[107] = 1
+        OffsetData[108] = 1968
+        OffsetData[109] = 1
+        OffsetData[110] = 2004
+        OffsetData[111] = 1
+        OffsetData[112] = 2040
+        OffsetData[113] = 1
+        OffsetData[114] = 2076
+        OffsetData[115] = 1
+        OffsetData[116] = 2112
+        OffsetData[117] = 1
+        OffsetData[118] = 2148
+        OffsetData[119] = 1
+        OffsetData[120] = 2184
+        OffsetData[121] = 1
+        OffsetData[122] = 2220
+        OffsetData[123] = 1
+        OffsetData[124] = 2256
+        OffsetData[125] = 1
+        OffsetData[126] = 2292
+        OffsetData[127] = 1
+        OffsetData[128] = 2328
+        OffsetData[129] = 1
+        OffsetData[130] = 2364
+        OffsetData[131] = 1
+        OffsetData[132] = 2400
+        OffsetData[133] = 1
+        OffsetData[134] = 2436
+        OffsetData[135] = 1
+        OffsetData[136] = 2772
+        OffsetData[137] = 3
+        OffsetData[138] = 3284
+        OffsetData[139] = 8
+        OffsetData[140] = 3728
+        OffsetData[141] = 5
+        OffsetData[142] = 4124
+        OffsetData[143] = 8
+        OffsetData[144] = 4932
+        OffsetData[145] = 12
+        OffsetData[146] = 5860
+        OffsetData[147] = 14
+        OffsetData[148] = 6552
+        OffsetData[149] = 5
+        OffsetData[150] = 6756
+        OffsetData[151] = 5
+        OffsetData[152] = 7296
+        OffsetData[153] = 5
+        OffsetData[154] = 7744
+        OffsetData[155] = 5
+        OffsetData[156] = 8192
+        OffsetData[157] = 8
+        OffsetData[158] = 8896
+        OffsetData[159] = 5
+        OffsetData[160] = 9436
+        OffsetData[161] = 1
+        OffsetData[162] = 10244
+        OffsetData[163] = 14
+        OffsetData[164] = 11212
+        OffsetData[165] = 8
+        OffsetData[166] = 12112
+        OffsetData[167] = 15
+        OffsetData[168] = 12332
+        OffsetData[169] = 1
+        OffsetData[170] = 12688
+        OffsetData[171] = 8
+        OffsetData[172] = 13084
+        OffsetData[173] = 1
+        OffsetData[174] = 13672
+        OffsetData[175] = 1
+        OffsetData[176] = 14180
+        OffsetData[177] = 5
+        OffsetData[178] = 14540
+        OffsetData[179] = 1
+        OffsetData[180] = 15176
+        OffsetData[181] = 1
+        OffsetData[182] = 15844
+        OffsetData[183] = 5
+        OffsetData[184] = 15936
+        OffsetData[185] = 1
+        OffsetData[186] = 16720
+        OffsetData[187] = 12
+        OffsetData[188] = 16900
+        OffsetData[189] = 1
+        OffsetData[190] = 16936
+        OffsetData[191] = 1
+        OffsetData[192] = 16972
+        OffsetData[193] = 1
+        OffsetData[194] = 17008
+        OffsetData[195] = 1
+        OffsetData[196] = 17044
+        OffsetData[197] = 1
+        OffsetData[198] = 17080
+        OffsetData[199] = 1
+        OffsetData[200] = 17116
+        OffsetData[201] = 1
+        OffsetData[202] = 17152
+        OffsetData[203] = 1
+        OffsetData[204] = 17188
+        OffsetData[205] = 1
+        OffsetData[206] = 17224
+        OffsetData[207] = 1
+        OffsetData[208] = 17260
+        OffsetData[209] = 1
+        OffsetData[210] = 17296
+        OffsetData[211] = 1
+        OffsetData[212] = 17332
+        OffsetData[213] = 1
+        OffsetData[214] = 17368
+        OffsetData[215] = 1
+        OffsetData[216] = 17404
+        OffsetData[217] = 1
+        OffsetData[218] = 17440
+        OffsetData[219] = 1
+        OffsetData[220] = 17476
+        OffsetData[221] = 1
+        OffsetData[222] = 17512
+        OffsetData[223] = 1
+        OffsetData[224] = 17548
+        OffsetData[225] = 1
+        OffsetData[226] = 17584
+        OffsetData[227] = 1
+        OffsetData[228] = 17620
+        OffsetData[229] = 1
+    }
+    StripSize = 2
+}
+TrackToSkeletonMapTable[115] =
+{
+    TrackToSkeletonMapTable[0] = { BoneTreeIndex=0 }
+    TrackToSkeletonMapTable[1] = { BoneTreeIndex=1 }
+    TrackToSkeletonMapTable[2] = { BoneTreeIndex=2 }
+    TrackToSkeletonMapTable[3] = { BoneTreeIndex=3 }
+    TrackToSkeletonMapTable[4] = { BoneTreeIndex=4 }
+    TrackToSkeletonMapTable[5] = { BoneTreeIndex=5 }
+    TrackToSkeletonMapTable[6] = { BoneTreeIndex=6 }
+    TrackToSkeletonMapTable[7] = { BoneTreeIndex=7 }
+    TrackToSkeletonMapTable[8] = { BoneTreeIndex=8 }
+    TrackToSkeletonMapTable[9] = { BoneTreeIndex=111 }
+    TrackToSkeletonMapTable[10] = { BoneTreeIndex=112 }
+    TrackToSkeletonMapTable[11] = { BoneTreeIndex=113 }
+    TrackToSkeletonMapTable[12] = { BoneTreeIndex=114 }
+    TrackToSkeletonMapTable[13] = { BoneTreeIndex=115 }
+    TrackToSkeletonMapTable[14] = { BoneTreeIndex=116 }
+    TrackToSkeletonMapTable[15] = { BoneTreeIndex=117 }
+    TrackToSkeletonMapTable[16] = { BoneTreeIndex=118 }
+    TrackToSkeletonMapTable[17] = { BoneTreeIndex=119 }
+    TrackToSkeletonMapTable[18] = { BoneTreeIndex=120 }
+    TrackToSkeletonMapTable[19] = { BoneTreeIndex=121 }
+    TrackToSkeletonMapTable[20] = { BoneTreeIndex=122 }
+    TrackToSkeletonMapTable[21] = { BoneTreeIndex=123 }
+    TrackToSkeletonMapTable[22] = { BoneTreeIndex=124 }
+    TrackToSkeletonMapTable[23] = { BoneTreeIndex=125 }
+    TrackToSkeletonMapTable[24] = { BoneTreeIndex=126 }
+    TrackToSkeletonMapTable[25] = { BoneTreeIndex=127 }
+    TrackToSkeletonMapTable[26] = { BoneTreeIndex=128 }
+    TrackToSkeletonMapTable[27] = { BoneTreeIndex=129 }
+    TrackToSkeletonMapTable[28] = { BoneTreeIndex=130 }
+    TrackToSkeletonMapTable[29] = { BoneTreeIndex=131 }
+    TrackToSkeletonMapTable[30] = { BoneTreeIndex=132 }
+    TrackToSkeletonMapTable[31] = { BoneTreeIndex=133 }
+    TrackToSkeletonMapTable[32] = { BoneTreeIndex=134 }
+    TrackToSkeletonMapTable[33] = { BoneTreeIndex=135 }
+    TrackToSkeletonMapTable[34] = { BoneTreeIndex=136 }
+    TrackToSkeletonMapTable[35] = { BoneTreeIndex=137 }
+    TrackToSkeletonMapTable[36] = { BoneTreeIndex=9 }
+    TrackToSkeletonMapTable[37] = { BoneTreeIndex=138 }
+    TrackToSkeletonMapTable[38] = { BoneTreeIndex=139 }
+    TrackToSkeletonMapTable[39] = { BoneTreeIndex=140 }
+    TrackToSkeletonMapTable[40] = { BoneTreeIndex=141 }
+    TrackToSkeletonMapTable[41] = { BoneTreeIndex=142 }
+    TrackToSkeletonMapTable[42] = { BoneTreeIndex=143 }
+    TrackToSkeletonMapTable[43] = { BoneTreeIndex=144 }
+    TrackToSkeletonMapTable[44] = { BoneTreeIndex=145 }
+    TrackToSkeletonMapTable[45] = { BoneTreeIndex=146 }
+    TrackToSkeletonMapTable[46] = { BoneTreeIndex=147 }
+    TrackToSkeletonMapTable[47] = { BoneTreeIndex=148 }
+    TrackToSkeletonMapTable[48] = { BoneTreeIndex=149 }
+    TrackToSkeletonMapTable[49] = { BoneTreeIndex=150 }
+    TrackToSkeletonMapTable[50] = { BoneTreeIndex=151 }
+    TrackToSkeletonMapTable[51] = { BoneTreeIndex=152 }
+    TrackToSkeletonMapTable[52] = { BoneTreeIndex=153 }
+    TrackToSkeletonMapTable[53] = { BoneTreeIndex=154 }
+    TrackToSkeletonMapTable[54] = { BoneTreeIndex=155 }
+    TrackToSkeletonMapTable[55] = { BoneTreeIndex=156 }
+    TrackToSkeletonMapTable[56] = { BoneTreeIndex=157 }
+    TrackToSkeletonMapTable[57] = { BoneTreeIndex=158 }
+    TrackToSkeletonMapTable[58] = { BoneTreeIndex=159 }
+    TrackToSkeletonMapTable[59] = { BoneTreeIndex=160 }
+    TrackToSkeletonMapTable[60] = { BoneTreeIndex=161 }
+    TrackToSkeletonMapTable[61] = { BoneTreeIndex=162 }
+    TrackToSkeletonMapTable[62] = { BoneTreeIndex=163 }
+    TrackToSkeletonMapTable[63] = { BoneTreeIndex=164 }
+    TrackToSkeletonMapTable[64] = { BoneTreeIndex=10 }
+    TrackToSkeletonMapTable[65] = { BoneTreeIndex=11 }
+    TrackToSkeletonMapTable[66] = { BoneTreeIndex=12 }
+    TrackToSkeletonMapTable[67] = { BoneTreeIndex=13 }
+    TrackToSkeletonMapTable[68] = { BoneTreeIndex=14 }
+    TrackToSkeletonMapTable[69] = { BoneTreeIndex=15 }
+    TrackToSkeletonMapTable[70] = { BoneTreeIndex=16 }
+    TrackToSkeletonMapTable[71] = { BoneTreeIndex=17 }
+    TrackToSkeletonMapTable[72] = { BoneTreeIndex=18 }
+    TrackToSkeletonMapTable[73] = { BoneTreeIndex=19 }
+    TrackToSkeletonMapTable[74] = { BoneTreeIndex=20 }
+    TrackToSkeletonMapTable[75] = { BoneTreeIndex=21 }
+    TrackToSkeletonMapTable[76] = { BoneTreeIndex=22 }
+    TrackToSkeletonMapTable[77] = { BoneTreeIndex=23 }
+    TrackToSkeletonMapTable[78] = { BoneTreeIndex=24 }
+    TrackToSkeletonMapTable[79] = { BoneTreeIndex=25 }
+    TrackToSkeletonMapTable[80] = { BoneTreeIndex=26 }
+    TrackToSkeletonMapTable[81] = { BoneTreeIndex=27 }
+    TrackToSkeletonMapTable[82] = { BoneTreeIndex=28 }
+    TrackToSkeletonMapTable[83] = { BoneTreeIndex=29 }
+    TrackToSkeletonMapTable[84] = { BoneTreeIndex=30 }
+    TrackToSkeletonMapTable[85] = { BoneTreeIndex=31 }
+    TrackToSkeletonMapTable[86] = { BoneTreeIndex=32 }
+    TrackToSkeletonMapTable[87] = { BoneTreeIndex=33 }
+    TrackToSkeletonMapTable[88] = { BoneTreeIndex=34 }
+    TrackToSkeletonMapTable[89] = { BoneTreeIndex=35 }
+    TrackToSkeletonMapTable[90] = { BoneTreeIndex=36 }
+    TrackToSkeletonMapTable[91] = { BoneTreeIndex=37 }
+    TrackToSkeletonMapTable[92] = { BoneTreeIndex=38 }
+    TrackToSkeletonMapTable[93] = { BoneTreeIndex=39 }
+    TrackToSkeletonMapTable[94] = { BoneTreeIndex=165 }
+    TrackToSkeletonMapTable[95] = { BoneTreeIndex=166 }
+    TrackToSkeletonMapTable[96] = { BoneTreeIndex=167 }
+    TrackToSkeletonMapTable[97] = { BoneTreeIndex=168 }
+    TrackToSkeletonMapTable[98] = { BoneTreeIndex=169 }
+    TrackToSkeletonMapTable[99] = { BoneTreeIndex=170 }
+    TrackToSkeletonMapTable[100] = { BoneTreeIndex=171 }
+    TrackToSkeletonMapTable[101] = { BoneTreeIndex=172 }
+    TrackToSkeletonMapTable[102] = { BoneTreeIndex=173 }
+    TrackToSkeletonMapTable[103] = { BoneTreeIndex=174 }
+    TrackToSkeletonMapTable[104] = { BoneTreeIndex=175 }
+    TrackToSkeletonMapTable[105] = { BoneTreeIndex=176 }
+    TrackToSkeletonMapTable[106] = { BoneTreeIndex=177 }
+    TrackToSkeletonMapTable[107] = { BoneTreeIndex=178 }
+    TrackToSkeletonMapTable[108] = { BoneTreeIndex=179 }
+    TrackToSkeletonMapTable[109] = { BoneTreeIndex=180 }
+    TrackToSkeletonMapTable[110] = { BoneTreeIndex=181 }
+    TrackToSkeletonMapTable[111] = { BoneTreeIndex=182 }
+    TrackToSkeletonMapTable[112] = { BoneTreeIndex=183 }
+    TrackToSkeletonMapTable[113] = { BoneTreeIndex=184 }
+    TrackToSkeletonMapTable[114] = { BoneTreeIndex=185 }
+}
+CompressedTrackToSkeletonMapTable[115] =
+{
+    CompressedTrackToSkeletonMapTable[0] = { BoneTreeIndex=0 }
+    CompressedTrackToSkeletonMapTable[1] = { BoneTreeIndex=1 }
+    CompressedTrackToSkeletonMapTable[2] = { BoneTreeIndex=2 }
+    CompressedTrackToSkeletonMapTable[3] = { BoneTreeIndex=3 }
+    CompressedTrackToSkeletonMapTable[4] = { BoneTreeIndex=4 }
+    CompressedTrackToSkeletonMapTable[5] = { BoneTreeIndex=5 }
+    CompressedTrackToSkeletonMapTable[6] = { BoneTreeIndex=6 }
+    CompressedTrackToSkeletonMapTable[7] = { BoneTreeIndex=7 }
+    CompressedTrackToSkeletonMapTable[8] = { BoneTreeIndex=8 }
+    CompressedTrackToSkeletonMapTable[9] = { BoneTreeIndex=111 }
+    CompressedTrackToSkeletonMapTable[10] = { BoneTreeIndex=112 }
+    CompressedTrackToSkeletonMapTable[11] = { BoneTreeIndex=113 }
+    CompressedTrackToSkeletonMapTable[12] = { BoneTreeIndex=114 }
+    CompressedTrackToSkeletonMapTable[13] = { BoneTreeIndex=115 }
+    CompressedTrackToSkeletonMapTable[14] = { BoneTreeIndex=116 }
+    CompressedTrackToSkeletonMapTable[15] = { BoneTreeIndex=117 }
+    CompressedTrackToSkeletonMapTable[16] = { BoneTreeIndex=118 }
+    CompressedTrackToSkeletonMapTable[17] = { BoneTreeIndex=119 }
+    CompressedTrackToSkeletonMapTable[18] = { BoneTreeIndex=120 }
+    CompressedTrackToSkeletonMapTable[19] = { BoneTreeIndex=121 }
+    CompressedTrackToSkeletonMapTable[20] = { BoneTreeIndex=122 }
+    CompressedTrackToSkeletonMapTable[21] = { BoneTreeIndex=123 }
+    CompressedTrackToSkeletonMapTable[22] = { BoneTreeIndex=124 }
+    CompressedTrackToSkeletonMapTable[23] = { BoneTreeIndex=125 }
+    CompressedTrackToSkeletonMapTable[24] = { BoneTreeIndex=126 }
+    CompressedTrackToSkeletonMapTable[25] = { BoneTreeIndex=127 }
+    CompressedTrackToSkeletonMapTable[26] = { BoneTreeIndex=128 }
+    CompressedTrackToSkeletonMapTable[27] = { BoneTreeIndex=129 }
+    CompressedTrackToSkeletonMapTable[28] = { BoneTreeIndex=130 }
+    CompressedTrackToSkeletonMapTable[29] = { BoneTreeIndex=131 }
+    CompressedTrackToSkeletonMapTable[30] = { BoneTreeIndex=132 }
+    CompressedTrackToSkeletonMapTable[31] = { BoneTreeIndex=133 }
+    CompressedTrackToSkeletonMapTable[32] = { BoneTreeIndex=134 }
+    CompressedTrackToSkeletonMapTable[33] = { BoneTreeIndex=135 }
+    CompressedTrackToSkeletonMapTable[34] = { BoneTreeIndex=136 }
+    CompressedTrackToSkeletonMapTable[35] = { BoneTreeIndex=137 }
+    CompressedTrackToSkeletonMapTable[36] = { BoneTreeIndex=9 }
+    CompressedTrackToSkeletonMapTable[37] = { BoneTreeIndex=138 }
+    CompressedTrackToSkeletonMapTable[38] = { BoneTreeIndex=139 }
+    CompressedTrackToSkeletonMapTable[39] = { BoneTreeIndex=140 }
+    CompressedTrackToSkeletonMapTable[40] = { BoneTreeIndex=141 }
+    CompressedTrackToSkeletonMapTable[41] = { BoneTreeIndex=142 }
+    CompressedTrackToSkeletonMapTable[42] = { BoneTreeIndex=143 }
+    CompressedTrackToSkeletonMapTable[43] = { BoneTreeIndex=144 }
+    CompressedTrackToSkeletonMapTable[44] = { BoneTreeIndex=145 }
+    CompressedTrackToSkeletonMapTable[45] = { BoneTreeIndex=146 }
+    CompressedTrackToSkeletonMapTable[46] = { BoneTreeIndex=147 }
+    CompressedTrackToSkeletonMapTable[47] = { BoneTreeIndex=148 }
+    CompressedTrackToSkeletonMapTable[48] = { BoneTreeIndex=149 }
+    CompressedTrackToSkeletonMapTable[49] = { BoneTreeIndex=150 }
+    CompressedTrackToSkeletonMapTable[50] = { BoneTreeIndex=151 }
+    CompressedTrackToSkeletonMapTable[51] = { BoneTreeIndex=152 }
+    CompressedTrackToSkeletonMapTable[52] = { BoneTreeIndex=153 }
+    CompressedTrackToSkeletonMapTable[53] = { BoneTreeIndex=154 }
+    CompressedTrackToSkeletonMapTable[54] = { BoneTreeIndex=155 }
+    CompressedTrackToSkeletonMapTable[55] = { BoneTreeIndex=156 }
+    CompressedTrackToSkeletonMapTable[56] = { BoneTreeIndex=157 }
+    CompressedTrackToSkeletonMapTable[57] = { BoneTreeIndex=158 }
+    CompressedTrackToSkeletonMapTable[58] = { BoneTreeIndex=159 }
+    CompressedTrackToSkeletonMapTable[59] = { BoneTreeIndex=160 }
+    CompressedTrackToSkeletonMapTable[60] = { BoneTreeIndex=161 }
+    CompressedTrackToSkeletonMapTable[61] = { BoneTreeIndex=162 }
+    CompressedTrackToSkeletonMapTable[62] = { BoneTreeIndex=163 }
+    CompressedTrackToSkeletonMapTable[63] = { BoneTreeIndex=164 }
+    CompressedTrackToSkeletonMapTable[64] = { BoneTreeIndex=10 }
+    CompressedTrackToSkeletonMapTable[65] = { BoneTreeIndex=11 }
+    CompressedTrackToSkeletonMapTable[66] = { BoneTreeIndex=12 }
+    CompressedTrackToSkeletonMapTable[67] = { BoneTreeIndex=13 }
+    CompressedTrackToSkeletonMapTable[68] = { BoneTreeIndex=14 }
+    CompressedTrackToSkeletonMapTable[69] = { BoneTreeIndex=15 }
+    CompressedTrackToSkeletonMapTable[70] = { BoneTreeIndex=16 }
+    CompressedTrackToSkeletonMapTable[71] = { BoneTreeIndex=17 }
+    CompressedTrackToSkeletonMapTable[72] = { BoneTreeIndex=18 }
+    CompressedTrackToSkeletonMapTable[73] = { BoneTreeIndex=19 }
+    CompressedTrackToSkeletonMapTable[74] = { BoneTreeIndex=20 }
+    CompressedTrackToSkeletonMapTable[75] = { BoneTreeIndex=21 }
+    CompressedTrackToSkeletonMapTable[76] = { BoneTreeIndex=22 }
+    CompressedTrackToSkeletonMapTable[77] = { BoneTreeIndex=23 }
+    CompressedTrackToSkeletonMapTable[78] = { BoneTreeIndex=24 }
+    CompressedTrackToSkeletonMapTable[79] = { BoneTreeIndex=25 }
+    CompressedTrackToSkeletonMapTable[80] = { BoneTreeIndex=26 }
+    CompressedTrackToSkeletonMapTable[81] = { BoneTreeIndex=27 }
+    CompressedTrackToSkeletonMapTable[82] = { BoneTreeIndex=28 }
+    CompressedTrackToSkeletonMapTable[83] = { BoneTreeIndex=29 }
+    CompressedTrackToSkeletonMapTable[84] = { BoneTreeIndex=30 }
+    CompressedTrackToSkeletonMapTable[85] = { BoneTreeIndex=31 }
+    CompressedTrackToSkeletonMapTable[86] = { BoneTreeIndex=32 }
+    CompressedTrackToSkeletonMapTable[87] = { BoneTreeIndex=33 }
+    CompressedTrackToSkeletonMapTable[88] = { BoneTreeIndex=34 }
+    CompressedTrackToSkeletonMapTable[89] = { BoneTreeIndex=35 }
+    CompressedTrackToSkeletonMapTable[90] = { BoneTreeIndex=36 }
+    CompressedTrackToSkeletonMapTable[91] = { BoneTreeIndex=37 }
+    CompressedTrackToSkeletonMapTable[92] = { BoneTreeIndex=38 }
+    CompressedTrackToSkeletonMapTable[93] = { BoneTreeIndex=39 }
+    CompressedTrackToSkeletonMapTable[94] = { BoneTreeIndex=165 }
+    CompressedTrackToSkeletonMapTable[95] = { BoneTreeIndex=166 }
+    CompressedTrackToSkeletonMapTable[96] = { BoneTreeIndex=167 }
+    CompressedTrackToSkeletonMapTable[97] = { BoneTreeIndex=168 }
+    CompressedTrackToSkeletonMapTable[98] = { BoneTreeIndex=169 }
+    CompressedTrackToSkeletonMapTable[99] = { BoneTreeIndex=170 }
+    CompressedTrackToSkeletonMapTable[100] = { BoneTreeIndex=171 }
+    CompressedTrackToSkeletonMapTable[101] = { BoneTreeIndex=172 }
+    CompressedTrackToSkeletonMapTable[102] = { BoneTreeIndex=173 }
+    CompressedTrackToSkeletonMapTable[103] = { BoneTreeIndex=174 }
+    CompressedTrackToSkeletonMapTable[104] = { BoneTreeIndex=175 }
+    CompressedTrackToSkeletonMapTable[105] = { BoneTreeIndex=176 }
+    CompressedTrackToSkeletonMapTable[106] = { BoneTreeIndex=177 }
+    CompressedTrackToSkeletonMapTable[107] = { BoneTreeIndex=178 }
+    CompressedTrackToSkeletonMapTable[108] = { BoneTreeIndex=179 }
+    CompressedTrackToSkeletonMapTable[109] = { BoneTreeIndex=180 }
+    CompressedTrackToSkeletonMapTable[110] = { BoneTreeIndex=181 }
+    CompressedTrackToSkeletonMapTable[111] = { BoneTreeIndex=182 }
+    CompressedTrackToSkeletonMapTable[112] = { BoneTreeIndex=183 }
+    CompressedTrackToSkeletonMapTable[113] = { BoneTreeIndex=184 }
+    CompressedTrackToSkeletonMapTable[114] = { BoneTreeIndex=185 }
+}
+CompressedCurveData = { FloatCurves[0]={} }
+Interpolation = Linear (0)
+AdditiveAnimType = AAT_None (0)
+RefPoseType = ABPT_None (0)
+RetargetSource = None
+RefPoseSeq = None
+RefFrameIndex = 0
+RetargetSourceAssetReferencePose[215] =
+{
+    RetargetSourceAssetReferencePose[0] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[1] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[2] =
+    {
+        Rotation =
+        {
+            X = 0.0126671
+            Y = 0.706993
+            Z = -0.0126671
+            W = -0.706993
+        }
+        Translation = { X=1.41588e-14, Y=-0.707131, Z=93.1191 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[3] =
+    {
+        Rotation =
+        {
+            X = 2.10824e-09
+            Y = -7.17953e-11
+            Z = 0.034035
+            W = -0.999421
+        }
+        Translation = { X=6.74937, Y=-0.638774, Z=-5.29771e-13 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[4] =
+    {
+        Rotation =
+        {
+            X = 1.47089e-09
+            Y = -3.49546e-11
+            Z = 0.0237575
+            W = -0.999718
+        }
+        Translation = { X=7.25176, Y=-0.0349806, Z=-1.57873e-12 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[5] =
+    {
+        Rotation =
+        {
+            X = 9.18101e-10
+            Y = -1.3659e-11
+            Z = 0.0148758
+            W = -0.999889
+        }
+        Translation = { X=6.01043, Y=-4.44089e-15, Z=2.10285e-12 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[6] =
+    {
+        Rotation =
+        {
+            X = -8.09259e-10
+            Y = -1.06488e-11
+            Z = -0.0131575
+            W = -0.999913
+        }
+        Translation = { X=8.10236, Y=-3.55271e-14, Z=-2.8326e-12 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[7] =
+    {
+        Rotation =
+        {
+            X = -9.21382e-11
+            Y = -1.37661e-13
+            Z = -0.00149407
+            W = -0.999999
+        }
+        Translation = { X=10.0146, Y=3.90799e-14, Z=4.94972e-12 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[8] =
+    {
+        Rotation =
+        {
+            X = 0.0464754
+            Y = -0.728931
+            Z = -0.00898957
+            W = -0.682949
+        }
+        Translation = { X=4.35746, Y=-0.146572, Z=-2.32232 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[9] =
+    {
+        Rotation =
+        {
+            X = 0.728931
+            Y = 0.0464754
+            Z = -0.682949
+            W = 0.00898957
+        }
+        Translation = { X=4.35755, Y=-0.146559, Z=2.32233 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[10] =
+    {
+        Rotation =
+        {
+            X = 2.38706e-24
+            Y = 6.13412e-24
+            Z = -0.200277
+            W = -0.979739
+        }
+        Translation = { X=11.3138, Y=0.152862, Z=-2.31281e-12 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[11] =
+    {
+        Rotation =
+        {
+            X = 2.97582e-09
+            Y = -1.50262e-10
+            Z = 0.0504303
+            W = -0.998728
+        }
+        Translation = { X=4.56268, Y=3.69482e-13, Z=-4.56363e-14 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[12] =
+    {
+        Rotation =
+        {
+            X = 6.88955e-09
+            Y = -7.9728e-10
+            Z = 0.114956
+            W = -0.993371
+        }
+        Translation = { X=5.39138, Y=-1.40727e-09, Z=-1.15721e-13 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[13] =
+    {
+        Rotation =
+        {
+            X = 0.00815363
+            Y = -0.70706
+            Z = -0.00815363
+            W = -0.70706
+        }
+        Translation = { X=-2.39595, Y=0.798977, Z=0.0154993 }
+        Scale3D = { X=0.89, Y=0.89, Z=0.89 }
+    }
+    RetargetSourceAssetReferencePose[14] =
+    {
+        Rotation =
+        {
+            X = -1.27339e-10
+            Y = 0.0705556
+            Z = -0.0139385
+            W = -0.99741
+        }
+        Translation = { X=-0.00501454, Y=9.95861, Z=8.46487 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[15] =
+    {
+        Rotation =
+        {
+            X = -0.000260609
+            Y = -0.00537921
+            Z = 0.25529
+            W = -0.96685
+        }
+        Translation = { X=3.13458, Y=9.11496, Z=9.49422 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[16] =
+    {
+        Rotation = { X=0.0629999, Y=0.0754041, Z=0.425732, W=-0.899499 }
+        Translation = { X=5.5959, Y=7.35341, Z=9.42636 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[17] =
+    {
+        Rotation =
+        {
+            X = -0.0619007
+            Y = -0.247685
+            Z = 0.321384
+            W = -0.911884
+        }
+        Translation = { X=4.17276, Y=7.80204, Z=3.40604 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[18] =
+    {
+        Rotation =
+        {
+            X = 0.222493
+            Y = 0.00212806
+            Z = -0.000789807
+            W = -0.974932
+        }
+        Translation = { X=0.0144086, Y=9.93153, Z=1.08464 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[19] =
+    {
+        Rotation =
+        {
+            X = 0.0392792
+            Y = -0.0633754
+            Z = 0.259144
+            W = -0.962956
+        }
+        Translation = { X=1.77386, Y=8.95224, Z=1.02393 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[20] =
+    {
+        Rotation =
+        {
+            X = 0.00256951
+            Y = 0.00838257
+            Z = -0.0145711
+            W = -0.999855
+        }
+        Translation = { X=2.33441, Y=8.34636, Z=0.874579 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[21] =
+    {
+        Rotation =
+        {
+            X = -0.221804
+            Y = -0.00971183
+            Z = -0.00273215
+            W = -0.975039
+        }
+        Translation = { X=0.00306697, Y=11.5861, Z=5.69156 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[22] =
+    {
+        Rotation =
+        {
+            X = -0.000122475
+            Y = 0.00431541
+            Z = -0.255282
+            W = -0.966857
+        }
+        Translation = { X=-3.10056, Y=9.11713, Z=9.49923 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[23] =
+    {
+        Rotation =
+        {
+            X = 0.0447189
+            Y = -0.0523848
+            Z = -0.43119
+            W = -0.899628
+        }
+        Translation = { X=-5.56768, Y=7.348, Z=9.4051 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[24] =
+    {
+        Rotation =
+        {
+            X = -0.0621512
+            Y = 0.248317
+            Z = -0.321301
+            W = -0.911725
+        }
+        Translation = { X=-4.12555, Y=7.80962, Z=3.39748 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[25] =
+    {
+        Rotation =
+        {
+            X = 0.00283649
+            Y = -0.00810613
+            Z = 0.0146
+            W = -0.999857
+        }
+        Translation = { X=-2.34055, Y=8.40979, Z=0.908962 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[26] =
+    {
+        Rotation =
+        {
+            X = -1.73472e-18
+            Y = 5.16988e-26
+            Z = -4.27323e-25
+            W = -1
+        }
+        Translation = { X=0.0100581, Y=2.99598, Z=1.34207 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[27] =
+    {
+        Rotation = { X=0.015865, Y=0.0601526, Z=0.317417, W=-0.946243 }
+        Translation = { X=1.86238, Y=5.78854, Z=-0.378279 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[28] =
+    {
+        Rotation =
+        {
+            X = -4.68449e-09
+            Y = -0.0186901
+            Z = -0.00396462
+            W = -0.999817
+        }
+        Translation = { X=0.00500636, Y=6.78984, Z=-0.532626 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[29] =
+    {
+        Rotation =
+        {
+            X = 0.00502705
+            Y = -0.00135197
+            Z = -0.272587
+            W = -0.962117
+        }
+        Translation = { X=-1.84817, Y=5.91455, Z=-0.426398 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[30] =
+    {
+        Rotation = { X=0, Y=0, Z=-4.27323e-25, W=-1 }
+        Translation = { X=-0.0790655, Y=4.61141, Z=-2.26098 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[31] =
+    {
+        Rotation =
+        {
+            X = -0.156846
+            Y = -6.7024e-26
+            Z = -4.22034e-25
+            W = -0.987623
+        }
+        Translation = { X=0.0143815, Y=1.52825, Z=-0.893432 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[32] =
+    {
+        Rotation =
+        {
+            X = -5.42006e-20
+            Y = -1.01296e-21
+            Z = 0.999825
+            W = -0.0186858
+        }
+        Translation = { X=-3.08414, Y=6.97704, Z=8.09105 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[33] =
+    {
+        Rotation =
+        {
+            X = 0.0522704
+            Y = -0.000873718
+            Z = 0.0166902
+            W = -0.998493
+        }
+        Translation = { X=-0.0395779, Y=-1.17144, Z=0.263058 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[34] =
+    {
+        Rotation =
+        {
+            X = 0.032867
+            Y = -0.000549384
+            Z = 0.016704
+            W = -0.99932
+        }
+        Translation = { X=-0.0084616, Y=-0.942473, Z=-0.70512 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[35] =
+    {
+        Rotation =
+        {
+            X = 9.2194e-20
+            Y = -8.69236e-19
+            Z = 0.999825
+            W = 0.0186858
+        }
+        Translation = { X=3.11897, Y=6.97704, Z=8.09105 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[36] =
+    {
+        Rotation =
+        {
+            X = 0.0522777
+            Y = 3.0593e-20
+            Z = -2.65833e-18
+            W = -0.998633
+        }
+        Translation = { X=0.025135, Y=-1.16234, Z=0.238807 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[37] =
+    {
+        Rotation =
+        {
+            X = 0.0328716
+            Y = -2.10449e-20
+            Z = -2.65842e-18
+            W = -0.99946
+        }
+        Translation = { X=0.0222674, Y=-0.923042, Z=-0.748781 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[38] =
+    {
+        Rotation =
+        {
+            X = -1.73472e-18
+            Y = 5.16988e-26
+            Z = -4.27323e-25
+            W = -1
+        }
+        Translation = { X=0.0146896, Y=7.88866, Z=1.846 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[39] =
+    {
+        Rotation = { X=0.0464878, Y=0.042991, Z=-0.251348, W=-0.965823 }
+        Translation = { X=-1.76277, Y=8.99501, Z=1.06607 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[40] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[41] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[42] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[43] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[44] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[45] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[46] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[47] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[48] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[49] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[50] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[51] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[52] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[53] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[54] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[55] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[56] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[57] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[58] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[59] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[60] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[61] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[62] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[63] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[64] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[65] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[66] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[67] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[68] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[69] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[70] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[71] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[72] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[73] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[74] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[75] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[76] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[77] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[78] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[79] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[80] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[81] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[82] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[83] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[84] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[85] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[86] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[87] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[88] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[89] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[90] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[91] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[92] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[93] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[94] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[95] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[96] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[97] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[98] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[99] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[100] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[101] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[102] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[103] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[104] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[105] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[106] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[107] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[108] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[109] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[110] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[111] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[112] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[113] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[114] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[115] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[116] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[117] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[118] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[119] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[120] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[121] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[122] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[123] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[124] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[125] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[126] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[127] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[128] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[129] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[130] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[131] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[132] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[133] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[134] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[135] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[136] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[137] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[138] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[139] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[140] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[141] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[142] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[143] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[144] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[145] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[146] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[147] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[148] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[149] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[150] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[151] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[152] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[153] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[154] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[155] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[156] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[157] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[158] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[159] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[160] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[161] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[162] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[163] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[164] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[165] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[166] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[167] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[168] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[169] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[170] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[171] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[172] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[173] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[174] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[175] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[176] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[177] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[178] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[179] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[180] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[181] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[182] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[183] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[184] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[185] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[186] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[187] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[188] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[189] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[190] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[191] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[192] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[193] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[194] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[195] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[196] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[197] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[198] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[199] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[200] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[201] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[202] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[203] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[204] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[205] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[206] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[207] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[208] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[209] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[210] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[211] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[212] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[213] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[214] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+}
+bEnableRootMotion = false
+AuthoredSyncMarkers[0] = {}
+BakedPerBoneCustomAttributeData[0] = {}
+Notifies[0] = {}
+SequenceLength = 1.93333
+RateScale = 1
+RawCurveData = { FloatCurves[0]={} }
+Skeleton = Skeleton'/Game/Characters/Player/Common/Fortnite_Base_Head/Fortnite_Base_Head_Export_Skeleton.Fortnite_Base_Head_Export_Skeleton'
+
+// Sequence: Male_Medium_Golf_PER_Head_Facial_Poses
+NumFrames = 59
+KeyEncodingFormat = AKF_VariableKeyLerp (1)
+TranslationCompressionFormat = ACF_None (0)
+RotationCompressionFormat = ACF_Float96NoW (1)
+ScaleCompressionFormat = ACF_None (0)
+CompressedTrackOffsets[0] = {}
+CompressedScaleOffsets =
+{
+    OffsetData[230] =
+    {
+        OffsetData[0] = 24
+        OffsetData[1] = 1
+        OffsetData[2] = 60
+        OffsetData[3] = 1
+        OffsetData[4] = 96
+        OffsetData[5] = 1
+        OffsetData[6] = 132
+        OffsetData[7] = 1
+        OffsetData[8] = 168
+        OffsetData[9] = 1
+        OffsetData[10] = 204
+        OffsetData[11] = 1
+        OffsetData[12] = 240
+        OffsetData[13] = 1
+        OffsetData[14] = 276
+        OffsetData[15] = 1
+        OffsetData[16] = 312
+        OffsetData[17] = 1
+        OffsetData[18] = 348
+        OffsetData[19] = 1
+        OffsetData[20] = 384
+        OffsetData[21] = 1
+        OffsetData[22] = 420
+        OffsetData[23] = 1
+        OffsetData[24] = 456
+        OffsetData[25] = 1
+        OffsetData[26] = 492
+        OffsetData[27] = 1
+        OffsetData[28] = 528
+        OffsetData[29] = 1
+        OffsetData[30] = 564
+        OffsetData[31] = 1
+        OffsetData[32] = 600
+        OffsetData[33] = 1
+        OffsetData[34] = 636
+        OffsetData[35] = 1
+        OffsetData[36] = 672
+        OffsetData[37] = 1
+        OffsetData[38] = 708
+        OffsetData[39] = 1
+        OffsetData[40] = 744
+        OffsetData[41] = 1
+        OffsetData[42] = 780
+        OffsetData[43] = 1
+        OffsetData[44] = 816
+        OffsetData[45] = 1
+        OffsetData[46] = 852
+        OffsetData[47] = 1
+        OffsetData[48] = 888
+        OffsetData[49] = 1
+        OffsetData[50] = 924
+        OffsetData[51] = 1
+        OffsetData[52] = 960
+        OffsetData[53] = 1
+        OffsetData[54] = 996
+        OffsetData[55] = 1
+        OffsetData[56] = 1032
+        OffsetData[57] = 1
+        OffsetData[58] = 1068
+        OffsetData[59] = 1
+        OffsetData[60] = 1104
+        OffsetData[61] = 1
+        OffsetData[62] = 1140
+        OffsetData[63] = 1
+        OffsetData[64] = 1176
+        OffsetData[65] = 1
+        OffsetData[66] = 1212
+        OffsetData[67] = 1
+        OffsetData[68] = 1248
+        OffsetData[69] = 1
+        OffsetData[70] = 1284
+        OffsetData[71] = 1
+        OffsetData[72] = 1320
+        OffsetData[73] = 1
+        OffsetData[74] = 1356
+        OffsetData[75] = 1
+        OffsetData[76] = 1392
+        OffsetData[77] = 1
+        OffsetData[78] = 1428
+        OffsetData[79] = 1
+        OffsetData[80] = 1464
+        OffsetData[81] = 1
+        OffsetData[82] = 1500
+        OffsetData[83] = 1
+        OffsetData[84] = 1536
+        OffsetData[85] = 1
+        OffsetData[86] = 1572
+        OffsetData[87] = 1
+        OffsetData[88] = 1608
+        OffsetData[89] = 1
+        OffsetData[90] = 1644
+        OffsetData[91] = 1
+        OffsetData[92] = 1680
+        OffsetData[93] = 1
+        OffsetData[94] = 1716
+        OffsetData[95] = 1
+        OffsetData[96] = 1752
+        OffsetData[97] = 1
+        OffsetData[98] = 1788
+        OffsetData[99] = 1
+        OffsetData[100] = 1824
+        OffsetData[101] = 1
+        OffsetData[102] = 1860
+        OffsetData[103] = 1
+        OffsetData[104] = 1896
+        OffsetData[105] = 1
+        OffsetData[106] = 1932
+        OffsetData[107] = 1
+        OffsetData[108] = 1968
+        OffsetData[109] = 1
+        OffsetData[110] = 2004
+        OffsetData[111] = 1
+        OffsetData[112] = 2040
+        OffsetData[113] = 1
+        OffsetData[114] = 2076
+        OffsetData[115] = 1
+        OffsetData[116] = 2112
+        OffsetData[117] = 1
+        OffsetData[118] = 2148
+        OffsetData[119] = 1
+        OffsetData[120] = 2184
+        OffsetData[121] = 1
+        OffsetData[122] = 2220
+        OffsetData[123] = 1
+        OffsetData[124] = 2256
+        OffsetData[125] = 1
+        OffsetData[126] = 2292
+        OffsetData[127] = 1
+        OffsetData[128] = 2328
+        OffsetData[129] = 1
+        OffsetData[130] = 2364
+        OffsetData[131] = 1
+        OffsetData[132] = 2400
+        OffsetData[133] = 1
+        OffsetData[134] = 2436
+        OffsetData[135] = 1
+        OffsetData[136] = 2772
+        OffsetData[137] = 3
+        OffsetData[138] = 3284
+        OffsetData[139] = 8
+        OffsetData[140] = 3728
+        OffsetData[141] = 5
+        OffsetData[142] = 4124
+        OffsetData[143] = 8
+        OffsetData[144] = 4932
+        OffsetData[145] = 12
+        OffsetData[146] = 5860
+        OffsetData[147] = 14
+        OffsetData[148] = 6552
+        OffsetData[149] = 5
+        OffsetData[150] = 6756
+        OffsetData[151] = 5
+        OffsetData[152] = 7296
+        OffsetData[153] = 5
+        OffsetData[154] = 7744
+        OffsetData[155] = 5
+        OffsetData[156] = 8192
+        OffsetData[157] = 8
+        OffsetData[158] = 8896
+        OffsetData[159] = 5
+        OffsetData[160] = 9436
+        OffsetData[161] = 1
+        OffsetData[162] = 10244
+        OffsetData[163] = 14
+        OffsetData[164] = 11212
+        OffsetData[165] = 8
+        OffsetData[166] = 12112
+        OffsetData[167] = 15
+        OffsetData[168] = 12332
+        OffsetData[169] = 1
+        OffsetData[170] = 12688
+        OffsetData[171] = 8
+        OffsetData[172] = 13084
+        OffsetData[173] = 1
+        OffsetData[174] = 13672
+        OffsetData[175] = 1
+        OffsetData[176] = 14180
+        OffsetData[177] = 5
+        OffsetData[178] = 14540
+        OffsetData[179] = 1
+        OffsetData[180] = 15176
+        OffsetData[181] = 1
+        OffsetData[182] = 15844
+        OffsetData[183] = 5
+        OffsetData[184] = 15936
+        OffsetData[185] = 1
+        OffsetData[186] = 16720
+        OffsetData[187] = 12
+        OffsetData[188] = 16900
+        OffsetData[189] = 1
+        OffsetData[190] = 16936
+        OffsetData[191] = 1
+        OffsetData[192] = 16972
+        OffsetData[193] = 1
+        OffsetData[194] = 17008
+        OffsetData[195] = 1
+        OffsetData[196] = 17044
+        OffsetData[197] = 1
+        OffsetData[198] = 17080
+        OffsetData[199] = 1
+        OffsetData[200] = 17116
+        OffsetData[201] = 1
+        OffsetData[202] = 17152
+        OffsetData[203] = 1
+        OffsetData[204] = 17188
+        OffsetData[205] = 1
+        OffsetData[206] = 17224
+        OffsetData[207] = 1
+        OffsetData[208] = 17260
+        OffsetData[209] = 1
+        OffsetData[210] = 17296
+        OffsetData[211] = 1
+        OffsetData[212] = 17332
+        OffsetData[213] = 1
+        OffsetData[214] = 17368
+        OffsetData[215] = 1
+        OffsetData[216] = 17404
+        OffsetData[217] = 1
+        OffsetData[218] = 17440
+        OffsetData[219] = 1
+        OffsetData[220] = 17476
+        OffsetData[221] = 1
+        OffsetData[222] = 17512
+        OffsetData[223] = 1
+        OffsetData[224] = 17548
+        OffsetData[225] = 1
+        OffsetData[226] = 17584
+        OffsetData[227] = 1
+        OffsetData[228] = 17620
+        OffsetData[229] = 1
+    }
+    StripSize = 2
+}
+TrackToSkeletonMapTable[115] =
+{
+    TrackToSkeletonMapTable[0] = { BoneTreeIndex=0 }
+    TrackToSkeletonMapTable[1] = { BoneTreeIndex=1 }
+    TrackToSkeletonMapTable[2] = { BoneTreeIndex=2 }
+    TrackToSkeletonMapTable[3] = { BoneTreeIndex=3 }
+    TrackToSkeletonMapTable[4] = { BoneTreeIndex=4 }
+    TrackToSkeletonMapTable[5] = { BoneTreeIndex=5 }
+    TrackToSkeletonMapTable[6] = { BoneTreeIndex=6 }
+    TrackToSkeletonMapTable[7] = { BoneTreeIndex=7 }
+    TrackToSkeletonMapTable[8] = { BoneTreeIndex=8 }
+    TrackToSkeletonMapTable[9] = { BoneTreeIndex=111 }
+    TrackToSkeletonMapTable[10] = { BoneTreeIndex=112 }
+    TrackToSkeletonMapTable[11] = { BoneTreeIndex=113 }
+    TrackToSkeletonMapTable[12] = { BoneTreeIndex=114 }
+    TrackToSkeletonMapTable[13] = { BoneTreeIndex=115 }
+    TrackToSkeletonMapTable[14] = { BoneTreeIndex=116 }
+    TrackToSkeletonMapTable[15] = { BoneTreeIndex=117 }
+    TrackToSkeletonMapTable[16] = { BoneTreeIndex=118 }
+    TrackToSkeletonMapTable[17] = { BoneTreeIndex=119 }
+    TrackToSkeletonMapTable[18] = { BoneTreeIndex=120 }
+    TrackToSkeletonMapTable[19] = { BoneTreeIndex=121 }
+    TrackToSkeletonMapTable[20] = { BoneTreeIndex=122 }
+    TrackToSkeletonMapTable[21] = { BoneTreeIndex=123 }
+    TrackToSkeletonMapTable[22] = { BoneTreeIndex=124 }
+    TrackToSkeletonMapTable[23] = { BoneTreeIndex=125 }
+    TrackToSkeletonMapTable[24] = { BoneTreeIndex=126 }
+    TrackToSkeletonMapTable[25] = { BoneTreeIndex=127 }
+    TrackToSkeletonMapTable[26] = { BoneTreeIndex=128 }
+    TrackToSkeletonMapTable[27] = { BoneTreeIndex=129 }
+    TrackToSkeletonMapTable[28] = { BoneTreeIndex=130 }
+    TrackToSkeletonMapTable[29] = { BoneTreeIndex=131 }
+    TrackToSkeletonMapTable[30] = { BoneTreeIndex=132 }
+    TrackToSkeletonMapTable[31] = { BoneTreeIndex=133 }
+    TrackToSkeletonMapTable[32] = { BoneTreeIndex=134 }
+    TrackToSkeletonMapTable[33] = { BoneTreeIndex=135 }
+    TrackToSkeletonMapTable[34] = { BoneTreeIndex=136 }
+    TrackToSkeletonMapTable[35] = { BoneTreeIndex=137 }
+    TrackToSkeletonMapTable[36] = { BoneTreeIndex=9 }
+    TrackToSkeletonMapTable[37] = { BoneTreeIndex=138 }
+    TrackToSkeletonMapTable[38] = { BoneTreeIndex=139 }
+    TrackToSkeletonMapTable[39] = { BoneTreeIndex=140 }
+    TrackToSkeletonMapTable[40] = { BoneTreeIndex=141 }
+    TrackToSkeletonMapTable[41] = { BoneTreeIndex=142 }
+    TrackToSkeletonMapTable[42] = { BoneTreeIndex=143 }
+    TrackToSkeletonMapTable[43] = { BoneTreeIndex=144 }
+    TrackToSkeletonMapTable[44] = { BoneTreeIndex=145 }
+    TrackToSkeletonMapTable[45] = { BoneTreeIndex=146 }
+    TrackToSkeletonMapTable[46] = { BoneTreeIndex=147 }
+    TrackToSkeletonMapTable[47] = { BoneTreeIndex=148 }
+    TrackToSkeletonMapTable[48] = { BoneTreeIndex=149 }
+    TrackToSkeletonMapTable[49] = { BoneTreeIndex=150 }
+    TrackToSkeletonMapTable[50] = { BoneTreeIndex=151 }
+    TrackToSkeletonMapTable[51] = { BoneTreeIndex=152 }
+    TrackToSkeletonMapTable[52] = { BoneTreeIndex=153 }
+    TrackToSkeletonMapTable[53] = { BoneTreeIndex=154 }
+    TrackToSkeletonMapTable[54] = { BoneTreeIndex=155 }
+    TrackToSkeletonMapTable[55] = { BoneTreeIndex=156 }
+    TrackToSkeletonMapTable[56] = { BoneTreeIndex=157 }
+    TrackToSkeletonMapTable[57] = { BoneTreeIndex=158 }
+    TrackToSkeletonMapTable[58] = { BoneTreeIndex=159 }
+    TrackToSkeletonMapTable[59] = { BoneTreeIndex=160 }
+    TrackToSkeletonMapTable[60] = { BoneTreeIndex=161 }
+    TrackToSkeletonMapTable[61] = { BoneTreeIndex=162 }
+    TrackToSkeletonMapTable[62] = { BoneTreeIndex=163 }
+    TrackToSkeletonMapTable[63] = { BoneTreeIndex=164 }
+    TrackToSkeletonMapTable[64] = { BoneTreeIndex=10 }
+    TrackToSkeletonMapTable[65] = { BoneTreeIndex=11 }
+    TrackToSkeletonMapTable[66] = { BoneTreeIndex=12 }
+    TrackToSkeletonMapTable[67] = { BoneTreeIndex=13 }
+    TrackToSkeletonMapTable[68] = { BoneTreeIndex=14 }
+    TrackToSkeletonMapTable[69] = { BoneTreeIndex=15 }
+    TrackToSkeletonMapTable[70] = { BoneTreeIndex=16 }
+    TrackToSkeletonMapTable[71] = { BoneTreeIndex=17 }
+    TrackToSkeletonMapTable[72] = { BoneTreeIndex=18 }
+    TrackToSkeletonMapTable[73] = { BoneTreeIndex=19 }
+    TrackToSkeletonMapTable[74] = { BoneTreeIndex=20 }
+    TrackToSkeletonMapTable[75] = { BoneTreeIndex=21 }
+    TrackToSkeletonMapTable[76] = { BoneTreeIndex=22 }
+    TrackToSkeletonMapTable[77] = { BoneTreeIndex=23 }
+    TrackToSkeletonMapTable[78] = { BoneTreeIndex=24 }
+    TrackToSkeletonMapTable[79] = { BoneTreeIndex=25 }
+    TrackToSkeletonMapTable[80] = { BoneTreeIndex=26 }
+    TrackToSkeletonMapTable[81] = { BoneTreeIndex=27 }
+    TrackToSkeletonMapTable[82] = { BoneTreeIndex=28 }
+    TrackToSkeletonMapTable[83] = { BoneTreeIndex=29 }
+    TrackToSkeletonMapTable[84] = { BoneTreeIndex=30 }
+    TrackToSkeletonMapTable[85] = { BoneTreeIndex=31 }
+    TrackToSkeletonMapTable[86] = { BoneTreeIndex=32 }
+    TrackToSkeletonMapTable[87] = { BoneTreeIndex=33 }
+    TrackToSkeletonMapTable[88] = { BoneTreeIndex=34 }
+    TrackToSkeletonMapTable[89] = { BoneTreeIndex=35 }
+    TrackToSkeletonMapTable[90] = { BoneTreeIndex=36 }
+    TrackToSkeletonMapTable[91] = { BoneTreeIndex=37 }
+    TrackToSkeletonMapTable[92] = { BoneTreeIndex=38 }
+    TrackToSkeletonMapTable[93] = { BoneTreeIndex=39 }
+    TrackToSkeletonMapTable[94] = { BoneTreeIndex=165 }
+    TrackToSkeletonMapTable[95] = { BoneTreeIndex=166 }
+    TrackToSkeletonMapTable[96] = { BoneTreeIndex=167 }
+    TrackToSkeletonMapTable[97] = { BoneTreeIndex=168 }
+    TrackToSkeletonMapTable[98] = { BoneTreeIndex=169 }
+    TrackToSkeletonMapTable[99] = { BoneTreeIndex=170 }
+    TrackToSkeletonMapTable[100] = { BoneTreeIndex=171 }
+    TrackToSkeletonMapTable[101] = { BoneTreeIndex=172 }
+    TrackToSkeletonMapTable[102] = { BoneTreeIndex=173 }
+    TrackToSkeletonMapTable[103] = { BoneTreeIndex=174 }
+    TrackToSkeletonMapTable[104] = { BoneTreeIndex=175 }
+    TrackToSkeletonMapTable[105] = { BoneTreeIndex=176 }
+    TrackToSkeletonMapTable[106] = { BoneTreeIndex=177 }
+    TrackToSkeletonMapTable[107] = { BoneTreeIndex=178 }
+    TrackToSkeletonMapTable[108] = { BoneTreeIndex=179 }
+    TrackToSkeletonMapTable[109] = { BoneTreeIndex=180 }
+    TrackToSkeletonMapTable[110] = { BoneTreeIndex=181 }
+    TrackToSkeletonMapTable[111] = { BoneTreeIndex=182 }
+    TrackToSkeletonMapTable[112] = { BoneTreeIndex=183 }
+    TrackToSkeletonMapTable[113] = { BoneTreeIndex=184 }
+    TrackToSkeletonMapTable[114] = { BoneTreeIndex=185 }
+}
+CompressedTrackToSkeletonMapTable[115] =
+{
+    CompressedTrackToSkeletonMapTable[0] = { BoneTreeIndex=0 }
+    CompressedTrackToSkeletonMapTable[1] = { BoneTreeIndex=1 }
+    CompressedTrackToSkeletonMapTable[2] = { BoneTreeIndex=2 }
+    CompressedTrackToSkeletonMapTable[3] = { BoneTreeIndex=3 }
+    CompressedTrackToSkeletonMapTable[4] = { BoneTreeIndex=4 }
+    CompressedTrackToSkeletonMapTable[5] = { BoneTreeIndex=5 }
+    CompressedTrackToSkeletonMapTable[6] = { BoneTreeIndex=6 }
+    CompressedTrackToSkeletonMapTable[7] = { BoneTreeIndex=7 }
+    CompressedTrackToSkeletonMapTable[8] = { BoneTreeIndex=8 }
+    CompressedTrackToSkeletonMapTable[9] = { BoneTreeIndex=111 }
+    CompressedTrackToSkeletonMapTable[10] = { BoneTreeIndex=112 }
+    CompressedTrackToSkeletonMapTable[11] = { BoneTreeIndex=113 }
+    CompressedTrackToSkeletonMapTable[12] = { BoneTreeIndex=114 }
+    CompressedTrackToSkeletonMapTable[13] = { BoneTreeIndex=115 }
+    CompressedTrackToSkeletonMapTable[14] = { BoneTreeIndex=116 }
+    CompressedTrackToSkeletonMapTable[15] = { BoneTreeIndex=117 }
+    CompressedTrackToSkeletonMapTable[16] = { BoneTreeIndex=118 }
+    CompressedTrackToSkeletonMapTable[17] = { BoneTreeIndex=119 }
+    CompressedTrackToSkeletonMapTable[18] = { BoneTreeIndex=120 }
+    CompressedTrackToSkeletonMapTable[19] = { BoneTreeIndex=121 }
+    CompressedTrackToSkeletonMapTable[20] = { BoneTreeIndex=122 }
+    CompressedTrackToSkeletonMapTable[21] = { BoneTreeIndex=123 }
+    CompressedTrackToSkeletonMapTable[22] = { BoneTreeIndex=124 }
+    CompressedTrackToSkeletonMapTable[23] = { BoneTreeIndex=125 }
+    CompressedTrackToSkeletonMapTable[24] = { BoneTreeIndex=126 }
+    CompressedTrackToSkeletonMapTable[25] = { BoneTreeIndex=127 }
+    CompressedTrackToSkeletonMapTable[26] = { BoneTreeIndex=128 }
+    CompressedTrackToSkeletonMapTable[27] = { BoneTreeIndex=129 }
+    CompressedTrackToSkeletonMapTable[28] = { BoneTreeIndex=130 }
+    CompressedTrackToSkeletonMapTable[29] = { BoneTreeIndex=131 }
+    CompressedTrackToSkeletonMapTable[30] = { BoneTreeIndex=132 }
+    CompressedTrackToSkeletonMapTable[31] = { BoneTreeIndex=133 }
+    CompressedTrackToSkeletonMapTable[32] = { BoneTreeIndex=134 }
+    CompressedTrackToSkeletonMapTable[33] = { BoneTreeIndex=135 }
+    CompressedTrackToSkeletonMapTable[34] = { BoneTreeIndex=136 }
+    CompressedTrackToSkeletonMapTable[35] = { BoneTreeIndex=137 }
+    CompressedTrackToSkeletonMapTable[36] = { BoneTreeIndex=9 }
+    CompressedTrackToSkeletonMapTable[37] = { BoneTreeIndex=138 }
+    CompressedTrackToSkeletonMapTable[38] = { BoneTreeIndex=139 }
+    CompressedTrackToSkeletonMapTable[39] = { BoneTreeIndex=140 }
+    CompressedTrackToSkeletonMapTable[40] = { BoneTreeIndex=141 }
+    CompressedTrackToSkeletonMapTable[41] = { BoneTreeIndex=142 }
+    CompressedTrackToSkeletonMapTable[42] = { BoneTreeIndex=143 }
+    CompressedTrackToSkeletonMapTable[43] = { BoneTreeIndex=144 }
+    CompressedTrackToSkeletonMapTable[44] = { BoneTreeIndex=145 }
+    CompressedTrackToSkeletonMapTable[45] = { BoneTreeIndex=146 }
+    CompressedTrackToSkeletonMapTable[46] = { BoneTreeIndex=147 }
+    CompressedTrackToSkeletonMapTable[47] = { BoneTreeIndex=148 }
+    CompressedTrackToSkeletonMapTable[48] = { BoneTreeIndex=149 }
+    CompressedTrackToSkeletonMapTable[49] = { BoneTreeIndex=150 }
+    CompressedTrackToSkeletonMapTable[50] = { BoneTreeIndex=151 }
+    CompressedTrackToSkeletonMapTable[51] = { BoneTreeIndex=152 }
+    CompressedTrackToSkeletonMapTable[52] = { BoneTreeIndex=153 }
+    CompressedTrackToSkeletonMapTable[53] = { BoneTreeIndex=154 }
+    CompressedTrackToSkeletonMapTable[54] = { BoneTreeIndex=155 }
+    CompressedTrackToSkeletonMapTable[55] = { BoneTreeIndex=156 }
+    CompressedTrackToSkeletonMapTable[56] = { BoneTreeIndex=157 }
+    CompressedTrackToSkeletonMapTable[57] = { BoneTreeIndex=158 }
+    CompressedTrackToSkeletonMapTable[58] = { BoneTreeIndex=159 }
+    CompressedTrackToSkeletonMapTable[59] = { BoneTreeIndex=160 }
+    CompressedTrackToSkeletonMapTable[60] = { BoneTreeIndex=161 }
+    CompressedTrackToSkeletonMapTable[61] = { BoneTreeIndex=162 }
+    CompressedTrackToSkeletonMapTable[62] = { BoneTreeIndex=163 }
+    CompressedTrackToSkeletonMapTable[63] = { BoneTreeIndex=164 }
+    CompressedTrackToSkeletonMapTable[64] = { BoneTreeIndex=10 }
+    CompressedTrackToSkeletonMapTable[65] = { BoneTreeIndex=11 }
+    CompressedTrackToSkeletonMapTable[66] = { BoneTreeIndex=12 }
+    CompressedTrackToSkeletonMapTable[67] = { BoneTreeIndex=13 }
+    CompressedTrackToSkeletonMapTable[68] = { BoneTreeIndex=14 }
+    CompressedTrackToSkeletonMapTable[69] = { BoneTreeIndex=15 }
+    CompressedTrackToSkeletonMapTable[70] = { BoneTreeIndex=16 }
+    CompressedTrackToSkeletonMapTable[71] = { BoneTreeIndex=17 }
+    CompressedTrackToSkeletonMapTable[72] = { BoneTreeIndex=18 }
+    CompressedTrackToSkeletonMapTable[73] = { BoneTreeIndex=19 }
+    CompressedTrackToSkeletonMapTable[74] = { BoneTreeIndex=20 }
+    CompressedTrackToSkeletonMapTable[75] = { BoneTreeIndex=21 }
+    CompressedTrackToSkeletonMapTable[76] = { BoneTreeIndex=22 }
+    CompressedTrackToSkeletonMapTable[77] = { BoneTreeIndex=23 }
+    CompressedTrackToSkeletonMapTable[78] = { BoneTreeIndex=24 }
+    CompressedTrackToSkeletonMapTable[79] = { BoneTreeIndex=25 }
+    CompressedTrackToSkeletonMapTable[80] = { BoneTreeIndex=26 }
+    CompressedTrackToSkeletonMapTable[81] = { BoneTreeIndex=27 }
+    CompressedTrackToSkeletonMapTable[82] = { BoneTreeIndex=28 }
+    CompressedTrackToSkeletonMapTable[83] = { BoneTreeIndex=29 }
+    CompressedTrackToSkeletonMapTable[84] = { BoneTreeIndex=30 }
+    CompressedTrackToSkeletonMapTable[85] = { BoneTreeIndex=31 }
+    CompressedTrackToSkeletonMapTable[86] = { BoneTreeIndex=32 }
+    CompressedTrackToSkeletonMapTable[87] = { BoneTreeIndex=33 }
+    CompressedTrackToSkeletonMapTable[88] = { BoneTreeIndex=34 }
+    CompressedTrackToSkeletonMapTable[89] = { BoneTreeIndex=35 }
+    CompressedTrackToSkeletonMapTable[90] = { BoneTreeIndex=36 }
+    CompressedTrackToSkeletonMapTable[91] = { BoneTreeIndex=37 }
+    CompressedTrackToSkeletonMapTable[92] = { BoneTreeIndex=38 }
+    CompressedTrackToSkeletonMapTable[93] = { BoneTreeIndex=39 }
+    CompressedTrackToSkeletonMapTable[94] = { BoneTreeIndex=165 }
+    CompressedTrackToSkeletonMapTable[95] = { BoneTreeIndex=166 }
+    CompressedTrackToSkeletonMapTable[96] = { BoneTreeIndex=167 }
+    CompressedTrackToSkeletonMapTable[97] = { BoneTreeIndex=168 }
+    CompressedTrackToSkeletonMapTable[98] = { BoneTreeIndex=169 }
+    CompressedTrackToSkeletonMapTable[99] = { BoneTreeIndex=170 }
+    CompressedTrackToSkeletonMapTable[100] = { BoneTreeIndex=171 }
+    CompressedTrackToSkeletonMapTable[101] = { BoneTreeIndex=172 }
+    CompressedTrackToSkeletonMapTable[102] = { BoneTreeIndex=173 }
+    CompressedTrackToSkeletonMapTable[103] = { BoneTreeIndex=174 }
+    CompressedTrackToSkeletonMapTable[104] = { BoneTreeIndex=175 }
+    CompressedTrackToSkeletonMapTable[105] = { BoneTreeIndex=176 }
+    CompressedTrackToSkeletonMapTable[106] = { BoneTreeIndex=177 }
+    CompressedTrackToSkeletonMapTable[107] = { BoneTreeIndex=178 }
+    CompressedTrackToSkeletonMapTable[108] = { BoneTreeIndex=179 }
+    CompressedTrackToSkeletonMapTable[109] = { BoneTreeIndex=180 }
+    CompressedTrackToSkeletonMapTable[110] = { BoneTreeIndex=181 }
+    CompressedTrackToSkeletonMapTable[111] = { BoneTreeIndex=182 }
+    CompressedTrackToSkeletonMapTable[112] = { BoneTreeIndex=183 }
+    CompressedTrackToSkeletonMapTable[113] = { BoneTreeIndex=184 }
+    CompressedTrackToSkeletonMapTable[114] = { BoneTreeIndex=185 }
+}
+CompressedCurveData = { FloatCurves[0]={} }
+Interpolation = Linear (0)
+AdditiveAnimType = AAT_None (0)
+RefPoseType = ABPT_None (0)
+RetargetSource = None
+RefPoseSeq = None
+RefFrameIndex = 0
+RetargetSourceAssetReferencePose[215] =
+{
+    RetargetSourceAssetReferencePose[0] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[1] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[2] =
+    {
+        Rotation =
+        {
+            X = 0.0126671
+            Y = 0.706993
+            Z = -0.0126671
+            W = -0.706993
+        }
+        Translation = { X=1.41588e-14, Y=-0.707131, Z=93.1191 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[3] =
+    {
+        Rotation =
+        {
+            X = 2.10824e-09
+            Y = -7.17953e-11
+            Z = 0.034035
+            W = -0.999421
+        }
+        Translation = { X=6.74937, Y=-0.638774, Z=-5.29771e-13 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[4] =
+    {
+        Rotation =
+        {
+            X = 1.47089e-09
+            Y = -3.49546e-11
+            Z = 0.0237575
+            W = -0.999718
+        }
+        Translation = { X=7.25176, Y=-0.0349806, Z=-1.57873e-12 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[5] =
+    {
+        Rotation =
+        {
+            X = 9.18101e-10
+            Y = -1.3659e-11
+            Z = 0.0148758
+            W = -0.999889
+        }
+        Translation = { X=6.01043, Y=-4.44089e-15, Z=2.10285e-12 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[6] =
+    {
+        Rotation =
+        {
+            X = -8.09259e-10
+            Y = -1.06488e-11
+            Z = -0.0131575
+            W = -0.999913
+        }
+        Translation = { X=8.10236, Y=-3.55271e-14, Z=-2.8326e-12 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[7] =
+    {
+        Rotation =
+        {
+            X = -9.21382e-11
+            Y = -1.37661e-13
+            Z = -0.00149407
+            W = -0.999999
+        }
+        Translation = { X=10.0146, Y=3.90799e-14, Z=4.94972e-12 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[8] =
+    {
+        Rotation =
+        {
+            X = 0.0464754
+            Y = -0.728931
+            Z = -0.00898957
+            W = -0.682949
+        }
+        Translation = { X=4.35746, Y=-0.146572, Z=-2.32232 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[9] =
+    {
+        Rotation =
+        {
+            X = 0.728931
+            Y = 0.0464754
+            Z = -0.682949
+            W = 0.00898957
+        }
+        Translation = { X=4.35755, Y=-0.146559, Z=2.32233 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[10] =
+    {
+        Rotation =
+        {
+            X = 2.38706e-24
+            Y = 6.13412e-24
+            Z = -0.200277
+            W = -0.979739
+        }
+        Translation = { X=11.3138, Y=0.152862, Z=-2.31281e-12 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[11] =
+    {
+        Rotation =
+        {
+            X = 2.97582e-09
+            Y = -1.50262e-10
+            Z = 0.0504303
+            W = -0.998728
+        }
+        Translation = { X=4.56268, Y=3.69482e-13, Z=-4.56363e-14 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[12] =
+    {
+        Rotation =
+        {
+            X = 6.88955e-09
+            Y = -7.9728e-10
+            Z = 0.114956
+            W = -0.993371
+        }
+        Translation = { X=5.39138, Y=-1.40727e-09, Z=-1.15721e-13 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[13] =
+    {
+        Rotation =
+        {
+            X = 0.00815363
+            Y = -0.70706
+            Z = -0.00815363
+            W = -0.70706
+        }
+        Translation = { X=-2.39595, Y=0.798977, Z=0.0154993 }
+        Scale3D = { X=0.89, Y=0.89, Z=0.89 }
+    }
+    RetargetSourceAssetReferencePose[14] =
+    {
+        Rotation =
+        {
+            X = -1.27339e-10
+            Y = 0.0705556
+            Z = -0.0139385
+            W = -0.99741
+        }
+        Translation = { X=-0.00501454, Y=9.95861, Z=8.46487 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[15] =
+    {
+        Rotation =
+        {
+            X = -0.000260609
+            Y = -0.00537921
+            Z = 0.25529
+            W = -0.96685
+        }
+        Translation = { X=3.13458, Y=9.11496, Z=9.49422 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[16] =
+    {
+        Rotation = { X=0.0629999, Y=0.0754041, Z=0.425732, W=-0.899499 }
+        Translation = { X=5.5959, Y=7.35341, Z=9.42636 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[17] =
+    {
+        Rotation =
+        {
+            X = -0.0619007
+            Y = -0.247685
+            Z = 0.321384
+            W = -0.911884
+        }
+        Translation = { X=4.17276, Y=7.80204, Z=3.40604 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[18] =
+    {
+        Rotation =
+        {
+            X = 0.222493
+            Y = 0.00212806
+            Z = -0.000789807
+            W = -0.974932
+        }
+        Translation = { X=0.0144086, Y=9.93153, Z=1.08464 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[19] =
+    {
+        Rotation =
+        {
+            X = 0.0392792
+            Y = -0.0633754
+            Z = 0.259144
+            W = -0.962956
+        }
+        Translation = { X=1.77386, Y=8.95224, Z=1.02393 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[20] =
+    {
+        Rotation =
+        {
+            X = 0.00256951
+            Y = 0.00838257
+            Z = -0.0145711
+            W = -0.999855
+        }
+        Translation = { X=2.33441, Y=8.34636, Z=0.874579 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[21] =
+    {
+        Rotation =
+        {
+            X = -0.221804
+            Y = -0.00971183
+            Z = -0.00273215
+            W = -0.975039
+        }
+        Translation = { X=0.00306697, Y=11.5861, Z=5.69156 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[22] =
+    {
+        Rotation =
+        {
+            X = -0.000122475
+            Y = 0.00431541
+            Z = -0.255282
+            W = -0.966857
+        }
+        Translation = { X=-3.10056, Y=9.11713, Z=9.49923 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[23] =
+    {
+        Rotation =
+        {
+            X = 0.0447189
+            Y = -0.0523848
+            Z = -0.43119
+            W = -0.899628
+        }
+        Translation = { X=-5.56768, Y=7.348, Z=9.4051 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[24] =
+    {
+        Rotation =
+        {
+            X = -0.0621512
+            Y = 0.248317
+            Z = -0.321301
+            W = -0.911725
+        }
+        Translation = { X=-4.12555, Y=7.80962, Z=3.39748 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[25] =
+    {
+        Rotation =
+        {
+            X = 0.00283649
+            Y = -0.00810613
+            Z = 0.0146
+            W = -0.999857
+        }
+        Translation = { X=-2.34055, Y=8.40979, Z=0.908962 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[26] =
+    {
+        Rotation =
+        {
+            X = -1.73472e-18
+            Y = 5.16988e-26
+            Z = -4.27323e-25
+            W = -1
+        }
+        Translation = { X=0.0100581, Y=2.99598, Z=1.34207 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[27] =
+    {
+        Rotation = { X=0.015865, Y=0.0601526, Z=0.317417, W=-0.946243 }
+        Translation = { X=1.86238, Y=5.78854, Z=-0.378279 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[28] =
+    {
+        Rotation =
+        {
+            X = -4.68449e-09
+            Y = -0.0186901
+            Z = -0.00396462
+            W = -0.999817
+        }
+        Translation = { X=0.00500636, Y=6.78984, Z=-0.532626 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[29] =
+    {
+        Rotation =
+        {
+            X = 0.00502705
+            Y = -0.00135197
+            Z = -0.272587
+            W = -0.962117
+        }
+        Translation = { X=-1.84817, Y=5.91455, Z=-0.426398 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[30] =
+    {
+        Rotation = { X=0, Y=0, Z=-4.27323e-25, W=-1 }
+        Translation = { X=-0.0790655, Y=4.61141, Z=-2.26098 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[31] =
+    {
+        Rotation =
+        {
+            X = -0.156846
+            Y = -6.7024e-26
+            Z = -4.22034e-25
+            W = -0.987623
+        }
+        Translation = { X=0.0143815, Y=1.52825, Z=-0.893432 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[32] =
+    {
+        Rotation =
+        {
+            X = -5.42006e-20
+            Y = -1.01296e-21
+            Z = 0.999825
+            W = -0.0186858
+        }
+        Translation = { X=-3.08414, Y=6.97704, Z=8.09105 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[33] =
+    {
+        Rotation =
+        {
+            X = 0.0522704
+            Y = -0.000873718
+            Z = 0.0166902
+            W = -0.998493
+        }
+        Translation = { X=-0.0395779, Y=-1.17144, Z=0.263058 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[34] =
+    {
+        Rotation =
+        {
+            X = 0.032867
+            Y = -0.000549384
+            Z = 0.016704
+            W = -0.99932
+        }
+        Translation = { X=-0.0084616, Y=-0.942473, Z=-0.70512 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[35] =
+    {
+        Rotation =
+        {
+            X = 9.2194e-20
+            Y = -8.69236e-19
+            Z = 0.999825
+            W = 0.0186858
+        }
+        Translation = { X=3.11897, Y=6.97704, Z=8.09105 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[36] =
+    {
+        Rotation =
+        {
+            X = 0.0522777
+            Y = 3.0593e-20
+            Z = -2.65833e-18
+            W = -0.998633
+        }
+        Translation = { X=0.025135, Y=-1.16234, Z=0.238807 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[37] =
+    {
+        Rotation =
+        {
+            X = 0.0328716
+            Y = -2.10449e-20
+            Z = -2.65842e-18
+            W = -0.99946
+        }
+        Translation = { X=0.0222674, Y=-0.923042, Z=-0.748781 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[38] =
+    {
+        Rotation =
+        {
+            X = -1.73472e-18
+            Y = 5.16988e-26
+            Z = -4.27323e-25
+            W = -1
+        }
+        Translation = { X=0.0146896, Y=7.88866, Z=1.846 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[39] =
+    {
+        Rotation = { X=0.0464878, Y=0.042991, Z=-0.251348, W=-0.965823 }
+        Translation = { X=-1.76277, Y=8.99501, Z=1.06607 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[40] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[41] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[42] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[43] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[44] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[45] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[46] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[47] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[48] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[49] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[50] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[51] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[52] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[53] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[54] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[55] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[56] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[57] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[58] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[59] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[60] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[61] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[62] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[63] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[64] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[65] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[66] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[67] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[68] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[69] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[70] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[71] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[72] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[73] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[74] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[75] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[76] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[77] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[78] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[79] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[80] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[81] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[82] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[83] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[84] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[85] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[86] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[87] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[88] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[89] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[90] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[91] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[92] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[93] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[94] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[95] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[96] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[97] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[98] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[99] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[100] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[101] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[102] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[103] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[104] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[105] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[106] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[107] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[108] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[109] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[110] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[111] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[112] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[113] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[114] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[115] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[116] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[117] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[118] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[119] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[120] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[121] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[122] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[123] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[124] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[125] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[126] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[127] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[128] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[129] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[130] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[131] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[132] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[133] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[134] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[135] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[136] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[137] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[138] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[139] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[140] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[141] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[142] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[143] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[144] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[145] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[146] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[147] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[148] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[149] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[150] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[151] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[152] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[153] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[154] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[155] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[156] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[157] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[158] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[159] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[160] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[161] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[162] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[163] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[164] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[165] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[166] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[167] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[168] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[169] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[170] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[171] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[172] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[173] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[174] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[175] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[176] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[177] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[178] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[179] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[180] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[181] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[182] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[183] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[184] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[185] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[186] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[187] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[188] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[189] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[190] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[191] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[192] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[193] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[194] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[195] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[196] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[197] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[198] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[199] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[200] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[201] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[202] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[203] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[204] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[205] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[206] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[207] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[208] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[209] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[210] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[211] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[212] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[213] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+    RetargetSourceAssetReferencePose[214] =
+    {
+        Rotation = { X=0, Y=0, Z=0, W=1 }
+        Translation = { X=0, Y=0, Z=0 }
+        Scale3D = { X=1, Y=1, Z=1 }
+    }
+}
+bEnableRootMotion = false
+AuthoredSyncMarkers[0] = {}
+BakedPerBoneCustomAttributeData[0] = {}
+Notifies[0] = {}
+SequenceLength = 1.93333
+RateScale = 1
+RawCurveData = { FloatCurves[0]={} }
+Skeleton = Skeleton'/Game/Characters/Player/Common/Fortnite_Base_Head/Fortnite_Base_Head_Export_Skeleton.Fortnite_Base_Head_Export_Skeleton'

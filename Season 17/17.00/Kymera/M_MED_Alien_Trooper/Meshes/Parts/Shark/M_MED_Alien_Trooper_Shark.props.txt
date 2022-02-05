@@ -1,0 +1,113 @@
+Skeleton = Skeleton'/Game/Characters/Player/Male/Medium/Heads/M_MED_AlienTrooper_Head/Meshes/Human/Male_Medium_Alien_Trooper_Head_Skeleton.Male_Medium_Alien_Trooper_Head_Skeleton'
+bHasVertexColors = true
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[1] =
+        {
+            BonesToRemove[0] = { BoneName=C_nose_bridge }
+        }
+        BonesToPrioritize[4] =
+        {
+            BonesToPrioritize[0] = { BoneName=R_eye_lid_lower_mid }
+            BonesToPrioritize[1] = { BoneName=L_eye_lid_lower_mid }
+            BonesToPrioritize[2] = { BoneName=R_eye_lid_upper_mid }
+            BonesToPrioritize[3] = { BoneName=L_eye_lid_upper_mid }
+        }
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[21] =
+        {
+            BonesToRemove[0] = { BoneName=faceAttach }
+            BonesToRemove[1] = { BoneName=C_brow_mid }
+            BonesToRemove[2] = { BoneName=L_brow_mid }
+            BonesToRemove[3] = { BoneName=L_brow_outer }
+            BonesToRemove[4] = { BoneName=L_cheek_inner }
+            BonesToRemove[5] = { BoneName=C_nose_bridge }
+            BonesToRemove[6] = { BoneName=R_brow_mid }
+            BonesToRemove[7] = { BoneName=R_brow_outer }
+            BonesToRemove[8] = { BoneName=R_cheek_inner }
+            BonesToRemove[9] = { BoneName=R_eye }
+            BonesToRemove[10] = { BoneName=R_eye_lid_upper_mid }
+            BonesToRemove[11] = { BoneName=R_eye_lid_lower_mid }
+            BonesToRemove[12] = { BoneName=dyn_R_eye }
+            BonesToRemove[13] = { BoneName=L_eye }
+            BonesToRemove[14] = { BoneName=L_eye_lid_upper_mid }
+            BonesToRemove[15] = { BoneName=L_eye_lid_lower_mid }
+            BonesToRemove[16] = { BoneName=dyn_L_eye }
+            BonesToRemove[17] = { BoneName=dyn_fin_l }
+            BonesToRemove[18] = { BoneName=dyn_fin_l_02 }
+            BonesToRemove[19] = { BoneName=dyn_fin_r }
+            BonesToRemove[20] = { BoneName=dyn_fin_r_02 }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[21] =
+        {
+            BonesToRemove[0] = { BoneName=faceAttach }
+            BonesToRemove[1] = { BoneName=C_brow_mid }
+            BonesToRemove[2] = { BoneName=L_brow_mid }
+            BonesToRemove[3] = { BoneName=L_brow_outer }
+            BonesToRemove[4] = { BoneName=L_cheek_inner }
+            BonesToRemove[5] = { BoneName=C_nose_bridge }
+            BonesToRemove[6] = { BoneName=R_brow_mid }
+            BonesToRemove[7] = { BoneName=R_brow_outer }
+            BonesToRemove[8] = { BoneName=R_cheek_inner }
+            BonesToRemove[9] = { BoneName=R_eye }
+            BonesToRemove[10] = { BoneName=R_eye_lid_upper_mid }
+            BonesToRemove[11] = { BoneName=R_eye_lid_lower_mid }
+            BonesToRemove[12] = { BoneName=dyn_R_eye }
+            BonesToRemove[13] = { BoneName=L_eye }
+            BonesToRemove[14] = { BoneName=L_eye_lid_upper_mid }
+            BonesToRemove[15] = { BoneName=L_eye_lid_lower_mid }
+            BonesToRemove[16] = { BoneName=dyn_L_eye }
+            BonesToRemove[17] = { BoneName=dyn_fin_l }
+            BonesToRemove[18] = { BoneName=dyn_fin_l_02 }
+            BonesToRemove[19] = { BoneName=dyn_fin_r }
+            BonesToRemove[20] = { BoneName=dyn_fin_r_02 }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

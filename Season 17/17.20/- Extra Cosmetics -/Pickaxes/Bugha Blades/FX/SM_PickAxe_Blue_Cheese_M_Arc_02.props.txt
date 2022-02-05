@@ -1,0 +1,26 @@
+Materials[1] =
+{
+    Materials[0] = MaterialInstanceConstant'/Game/Weapons/FORT_Melee/Pickaxe_Blue_Cheese_Male/FX/MI_Pickaxe_Blue_Cheese_M_Arc.MI_Pickaxe_Blue_Cheese_M_Arc'
+}
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = MaterialInstanceConstant'/Game/Weapons/FORT_Melee/Pickaxe_Blue_Cheese_Male/FX/MI_Pickaxe_Blue_Cheese_M_Arc.MI_Pickaxe_Blue_Cheese_M_Arc'
+        MaterialSlotName = WorldGridMaterial
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 2.64129, 0, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=-12.0955, Y=-2.81016, Z=-0.363029 }
+    BoxExtent = { X=12.1079, Y=6.38419, Z=6.78024 }
+    SphereRadius = 13.5521
+}

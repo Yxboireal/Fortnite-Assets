@@ -1,0 +1,368 @@
+Parent = Material3'/Game/Characters/Player/Male/Large/Bodies/M_LRG_Invader/Skins/Glow/Materials/M_Invader_Glow.M_Invader_Glow'
+ScalarParameterValues[29] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=emissive mult }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=RoughnessMultiplier }
+        ParameterValue = 0.6
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=Metalness }
+        ParameterValue = 0.8
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=GlassMaskFresnelStrength }
+        ParameterValue = 0.3
+        ParameterName = None
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = { Name=GlassMaskFresnelLow }
+        ParameterValue = 0.2
+        ParameterName = None
+    }
+    ScalarParameterValues[5] =
+    {
+        ParameterInfo = { Name=GlassMaskFresnelHigh }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[6] =
+    {
+        ParameterInfo = { Name=GlassGradientFresnelExponent }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[7] =
+    {
+        ParameterInfo = { Name=GlassGradientFresnelStrength }
+        ParameterValue = 3
+        ParameterName = None
+    }
+    ScalarParameterValues[8] =
+    {
+        ParameterInfo = { Name=GlassGradientFresnelOffset }
+        ParameterValue = 0.5
+        ParameterName = None
+    }
+    ScalarParameterValues[9] =
+    {
+        ParameterInfo = { Name=GlassGradientFresnelIntensity }
+        ParameterValue = 0.8
+        ParameterName = None
+    }
+    ScalarParameterValues[10] =
+    {
+        ParameterInfo = { Name=GlassEmissiveStrength }
+        ParameterValue = 0.15
+        ParameterName = None
+    }
+    ScalarParameterValues[11] =
+    {
+        ParameterInfo = { Name=LavaGradientTiling }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[12] =
+    {
+        ParameterInfo = { Name=LavaGradientScaleDivisor }
+        ParameterValue = 40
+        ParameterName = None
+    }
+    ScalarParameterValues[13] =
+    {
+        ParameterInfo = { Name=LavaGradientBrightnessLow }
+        ParameterValue = 0.4
+        ParameterName = None
+    }
+    ScalarParameterValues[14] =
+    {
+        ParameterInfo = { Name=LavaGradientBrightnessHigh }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[15] =
+    {
+        ParameterInfo = { Name=LavaFalloffLow }
+        ParameterValue = 0.25
+        ParameterName = None
+    }
+    ScalarParameterValues[16] =
+    {
+        ParameterInfo = { Name=LavaFalloffHigh }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[17] =
+    {
+        ParameterInfo = { Name=LavaAxisBlendStrength }
+        ParameterValue = 0.5
+        ParameterName = None
+    }
+    ScalarParameterValues[18] =
+    {
+        ParameterInfo = { Name=R_GlassEdgeStrength }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[19] =
+    {
+        ParameterInfo = { Name=R_GlassEdgeEmissiveStrength }
+        ParameterValue = 0.1
+        ParameterName = None
+    }
+    ScalarParameterValues[20] =
+    {
+        ParameterInfo = { Name=G_LavaDistortionAmount }
+        ParameterValue = 0.1
+        ParameterName = None
+    }
+    ScalarParameterValues[21] =
+    {
+        ParameterInfo = { Name=B_LavaGradientOffset }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[22] =
+    {
+        ParameterInfo = { Name=Scanline Min }
+        ParameterValue = 0.45
+        ParameterName = None
+    }
+    ScalarParameterValues[23] =
+    {
+        ParameterInfo = { Name=Scanline Thickness Bias }
+        ParameterValue = 0.1
+        ParameterName = None
+    }
+    ScalarParameterValues[24] =
+    {
+        ParameterInfo = { Name=Scanline_PannerSpeed }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[25] =
+    {
+        ParameterInfo = { Name=Scanline_PannerSpeed_1 }
+        ParameterValue = -0.1
+        ParameterName = None
+    }
+    ScalarParameterValues[26] =
+    {
+        ParameterInfo = { Name=ScanLine_Tiling }
+        ParameterValue = 30
+        ParameterName = None
+    }
+    ScalarParameterValues[27] =
+    {
+        ParameterInfo = { Name=ScanLine_Tiling_1 }
+        ParameterValue = 0.25
+        ParameterName = None
+    }
+    ScalarParameterValues[28] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[10] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=Diffuse }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Large/Bodies/M_LRG_Invader/Skins/Glow/Textures/T_M_LRG_Invader_Glow_Head_D.T_M_LRG_Invader_Glow_Head_D'
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=Emissive }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Large/Bodies/M_LRG_Invader/Skins/Glow/Textures/T_M_LRG_Invader_Glow_Head_E.T_M_LRG_Invader_Glow_Head_E'
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=GlassGradient }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Large/Bodies/M_LRG_Invader/Textures/T_InvaderGlow_Glass_Gradient.T_InvaderGlow_Glass_Gradient'
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=LavaGradient }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Large/Bodies/M_LRG_Invader/Textures/T_InvaderGlow_Lava_Gradient.T_InvaderGlow_Lava_Gradient'
+        ParameterName = None
+    }
+    TextureParameterValues[4] =
+    {
+        ParameterInfo = { Name=Lava UV Gradient }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Large/Bodies/M_LRG_Invader/Skins/Glow/Textures/T_InvaderGlow_Lava_UV_Gradient.T_InvaderGlow_Lava_UV_Gradient'
+        ParameterName = None
+    }
+    TextureParameterValues[5] =
+    {
+        ParameterInfo = { Name=InvaderGlow_Mask }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Large/Bodies/M_LRG_Invader/Skins/Glow/Textures/T_M_LRG_Invader_Glow_Head_M2.T_M_LRG_Invader_Glow_Head_M2'
+        ParameterName = None
+    }
+    TextureParameterValues[6] =
+    {
+        ParameterInfo = { Name=M }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Large/Bodies/M_LRG_Invader/Skins/Dark/Textures/T_M_LRG_Invader_Dark_Head_M.T_M_LRG_Invader_Dark_Head_M'
+        ParameterName = None
+    }
+    TextureParameterValues[7] =
+    {
+        ParameterInfo = { Name=Normals }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Large/Bodies/M_LRG_Invader/Skins/Glow/Textures/T_M_LRG_Invader_Glow_Head_N.T_M_LRG_Invader_Glow_Head_N'
+        ParameterName = None
+    }
+    TextureParameterValues[8] =
+    {
+        ParameterInfo = { Name=SkinFX_Mask }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Large/Bodies/M_LRG_Invader/Skins/Glow/Textures/T_M_LRG_Invader_Glow_Head_FX.T_M_LRG_Invader_Glow_Head_FX'
+        ParameterName = None
+    }
+    TextureParameterValues[9] =
+    {
+        ParameterInfo = { Name=SpecularMasks }
+        ParameterValue = Texture2D'/Game/Characters/Player/Male/Large/Bodies/M_LRG_Invader/Skins/Glow/Textures/T_M_LRG_Invader_Glow_Head_S.T_M_LRG_Invader_Glow_Head_S'
+        ParameterName = None
+    }
+}
+VectorParameterValues[3] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=GlassColor }
+        ParameterValue = { R=0.550781, G=0.869056, B=0.979167, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=LavaColor }
+        ParameterValue = { R=3, G=1.75, B=1.5, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=LavaSpeed }
+        ParameterValue = { R=0, G=0.02, B=0.045, A=1 }
+        ParameterName = None
+    }
+}
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0.3333
+}
+StaticParameters =
+{
+    StaticSwitchParameters[3] =
+    {
+        StaticSwitchParameters[0] =
+        {
+            Value = true
+            ParameterInfo = { Name=Emissive }
+            bOverride = true
+        }
+        StaticSwitchParameters[1] =
+        {
+            Value = true
+            ParameterInfo = { Name=UseScanlines }
+            bOverride = true
+        }
+        StaticSwitchParameters[2] =
+        {
+            Value = true
+            ParameterInfo = { Name=Disable Skin Material }
+            bOverride = true
+        }
+    }
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[10] =
+{
+    TextureStreamingData[0] =
+    {
+        SamplingScale = 0.25
+        UVChannelIndex = 1
+        TextureName = Scanlines_Offset
+    }
+    TextureStreamingData[1] =
+    {
+        SamplingScale = 0.015625
+        UVChannelIndex = 1
+        TextureName = T_InvaderGlow_Glass_Gradient
+    }
+    TextureStreamingData[2] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_M_LRG_Invader_Dark_Head_M
+    }
+    TextureStreamingData[3] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_M_LRG_Invader_Glow_Head_D
+    }
+    TextureStreamingData[4] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_M_LRG_Invader_Glow_Head_E
+    }
+    TextureStreamingData[5] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_M_LRG_Invader_Glow_Head_FX
+    }
+    TextureStreamingData[6] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_M_LRG_Invader_Glow_Head_M2
+    }
+    TextureStreamingData[7] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_M_LRG_Invader_Glow_Head_N
+    }
+    TextureStreamingData[8] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_M_LRG_Invader_Glow_Head_S
+    }
+    TextureStreamingData[9] =
+    {
+        SamplingScale = 29.9941
+        UVChannelIndex = 1
+        TextureName = T_VertGradient
+    }
+}

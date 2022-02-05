@@ -1,0 +1,224 @@
+Parent = Material3'/Game/Environments/Apollo/Sets/Skyfire/Materials/Parents/M_Skyfire_Metal_Parent.M_Skyfire_Metal_Parent'
+ScalarParameterValues[12] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=BaseColorDirtHigh }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=BaseColorDirtLow }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=DiffuseColorCurve }
+        ParameterValue = 16
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=ViewAngleDependantTechPattern_High }
+        ParameterValue = 0.6
+        ParameterName = None
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = { Name=ViewAngleDependantTechPattern_Low }
+        ParameterValue = 0.3
+        ParameterName = None
+    }
+    ScalarParameterValues[5] =
+    {
+        ParameterInfo = { Name=ChromaColorCurve }
+        ParameterValue = 11
+        ParameterName = None
+    }
+    ScalarParameterValues[6] =
+    {
+        ParameterInfo = { Name=CurvatureEmissiveExponent }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[7] =
+    {
+        ParameterInfo = { Name=EmissiveColorCurve }
+        ParameterValue = 8
+        ParameterName = None
+    }
+    ScalarParameterValues[8] =
+    {
+        ParameterInfo = { Name=MetalTileDivisorU }
+        ParameterValue = 600
+        ParameterName = None
+    }
+    ScalarParameterValues[9] =
+    {
+        ParameterInfo = { Name=MetalTileDivisorV }
+        ParameterValue = 20
+        ParameterName = None
+    }
+    ScalarParameterValues[10] =
+    {
+        ParameterInfo = { Name=TechTileDivisor }
+        ParameterValue = 300
+        ParameterName = None
+    }
+    ScalarParameterValues[11] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[3] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=EmissiveTexture }
+        ParameterValue = Texture2D'/FortniteGame/Plugins/GameFeatures/Nevada/Content/Textures/T_Vehicle_Nevada_B_E.T_Vehicle_Nevada_B_E'
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=Masks }
+        ParameterValue = Texture2D'/FortniteGame/Plugins/GameFeatures/Nevada/Content/Textures/T_B_MSK.T_B_MSK'
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=Normal }
+        ParameterValue = Texture2D'/FortniteGame/Plugins/GameFeatures/Nevada/Content/Textures/T_Vehicle_Nevada_B_N.T_Vehicle_Nevada_B_N'
+        ParameterName = None
+    }
+}
+VectorParameterValues[2] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=CurvatureColorEmissive }
+        ParameterValue = { R=0.382937, G=0.172969, B=0.897569, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=EmissiveTextureScale }
+        ParameterValue = { R=0.973152, G=1, B=0.926343, A=1 }
+        ParameterName = None
+    }
+}
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0.3333
+}
+StaticParameters =
+{
+    StaticSwitchParameters[6] =
+    {
+        StaticSwitchParameters[0] =
+        {
+            Value = false
+            ParameterInfo = { Name=AddEmissiveColorCurveToEmissiveTexture }
+            bOverride = true
+        }
+        StaticSwitchParameters[1] =
+        {
+            Value = false
+            ParameterInfo = { Name=ModulateEmissiveTextureByGlowMask }
+            bOverride = true
+        }
+        StaticSwitchParameters[2] =
+        {
+            Value = true
+            ParameterInfo = { Name=UseEmissiveTexture }
+            bOverride = true
+        }
+        StaticSwitchParameters[3] =
+        {
+            Value = true
+            ParameterInfo = { Name=UseValetDamage }
+            bOverride = true
+        }
+        StaticSwitchParameters[4] =
+        {
+            Value = false
+            ParameterInfo = { Name=DetailNormalUsesTechPatternUVs }
+            bOverride = true
+        }
+        StaticSwitchParameters[5] =
+        {
+            Value = true
+            ParameterInfo = { Name=UseLocalSpaceForTriPlanarTiling }
+            bOverride = true
+        }
+    }
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[8] =
+{
+    TextureStreamingData[0] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_B_MSK
+    }
+    TextureStreamingData[1] =
+    {
+        SamplingScale = 0.15625
+        UVChannelIndex = 0
+        TextureName = T_BrushedMetal_Detail_N
+    }
+    TextureStreamingData[2] =
+    {
+        SamplingScale = 0.15625
+        UVChannelIndex = 0
+        TextureName = T_Skyfire_PackA
+    }
+    TextureStreamingData[3] =
+    {
+        SamplingScale = 0.484375
+        UVChannelIndex = 0
+        TextureName = T_Skyfire_PackB
+    }
+    TextureStreamingData[4] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_Vehicle_Nevada_B_E
+    }
+    TextureStreamingData[5] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_Vehicle_Nevada_B_N
+    }
+    TextureStreamingData[6] =
+    {
+        SamplingScale = 1.59375
+        UVChannelIndex = 0
+        TextureName = ValetDamage_AO
+    }
+    TextureStreamingData[7] =
+    {
+        SamplingScale = 1.59375
+        UVChannelIndex = 0
+        TextureName = ValetDamage_N
+    }
+}

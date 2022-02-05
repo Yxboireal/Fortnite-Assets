@@ -1,0 +1,26 @@
+Materials[1] =
+{
+    Materials[0] = MaterialInstanceConstant'/Game/Characters/Player/Male/XLarge/Bodies/M_XLG_Jim_01/Materials/M_LRG_JIM_Gauntlet.M_LRG_JIM_Gauntlet'
+}
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = MaterialInstanceConstant'/Game/Characters/Player/Male/XLarge/Bodies/M_XLG_Jim_01/Materials/M_LRG_JIM_Gauntlet.M_LRG_JIM_Gauntlet'
+        MaterialSlotName = Gauntlet
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 144.608, 0, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=0.310522, Y=0.347296, Z=44.7933 }
+    BoxExtent = { X=21.3218, Y=20.8198, Z=42.2152 }
+    SphereRadius = 44.8956
+}

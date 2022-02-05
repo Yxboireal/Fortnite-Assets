@@ -1,0 +1,142 @@
+Parent = Material3'/Game/Gadgets/Assets/VinderTech_GliderChute/Glider_Majesty_Male/FX/M_Glider_Majesty_Trail.M_Glider_Majesty_Trail'
+ScalarParameterValues[1] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[0] = {}
+VectorParameterValues[9] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=Line }
+        ParameterValue = { R=500, G=1, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=LineColor }
+        ParameterValue = { R=50, G=29.2361, B=2.08333, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=Noise }
+        ParameterValue = { R=-0.5, G=0.3, B=0.25, A=-0.15 }
+        ParameterName = None
+    }
+    VectorParameterValues[3] =
+    {
+        ParameterInfo = { Name=NoiseA UV }
+        ParameterValue = { R=1, G=1, B=-0.7, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[4] =
+    {
+        ParameterInfo = { Name=NoiseB UV }
+        ParameterValue = { R=1, G=2, B=-0.5, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[5] =
+    {
+        ParameterInfo = { Name=Tile Alpha Refine }
+        ParameterValue = { R=2, G=50, B=10, A=0.5 }
+        ParameterName = None
+    }
+    VectorParameterValues[6] =
+    {
+        ParameterInfo = { Name=Tile Emissive Refine }
+        ParameterValue = { R=5, G=150, B=1, A=0.5 }
+        ParameterName = None
+    }
+    VectorParameterValues[7] =
+    {
+        ParameterInfo = { Name=Tile UV }
+        ParameterValue = { R=1.5, G=2.5, B=-2, A=0.5 }
+        ParameterName = None
+    }
+    VectorParameterValues[8] =
+    {
+        ParameterInfo = { Name=Tile2 UV }
+        ParameterValue = { R=2, G=2, B=-2, A=-0.2 }
+        ParameterName = None
+    }
+}
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Translucent (2)
+    bOverride_TwoSided = false
+    TwoSided = true
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0.3333
+}
+StaticParameters =
+{
+    StaticSwitchParameters[0] = {}
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[8] =
+{
+    TextureStreamingData[0] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_CellNoise
+    }
+    TextureStreamingData[1] =
+    {
+        SamplingScale = 2
+        UVChannelIndex = 0
+        TextureName = T_Crystal
+    }
+    TextureStreamingData[2] =
+    {
+        SamplingScale = 1.90289
+        UVChannelIndex = 0
+        TextureName = T_Inky_Smoke_Tile
+    }
+    TextureStreamingData[3] =
+    {
+        SamplingScale = 0.5
+        UVChannelIndex = 1
+        TextureName = T_Inky_Smoke_Tile
+    }
+    TextureStreamingData[4] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_Ramp_Smooth_Reverse
+    }
+    TextureStreamingData[5] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_Ribbon_Ramp
+    }
+    TextureStreamingData[6] =
+    {
+        SamplingScale = 4
+        UVChannelIndex = 0
+        TextureName = T_WaterNoise
+    }
+    TextureStreamingData[7] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = TilingNoise06
+    }
+}

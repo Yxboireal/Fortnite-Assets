@@ -1,0 +1,67 @@
+Skeleton = Skeleton'/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Summer_Popsicle/Meshes/F_MED_Summer_Popsicle_Pack_Skeleton.F_MED_Summer_Popsicle_Pack_Skeleton'
+bHasVertexColors = false
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[7] =
+{
+    MorphTargets[0] = MorphTarget'/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Summer_Popsicle/Meshes/F_MED_Summer_Popsicle_Pack.Popsicle_Stage2_LOD0Shape'
+    MorphTargets[1] = MorphTarget'/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Summer_Popsicle/Meshes/F_MED_Summer_Popsicle_Pack.Popsicle_Stage3_LOD0Shape'
+    MorphTargets[2] = MorphTarget'/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Summer_Popsicle/Meshes/F_MED_Summer_Popsicle_Pack.MorphTarget_0'
+    MorphTargets[3] = MorphTarget'/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Summer_Popsicle/Meshes/F_MED_Summer_Popsicle_Pack.MorphTarget_1'
+    MorphTargets[4] = MorphTarget'/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Summer_Popsicle/Meshes/F_MED_Summer_Popsicle_Pack.MorphTarget_2'
+    MorphTargets[5] = MorphTarget'/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Summer_Popsicle/Meshes/F_MED_Summer_Popsicle_Pack.MorphTarget_3'
+    MorphTargets[6] = MorphTarget'/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Summer_Popsicle/Meshes/F_MED_Summer_Popsicle_Pack.MorphTarget_4'
+}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

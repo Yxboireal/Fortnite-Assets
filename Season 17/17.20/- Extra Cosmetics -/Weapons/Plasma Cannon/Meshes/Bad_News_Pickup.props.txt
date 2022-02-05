@@ -1,0 +1,26 @@
+Materials[1] =
+{
+    Materials[0] = MaterialInstanceConstant'/FortniteGame/Plugins/GameFeatures/MotherGameplay/Content/Items/BadNews/Assets/Materials/MI_Bad_News.MI_Bad_News'
+}
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = MaterialInstanceConstant'/FortniteGame/Plugins/GameFeatures/MotherGameplay/Content/Items/BadNews/Assets/Materials/MI_Bad_News.MI_Bad_News'
+        MaterialSlotName = MI_Bad_News
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 53.9698, 0, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=1.97145, Y=17.6369, Z=7.65561 }
+    BoxExtent = { X=4.8601, Y=15.9832, Z=15.0393 }
+    SphereRadius = 19.0544
+}

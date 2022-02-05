@@ -1,0 +1,90 @@
+Skeleton = Skeleton'/Game/Characters/Player/Male/Medium/Bodies/M_MED_Cat_Burglar/Meshes/Parts/M_MED_Cat_Burglar_Human_FaceAcc_Skeleton.M_MED_Cat_Burglar_Human_FaceAcc_Skeleton'
+bHasVertexColors = false
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[14] =
+        {
+            BonesToRemove[0] = { BoneName=hair_1_r_zero }
+            BonesToRemove[1] = { BoneName=hair_1_r }
+            BonesToRemove[2] = { BoneName=hair_1_r_2 }
+            BonesToRemove[3] = { BoneName=hair_2_r_zero }
+            BonesToRemove[4] = { BoneName=hair_2_r }
+            BonesToRemove[5] = { BoneName=hair_2_r_2 }
+            BonesToRemove[6] = { BoneName=hair_2_r_3 }
+            BonesToRemove[7] = { BoneName=hair_3_r_zero }
+            BonesToRemove[8] = { BoneName=hair_3_r }
+            BonesToRemove[9] = { BoneName=hair_4_r_zero }
+            BonesToRemove[10] = { BoneName=hair_4_r }
+            BonesToRemove[11] = { BoneName=hair_5_r_zero }
+            BonesToRemove[12] = { BoneName=hair_5_r }
+            BonesToRemove[13] = { BoneName=hair_lower }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[14] =
+        {
+            BonesToRemove[0] = { BoneName=hair_1_r_zero }
+            BonesToRemove[1] = { BoneName=hair_1_r }
+            BonesToRemove[2] = { BoneName=hair_1_r_2 }
+            BonesToRemove[3] = { BoneName=hair_2_r_zero }
+            BonesToRemove[4] = { BoneName=hair_2_r }
+            BonesToRemove[5] = { BoneName=hair_2_r_2 }
+            BonesToRemove[6] = { BoneName=hair_2_r_3 }
+            BonesToRemove[7] = { BoneName=hair_3_r_zero }
+            BonesToRemove[8] = { BoneName=hair_3_r }
+            BonesToRemove[9] = { BoneName=hair_4_r_zero }
+            BonesToRemove[10] = { BoneName=hair_4_r }
+            BonesToRemove[11] = { BoneName=hair_5_r_zero }
+            BonesToRemove[12] = { BoneName=hair_5_r }
+            BonesToRemove[13] = { BoneName=hair_lower }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

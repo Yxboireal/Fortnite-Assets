@@ -1,0 +1,9 @@
+Diffuse=T_Vehicle_Foray_LOD0_Interior_Dash_D
+Normal=T_Vehicle_Foray_LOD0_Interior_Dash_N
+SpecPower=T_Vehicle_Foray_LOD0_Interior_Dash_S
+Other[0]=T_Vehicle_Foray_LOD0_Interior_Dash_Mask
+Other[1]=T_Vehicle_Foray_Dash_Emissive
+Other[2]=T_Vehicle_Foray_Dash_Emissive_M
+Other[3]=T_Vehicle_Foray_LOD0_Lights_D
+Other[4]=T_Vehicle_Foray_LOD0_Lights_N
+Other[5]=T_Vehicle_Foray_LOD0_Lights_S

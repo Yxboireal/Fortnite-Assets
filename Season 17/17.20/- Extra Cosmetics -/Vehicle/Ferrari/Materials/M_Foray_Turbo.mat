@@ -1,0 +1,4 @@
+Diffuse=T_Vehicle_Foray_LOD0_Engine_D
+Normal=T_Vehicle_Foray_LOD0_Engine_N
+SpecPower=T_Vehicle_Foray_LOD0_Engine_S
+Other[0]=T_Vehicle_Foray_LOD0_Engine_AO

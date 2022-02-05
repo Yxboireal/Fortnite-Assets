@@ -1,0 +1,191 @@
+Skeleton = Skeleton'/Game/Characters/Player/Male/Medium/Heads/M_MED_AlienTrooper_Head/Meshes/Human/Male_Medium_Alien_Trooper_Head_Skeleton.Male_Medium_Alien_Trooper_Head_Skeleton'
+bHasVertexColors = true
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[2] =
+        {
+            BonesToRemove[0] = { BoneName=C_nose_bridge }
+            BonesToRemove[1] = { BoneName=tongue }
+        }
+        BonesToPrioritize[3] =
+        {
+            BonesToPrioritize[0] = { BoneName=R_eye_lid_lower_mid }
+            BonesToPrioritize[1] = { BoneName=L_eye_lid_lower_mid }
+            BonesToPrioritize[2] = { BoneName=C_lip_lower_mid }
+        }
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[60] =
+        {
+            BonesToRemove[0] = { BoneName=dyn_tentacle_clavicle_l }
+            BonesToRemove[1] = { BoneName=dyn_tentacle_clavicle_r }
+            BonesToRemove[2] = { BoneName=faceAttach }
+            BonesToRemove[3] = { BoneName=L_brow_outer }
+            BonesToRemove[4] = { BoneName=L_cheek_inner }
+            BonesToRemove[5] = { BoneName=C_lip_upper_mid }
+            BonesToRemove[6] = { BoneName=L_lip_upper_outer }
+            BonesToRemove[7] = { BoneName=dyn_l_mouth_tentacle_a_MSTR }
+            BonesToRemove[8] = { BoneName=dyn_l_mouth_tentacle_a_01 }
+            BonesToRemove[9] = { BoneName=dyn_l_mouth_tentacle_a_02 }
+            BonesToRemove[10] = { BoneName=dyn_l_mouth_tentacle_a_03 }
+            BonesToRemove[11] = { BoneName=dyn_l_mouth_tentacle_a_04 }
+            BonesToRemove[12] = { BoneName=L_lip_corner }
+            BonesToRemove[13] = { BoneName=dyn_l_mouth_tentacle_c_MSTR }
+            BonesToRemove[14] = { BoneName=dyn_l_mouth_tentacle_c_01 }
+            BonesToRemove[15] = { BoneName=dyn_l_mouth_tentacle_c_02 }
+            BonesToRemove[16] = { BoneName=dyn_l_mouth_tentacle_c_03 }
+            BonesToRemove[17] = { BoneName=dyn_l_mouth_tentacle_c_04 }
+            BonesToRemove[18] = { BoneName=C_nose_bridge }
+            BonesToRemove[19] = { BoneName=R_brow_outer }
+            BonesToRemove[20] = { BoneName=R_cheek_inner }
+            BonesToRemove[21] = { BoneName=R_lip_corner }
+            BonesToRemove[22] = { BoneName=dyn_r_mouth_tentacle_c_MSTR }
+            BonesToRemove[23] = { BoneName=dyn_r_mouth_tentacle_c_01 }
+            BonesToRemove[24] = { BoneName=dyn_r_mouth_tentacle_c_02 }
+            BonesToRemove[25] = { BoneName=dyn_r_mouth_tentacle_c_03 }
+            BonesToRemove[26] = { BoneName=dyn_r_mouth_tentacle_c_04 }
+            BonesToRemove[27] = { BoneName=dyn_r_mouth_tentacle_c_05 }
+            BonesToRemove[28] = { BoneName=C_jaw }
+            BonesToRemove[29] = { BoneName=L_lip_lower_outer }
+            BonesToRemove[30] = { BoneName=dyn_l_mouth_tentacle_b_MSTR }
+            BonesToRemove[31] = { BoneName=dyn_l_mouth_tentacle_b_01 }
+            BonesToRemove[32] = { BoneName=dyn_l_mouth_tentacle_b_02 }
+            BonesToRemove[33] = { BoneName=dyn_l_mouth_tentacle_b_03 }
+            BonesToRemove[34] = { BoneName=dyn_l_mouth_tentacle_b_04 }
+            BonesToRemove[35] = { BoneName=C_lip_lower_mid }
+            BonesToRemove[36] = { BoneName=R_lip_lower_outer }
+            BonesToRemove[37] = { BoneName=dyn_r_mouth_tentacle_b_MSTR }
+            BonesToRemove[38] = { BoneName=dyn_r_mouth_tentacle_b_01 }
+            BonesToRemove[39] = { BoneName=dyn_r_mouth_tentacle_b_02 }
+            BonesToRemove[40] = { BoneName=dyn_r_mouth_tentacle_b_03 }
+            BonesToRemove[41] = { BoneName=dyn_r_mouth_tentacle_b_04 }
+            BonesToRemove[42] = { BoneName=tongue }
+            BonesToRemove[43] = { BoneName=dyn_r_mouth_tongue_MSTR }
+            BonesToRemove[44] = { BoneName=dyn_r_mouth_tongue }
+            BonesToRemove[45] = { BoneName=dyn_r_mouth_tongue_01 }
+            BonesToRemove[46] = { BoneName=dyn_l_mouth_tongue_MSTR }
+            BonesToRemove[47] = { BoneName=dyn_l_mouth_tongue }
+            BonesToRemove[48] = { BoneName=dyn_l_mouth_tongue_01 }
+            BonesToRemove[49] = { BoneName=R_eye }
+            BonesToRemove[50] = { BoneName=R_eye_lid_lower_mid }
+            BonesToRemove[51] = { BoneName=L_eye }
+            BonesToRemove[52] = { BoneName=L_eye_lid_lower_mid }
+            BonesToRemove[53] = { BoneName=R_lip_upper_outer }
+            BonesToRemove[54] = { BoneName=dyn_r_mouth_tentacle_a_MSTR }
+            BonesToRemove[55] = { BoneName=dyn_r_mouth_tentacle_a_01 }
+            BonesToRemove[56] = { BoneName=dyn_r_mouth_tentacle_a_02 }
+            BonesToRemove[57] = { BoneName=dyn_r_mouth_tentacle_a_03 }
+            BonesToRemove[58] = { BoneName=dyn_r_mouth_tentacle_a_04 }
+            BonesToRemove[59] = { BoneName=dyn_tentacle_spine_05 }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[60] =
+        {
+            BonesToRemove[0] = { BoneName=dyn_tentacle_clavicle_l }
+            BonesToRemove[1] = { BoneName=dyn_tentacle_clavicle_r }
+            BonesToRemove[2] = { BoneName=faceAttach }
+            BonesToRemove[3] = { BoneName=L_brow_outer }
+            BonesToRemove[4] = { BoneName=L_cheek_inner }
+            BonesToRemove[5] = { BoneName=C_lip_upper_mid }
+            BonesToRemove[6] = { BoneName=L_lip_upper_outer }
+            BonesToRemove[7] = { BoneName=dyn_l_mouth_tentacle_a_MSTR }
+            BonesToRemove[8] = { BoneName=dyn_l_mouth_tentacle_a_01 }
+            BonesToRemove[9] = { BoneName=dyn_l_mouth_tentacle_a_02 }
+            BonesToRemove[10] = { BoneName=dyn_l_mouth_tentacle_a_03 }
+            BonesToRemove[11] = { BoneName=dyn_l_mouth_tentacle_a_04 }
+            BonesToRemove[12] = { BoneName=L_lip_corner }
+            BonesToRemove[13] = { BoneName=dyn_l_mouth_tentacle_c_MSTR }
+            BonesToRemove[14] = { BoneName=dyn_l_mouth_tentacle_c_01 }
+            BonesToRemove[15] = { BoneName=dyn_l_mouth_tentacle_c_02 }
+            BonesToRemove[16] = { BoneName=dyn_l_mouth_tentacle_c_03 }
+            BonesToRemove[17] = { BoneName=dyn_l_mouth_tentacle_c_04 }
+            BonesToRemove[18] = { BoneName=C_nose_bridge }
+            BonesToRemove[19] = { BoneName=R_brow_outer }
+            BonesToRemove[20] = { BoneName=R_cheek_inner }
+            BonesToRemove[21] = { BoneName=R_lip_corner }
+            BonesToRemove[22] = { BoneName=dyn_r_mouth_tentacle_c_MSTR }
+            BonesToRemove[23] = { BoneName=dyn_r_mouth_tentacle_c_01 }
+            BonesToRemove[24] = { BoneName=dyn_r_mouth_tentacle_c_02 }
+            BonesToRemove[25] = { BoneName=dyn_r_mouth_tentacle_c_03 }
+            BonesToRemove[26] = { BoneName=dyn_r_mouth_tentacle_c_04 }
+            BonesToRemove[27] = { BoneName=dyn_r_mouth_tentacle_c_05 }
+            BonesToRemove[28] = { BoneName=C_jaw }
+            BonesToRemove[29] = { BoneName=L_lip_lower_outer }
+            BonesToRemove[30] = { BoneName=dyn_l_mouth_tentacle_b_MSTR }
+            BonesToRemove[31] = { BoneName=dyn_l_mouth_tentacle_b_01 }
+            BonesToRemove[32] = { BoneName=dyn_l_mouth_tentacle_b_02 }
+            BonesToRemove[33] = { BoneName=dyn_l_mouth_tentacle_b_03 }
+            BonesToRemove[34] = { BoneName=dyn_l_mouth_tentacle_b_04 }
+            BonesToRemove[35] = { BoneName=C_lip_lower_mid }
+            BonesToRemove[36] = { BoneName=R_lip_lower_outer }
+            BonesToRemove[37] = { BoneName=dyn_r_mouth_tentacle_b_MSTR }
+            BonesToRemove[38] = { BoneName=dyn_r_mouth_tentacle_b_01 }
+            BonesToRemove[39] = { BoneName=dyn_r_mouth_tentacle_b_02 }
+            BonesToRemove[40] = { BoneName=dyn_r_mouth_tentacle_b_03 }
+            BonesToRemove[41] = { BoneName=dyn_r_mouth_tentacle_b_04 }
+            BonesToRemove[42] = { BoneName=tongue }
+            BonesToRemove[43] = { BoneName=dyn_r_mouth_tongue_MSTR }
+            BonesToRemove[44] = { BoneName=dyn_r_mouth_tongue }
+            BonesToRemove[45] = { BoneName=dyn_r_mouth_tongue_01 }
+            BonesToRemove[46] = { BoneName=dyn_l_mouth_tongue_MSTR }
+            BonesToRemove[47] = { BoneName=dyn_l_mouth_tongue }
+            BonesToRemove[48] = { BoneName=dyn_l_mouth_tongue_01 }
+            BonesToRemove[49] = { BoneName=R_eye }
+            BonesToRemove[50] = { BoneName=R_eye_lid_lower_mid }
+            BonesToRemove[51] = { BoneName=L_eye }
+            BonesToRemove[52] = { BoneName=L_eye_lid_lower_mid }
+            BonesToRemove[53] = { BoneName=R_lip_upper_outer }
+            BonesToRemove[54] = { BoneName=dyn_r_mouth_tentacle_a_MSTR }
+            BonesToRemove[55] = { BoneName=dyn_r_mouth_tentacle_a_01 }
+            BonesToRemove[56] = { BoneName=dyn_r_mouth_tentacle_a_02 }
+            BonesToRemove[57] = { BoneName=dyn_r_mouth_tentacle_a_03 }
+            BonesToRemove[58] = { BoneName=dyn_r_mouth_tentacle_a_04 }
+            BonesToRemove[59] = { BoneName=dyn_tentacle_spine_05 }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

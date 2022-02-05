@@ -1,0 +1,10 @@
+Diffuse=RT_Tex9
+Normal=03_WaterFoam_Veroni_base_N
+Opacity=03_WaterFoam_Veroni_base_H
+Emissive=T_WaterEmissiveMask
+Other[0]=T_SwirlNoise_N_height
+Other[1]=RT_Tex11
+Other[2]=Good64x64TilingNoiseHighFreq
+Other[3]=T_Water_TilingNormal_Waves_01
+Other[4]=HighContrastNoise
+Other[5]=T_AthenaSkylight

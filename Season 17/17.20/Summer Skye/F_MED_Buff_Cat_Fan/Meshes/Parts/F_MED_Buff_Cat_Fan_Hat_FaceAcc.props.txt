@@ -1,0 +1,92 @@
+Skeleton = Skeleton'/Game/Characters/Player/Female/Medium/Bodies/F_MED_Buff_Cat_Fan_Hat/Meshes/Parts/F_MED_Buff_Cat_Fan_Hat_FaceAcc_Skeleton.F_MED_Buff_Cat_Fan_Hat_FaceAcc_Skeleton'
+bHasVertexColors = false
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[15] =
+        {
+            BonesToRemove[0] = { BoneName=Dyn_Master_Hair }
+            BonesToRemove[1] = { BoneName=Dyn_Front_Part }
+            BonesToRemove[2] = { BoneName=Dyn_Right_Bun }
+            BonesToRemove[3] = { BoneName=Dyn_Left_Bun }
+            BonesToRemove[4] = { BoneName=Dyn_EarStrand_r }
+            BonesToRemove[5] = { BoneName=Dyn_EarStrand_l }
+            BonesToRemove[6] = { BoneName=Dyn_EarStrand_l2 }
+            BonesToRemove[7] = { BoneName=Dyn_HairPart_Clips }
+            BonesToRemove[8] = { BoneName=Dyn_Backstrand_r }
+            BonesToRemove[9] = { BoneName=Dyn_Backstrand_l }
+            BonesToRemove[10] = { BoneName=Dyn_EarStrand_l1 }
+            BonesToRemove[11] = { BoneName=Dyn_MasterBack_Hair }
+            BonesToRemove[12] = { BoneName=Dyn_Back_Hair1 }
+            BonesToRemove[13] = { BoneName=Dyn_Back_Hair2 }
+            BonesToRemove[14] = { BoneName=Dyn_Back_Hair3 }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[15] =
+        {
+            BonesToRemove[0] = { BoneName=Dyn_Master_Hair }
+            BonesToRemove[1] = { BoneName=Dyn_Front_Part }
+            BonesToRemove[2] = { BoneName=Dyn_Right_Bun }
+            BonesToRemove[3] = { BoneName=Dyn_Left_Bun }
+            BonesToRemove[4] = { BoneName=Dyn_EarStrand_r }
+            BonesToRemove[5] = { BoneName=Dyn_EarStrand_l }
+            BonesToRemove[6] = { BoneName=Dyn_EarStrand_l2 }
+            BonesToRemove[7] = { BoneName=Dyn_HairPart_Clips }
+            BonesToRemove[8] = { BoneName=Dyn_Backstrand_r }
+            BonesToRemove[9] = { BoneName=Dyn_Backstrand_l }
+            BonesToRemove[10] = { BoneName=Dyn_EarStrand_l1 }
+            BonesToRemove[11] = { BoneName=Dyn_MasterBack_Hair }
+            BonesToRemove[12] = { BoneName=Dyn_Back_Hair1 }
+            BonesToRemove[13] = { BoneName=Dyn_Back_Hair2 }
+            BonesToRemove[14] = { BoneName=Dyn_Back_Hair3 }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

@@ -1,0 +1,11 @@
+Diffuse=AllBlack
+Normal=T_Vehicle_Nevada_B_N
+Emissive=T_Vehicle_Nevada_B_E
+Other[0]=T_B_MSK
+Other[1]=T_BrushedMetal_Detail_N
+Other[2]=T_rear_wall_N
+Other[3]=T_rearwall_MSK
+Other[4]=T_Skyfire_PackA
+Other[5]=T_Skyfire_PackB
+Other[6]=ValetDamage_AO
+Other[7]=ValetDamage_N

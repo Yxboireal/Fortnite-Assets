@@ -1,0 +1,4 @@
+Diffuse=DefaultTexture
+Emissive=T_CubeNinja_Trail
+Other[0]=RefractionNoise
+Other[1]=T_PlasmaUV_Mask

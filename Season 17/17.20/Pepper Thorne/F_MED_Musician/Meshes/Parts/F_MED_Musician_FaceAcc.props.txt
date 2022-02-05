@@ -1,0 +1,114 @@
+Skeleton = Skeleton'/Game/Characters/Player/Female/Medium/Bodies/F_MED_Musician/Meshes/Parts/F_MED_Musician_FaceAcc_Skeleton.F_MED_Musician_FaceAcc_Skeleton'
+bHasVertexColors = true
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[3] = { 0, 1, 2 }
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[26] =
+        {
+            BonesToRemove[0] = { BoneName=faceAttach }
+            BonesToRemove[1] = { BoneName=L_cheek_inner }
+            BonesToRemove[2] = { BoneName=R_cheek_inner }
+            BonesToRemove[3] = { BoneName=dyn_hair_MSTR }
+            BonesToRemove[4] = { BoneName=dyn_hair_01 }
+            BonesToRemove[5] = { BoneName=dyn_hair_02 }
+            BonesToRemove[6] = { BoneName=dyn_hair_03 }
+            BonesToRemove[7] = { BoneName=dyn_hair_bl }
+            BonesToRemove[8] = { BoneName=dyn_hair_br_MSTR }
+            BonesToRemove[9] = { BoneName=dyn_hair_br }
+            BonesToRemove[10] = { BoneName=dyn_hair_MSTR_r }
+            BonesToRemove[11] = { BoneName=dyn_hair_01_r }
+            BonesToRemove[12] = { BoneName=dyn_hair_02_r }
+            BonesToRemove[13] = { BoneName=dyn_hair_03_r }
+            BonesToRemove[14] = { BoneName=dyn_hair_04_r }
+            BonesToRemove[15] = { BoneName=dyn_hair_03_r1 }
+            BonesToRemove[16] = { BoneName=dyn_hair_03_r2 }
+            BonesToRemove[17] = { BoneName=dyn_hair_MSTR_l }
+            BonesToRemove[18] = { BoneName=dyn_hair_01_l }
+            BonesToRemove[19] = { BoneName=dyn_hair_02_l }
+            BonesToRemove[20] = { BoneName=dyn_hair_03_l }
+            BonesToRemove[21] = { BoneName=dyn_hair_04_l }
+            BonesToRemove[22] = { BoneName=dyn_hair_03_l1 }
+            BonesToRemove[23] = { BoneName=dyn_hair_03_l2 }
+            BonesToRemove[24] = { BoneName=dyn_hat }
+            BonesToRemove[25] = { BoneName=dyn_glasses }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[26] =
+        {
+            BonesToRemove[0] = { BoneName=faceAttach }
+            BonesToRemove[1] = { BoneName=L_cheek_inner }
+            BonesToRemove[2] = { BoneName=R_cheek_inner }
+            BonesToRemove[3] = { BoneName=dyn_hair_MSTR }
+            BonesToRemove[4] = { BoneName=dyn_hair_01 }
+            BonesToRemove[5] = { BoneName=dyn_hair_02 }
+            BonesToRemove[6] = { BoneName=dyn_hair_03 }
+            BonesToRemove[7] = { BoneName=dyn_hair_bl }
+            BonesToRemove[8] = { BoneName=dyn_hair_br_MSTR }
+            BonesToRemove[9] = { BoneName=dyn_hair_br }
+            BonesToRemove[10] = { BoneName=dyn_hair_MSTR_r }
+            BonesToRemove[11] = { BoneName=dyn_hair_01_r }
+            BonesToRemove[12] = { BoneName=dyn_hair_02_r }
+            BonesToRemove[13] = { BoneName=dyn_hair_03_r }
+            BonesToRemove[14] = { BoneName=dyn_hair_04_r }
+            BonesToRemove[15] = { BoneName=dyn_hair_03_r1 }
+            BonesToRemove[16] = { BoneName=dyn_hair_03_r2 }
+            BonesToRemove[17] = { BoneName=dyn_hair_MSTR_l }
+            BonesToRemove[18] = { BoneName=dyn_hair_01_l }
+            BonesToRemove[19] = { BoneName=dyn_hair_02_l }
+            BonesToRemove[20] = { BoneName=dyn_hair_03_l }
+            BonesToRemove[21] = { BoneName=dyn_hair_04_l }
+            BonesToRemove[22] = { BoneName=dyn_hair_03_l1 }
+            BonesToRemove[23] = { BoneName=dyn_hair_03_l2 }
+            BonesToRemove[24] = { BoneName=dyn_hat }
+            BonesToRemove[25] = { BoneName=dyn_glasses }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

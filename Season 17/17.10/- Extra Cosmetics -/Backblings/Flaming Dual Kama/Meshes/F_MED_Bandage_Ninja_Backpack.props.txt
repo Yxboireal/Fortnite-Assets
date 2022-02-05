@@ -1,0 +1,97 @@
+Skeleton = Skeleton'/Game/Accessories/FORT_Backpacks/F_MED_Bandage_NInja_Backpack/Meshes/F_MED_Bandage_Ninja_Backpack_Skeleton.F_MED_Bandage_Ninja_Backpack_Skeleton'
+bHasVertexColors = false
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[4] =
+{
+    Sockets[0] =
+    {
+        SocketName = FirePointL1
+        BoneName = dyn_l_bandage_04
+        RelativeLocation = { X=0, Y=0, Z=0 }
+        RelativeRotation = { Yaw=1119092736, Pitch=0, Roll=1119092736 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[1] =
+    {
+        SocketName = FirePointR1
+        BoneName = dyn_r_bandage_04
+        RelativeLocation = { X=0, Y=0, Z=0 }
+        RelativeRotation = { Yaw=1119092736, Pitch=0, Roll=1119092736 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[2] =
+    {
+        SocketName = FirePointL2
+        BoneName = backpack_root
+        RelativeLocation = { X=11.9721, Y=-3.7, Z=-11.049 }
+        RelativeRotation =
+        {
+            Yaw = -1028390919
+            Pitch = -1192001074
+            Roll = 1119092729
+        }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[3] =
+    {
+        SocketName = FirePointR2
+        BoneName = backpack_root
+        RelativeLocation = { X=11.0071, Y=-5.90004, Z=10.5945 }
+        RelativeRotation = { Yaw=-1028390912, Pitch=0, Roll=1119092736 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

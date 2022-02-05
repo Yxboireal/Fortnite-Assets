@@ -1,0 +1,5 @@
+Diffuse=T_Vehicle_Foray_LOD0_Lights_D
+Normal=T_Vehicle_Foray_LOD0_Lights_N
+SpecPower=T_Vehicle_Foray_LOD0_Lights_S
+Emissive=T_Vehicle_Foray_Dash_Emissive
+Other[0]=T_Vehicle_Foray_Dash_Emissive_M

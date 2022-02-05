@@ -1,0 +1,26 @@
+Materials[1] =
+{
+    Materials[0] = Material3'/Game/Weapons/FORT_Melee/Pickaxe_Dojo_Male_1H/FX/M_Pickaxe_Dojo_M_1h_Sheen.M_Pickaxe_Dojo_M_1h_Sheen'
+}
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = Material3'/Game/Weapons/FORT_Melee/Pickaxe_Dojo_Male_1H/FX/M_Pickaxe_Dojo_M_1h_Sheen.M_Pickaxe_Dojo_M_1h_Sheen'
+        MaterialSlotName = WorldGridMaterial
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 32.0703, 0, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=-0.150095, Y=0, Z=50.4439 }
+    BoxExtent = { X=5.22246, Y=0.698746, Z=40.5481 }
+    SphereRadius = 40.8844
+}

@@ -1,0 +1,26 @@
+Materials[1] =
+{
+    Materials[0] = MaterialInstanceConstant'/Game/Weapons/FORT_Melee/Pickaxe_Linguini_Male/FX/MI_Linguini_Gem_Glow_01.MI_Linguini_Gem_Glow_01'
+}
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = MaterialInstanceConstant'/Game/Weapons/FORT_Melee/Pickaxe_Linguini_Male/FX/MI_Linguini_Gem_Glow_01.MI_Linguini_Gem_Glow_01'
+        MaterialSlotName = MI_Pickaxe_Linguini_Male
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 11.3119, 0, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=0, Y=0, Z=2.0504e-05 }
+    BoxExtent = { X=2.84786, Y=2.84785, Z=4.3833 }
+    SphereRadius = 4.3833
+}

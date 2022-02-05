@@ -1,0 +1,124 @@
+Skeleton = Skeleton'/Game/Gadgets/Assets/VinderTech_GliderChute/Glider_Ruckus_Male/Meshes/Ruckus_Male_Glider_Skeleton.Ruckus_Male_Glider_Skeleton'
+bHasVertexColors = true
+LODInfo[4] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = "D:/dp_fortressartsource/depot/FortressArtSource/assets/Glider/Ruckus_Male/Rig/Ruckus_Male_Glider.fbx"
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[3] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+MorphTargets[0] = {}
+Sockets[8] =
+{
+    Sockets[0] =
+    {
+        SocketName = FX_Thruster_R
+        BoneName = JNT_r_booster
+        RelativeLocation = { X=-6.29727, Y=52.0602, Z=0.000518792 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[1] =
+    {
+        SocketName = FX_Thruster_L
+        BoneName = JNT_L_booster
+        RelativeLocation = { X=10.5832, Y=-52.416, Z=-0.000167847 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[2] =
+    {
+        SocketName = FX_Speedlines_01
+        BoneName = Body
+        RelativeLocation = { X=-143.164, Y=-15.399, Z=9.15527e-05 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[3] =
+    {
+        SocketName = FX_Speedlines_02
+        BoneName = Body
+        RelativeLocation = { X=-58.0397, Y=-14.8012, Z=86.2541 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[4] =
+    {
+        SocketName = FX_Speedlines_03
+        BoneName = Body
+        RelativeLocation = { X=67.1512, Y=-6.25523, Z=71.5285 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[5] =
+    {
+        SocketName = FX_Speedlines_04
+        BoneName = Body
+        RelativeLocation = { X=140.209, Y=-28.7851, Z=-0.0118599 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[6] =
+    {
+        SocketName = FX_Speedlines_05
+        BoneName = Body
+        RelativeLocation = { X=144.515, Y=30.8737, Z=55.1804 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[7] =
+    {
+        SocketName = FX_Speedlines_06
+        BoneName = Body
+        RelativeLocation = { X=-104.323, Y=30.8732, Z=64.3427 }
+        RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[4] = { , , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

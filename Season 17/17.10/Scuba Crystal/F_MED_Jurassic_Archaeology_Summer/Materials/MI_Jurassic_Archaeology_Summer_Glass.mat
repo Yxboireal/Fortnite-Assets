@@ -1,0 +1,7 @@
+Diffuse=T_F_MED_Jurassic_Archaeology_FaceAcc_N
+Normal=T_F_MED_Jurassic_Archaeology_FaceAcc_N
+Other[0]=FlatNormal
+Other[1]=AllBlackMasks
+Other[2]=AllBlack
+Other[3]=T_Noise_Normal_01
+Other[4]=SolidBlack

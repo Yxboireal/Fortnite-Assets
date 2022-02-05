@@ -1,0 +1,38 @@
+Materials[2] =
+{
+    Materials[0] = MaterialInstanceConstant'/Game/Gadgets/Assets/Goop/Materials/MI_Gadget_Goop.MI_Gadget_Goop'
+    Materials[1] = MaterialInstanceConstant'/Game/Gadgets/Assets/Goop/Materials/MI_Gadget_Goop.MI_Gadget_Goop'
+}
+SourceModels[0] = {}
+StaticMaterials[2] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = MaterialInstanceConstant'/Game/Gadgets/Assets/Goop/Materials/MI_Gadget_Goop.MI_Gadget_Goop'
+        MaterialSlotName = MI_Gadget_Goop
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 52.3814, 0, 0, 0 }
+        }
+    }
+    StaticMaterials[1] =
+    {
+        MaterialInterface = MaterialInstanceConstant'/Game/Gadgets/Assets/Goop/Materials/MI_Gadget_Goop.MI_Gadget_Goop'
+        MaterialSlotName = MI_Gadget_Goop_ncl1_1
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 52.5611, 0, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=0.00999975, Y=9.53674e-07, Z=0.714999 }
+    BoxExtent = { X=7.28801, Y=7.27801, Z=7.98301 }
+    SphereRadius = 13.0089
+}
